@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-15 12:18+0200\n"
-"PO-Revision-Date: 2005-05-30 15:37+0200\n"
+"PO-Revision-Date: 2005-05-31 01:15+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1962,7 +1962,7 @@ msgstr ""
 "Fred, vänner! Jag har ridit i dagar för att förhindra detta! Eldred, jag har "
 "direkta order från kungen att ta dig tillbaka till palatset, där du skall få "
 "sona för dina oursäktliga handlingar. Kalenz, kungen sänder sina djupaste "
-"ursäkter för dessa händelser och lovar att han ska göra vad som ligger i "
+"ursäkter för dessa händelser och lovar att han skall göra vad som ligger i "
 "hans makt för att återgälda er."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:205
@@ -1986,7 +1986,7 @@ msgstr "Vi kom för sent! Allt är förlorat!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:3
 msgid "Revelations"
-msgstr ""
+msgstr "Avslöjanden"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:68
 msgid ""
@@ -1995,12 +1995,18 @@ msgid ""
 "come to Thoria. Yet these are no ordinary times for this land. I know it "
 "all. I have foreseen this would happen."
 msgstr ""
+"Så det var ni som besegrade Aquagar och hans draktrupper. Du måste vara "
+"Olurf, som har varit här förut när vi var mycket yngre. Men alver har aldrig "
+"varit i Thoria förut. Men detta är oroliga tider. Jag känner till alltihop. "
+"Jag har förutspått att detta skulle ske."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:73
 msgid ""
 "This is Kalenz, leader of the elves. I have brought him here so he can ask "
 "for your advice and your help to deal with the orcs."
 msgstr ""
+"Detta är Kalenz, alvernas ledare. Jag har tagit med honom hit så att han kan "
+"fråga dig om råd och be dig om hjälp för att besegra orcherna."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:78
 msgid ""
@@ -2009,24 +2015,32 @@ msgid ""
 "they are growing stronger every day. You are fighting destiny. But for the "
 "moment you have managed to divert their attention."
 msgstr ""
+"Alver, ni har stridit med stort mod och vunnit en stor seger i Wesmeres "
+"skog. Ändå är inte styrkorna som är över er besegrade ännu. De växer sig "
+"starkare för varje dag. Ni strider mot ödet. För ögonblicket har ni dock "
+"lyckats avleda deras uppmärksamhet."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:83
 msgid "What do you mean  divert their attention?"
-msgstr ""
+msgstr "Vad menar du med att vi har avlett deras uppmärksamhet?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:88
 msgid ""
 "You cannot even imagine it. Why do you think orcs came all the way here  to "
 "attack you?"
 msgstr ""
+"Ni kan inte ens föreställa er det. Varför tror ni orcherna kom hela den här "
+"vägen för att anfalla er?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:93
 msgid "Because they are orcs! Look old man, can you help us beat them or not?"
 msgstr ""
+"För att de är orcher! Hör nu, gamle man, kan du hjälpa oss att besegra dem, "
+"eller inte?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:98
 msgid "You must be Landar, very brave, but also very brash. "
-msgstr ""
+msgstr "Du måste vara Landar; mycket modig, men också mycket högfärdig."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:104
 msgid ""
@@ -2034,28 +2048,33 @@ msgid ""
 "you are talking about. Olurf tells me you are very wise, but only help for a "
 "price. If that's what you want, just name it."
 msgstr ""
+"Landar är högfärdig, men detta är därför vi kom hit. Jag förstår inte heller "
+"vad du talar om. Olurf säger att du är mycket vis, men att din hjälp har ett "
+"pris. Om det är vad du vill ha, så nämn ditt pris."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:109
 msgid "Are you saying the Orcs attacked us looking for something?"
-msgstr ""
+msgstr "Påstår du att orcherna anföll oss av en särskild anledning?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:114
 msgid "Yes, that is what I am saying"
-msgstr ""
+msgstr "Ja, det är det jag säger."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:119
 msgid ""
 "It makes sense now: The Saurians were asking about a dastone and also after "
 "we won in Wesmere there was an Orc mumbling something about a dastone.."
 msgstr ""
+"Nu förstår jag: ödlefolket frågade om någon sten och efter att vi vunnit i "
+"Wesmere mumlade också någon orch om en sten..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:124
 msgid "It's not a dastone, it's the stone: The mean the ruby of fire..."
-msgstr ""
+msgstr "Ja, de syftar på Eldrubinen..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:129
 msgid "What's that and what does it have to do with us?"
-msgstr ""
+msgstr "Vad är det och vad har det med oss att göra?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:134
 msgid ""
@@ -2064,12 +2083,18 @@ msgid ""
 "it. But now they suspect they have been fooled. Haldric is going to pay for "
 "his arrogance."
 msgstr ""
+"Det är källan till alla era problem. Detta är en mycket mäktig artefakt, som "
+"är i Haldric tyrannens ägo. Har har lurat i orcherna att alverna har den. "
+"Men nu misstänker de att de blivit förda bakom ljuset. Haldric kommer att få "
+"betala för sin arrogans."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:139
 msgid ""
 "Hmm... You seem to like king Haldric even less than elves...How do you know "
 "all these?"
 msgstr ""
+"Hmm... Du verkar tycka sämre om Haldric än alver... Hur känner du till allt "
+"detta?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:144
 msgid ""
@@ -2079,36 +2104,49 @@ msgid ""
 "master can handle it outside of battle. Unshielded, its magical radiance "
 "changes Haldric everytime he comes close to it."
 msgstr ""
+"Det var han som förvisade mig från Wesnoth. Det påstås att jag försökte "
+"stjäla rubinen och blev för mäktig... Sanningen är att denna rubin gör "
+"Haldric mer och mer arrogant för varje dag. Vem som helst kan använda den i "
+"strid, men bara en sann mästare kan handha den utanför strid. Oskärmad så "
+"förändrar dess magiska strålglans Haldric varje gång han kommer nära den."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:149
 msgid "So the orcs will now attack the humans?"
-msgstr ""
+msgstr "Så orcherna kommer nu att anfalla människorna?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:154
 msgid "Yes, but after they win you're next and so are dwarves"
 msgstr ""
+"Ja, men efter att de vunnit där, så är det alvernas och dvärgarnas tur."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:159
 msgid "Don't worry about us. You seem to have some problems of your own."
-msgstr ""
+msgstr "Oroa dig inte över oss. Du verkar ha egna problem."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:164
 msgid ""
 "You obviously know a lot. But can you help us? Is there a way to stop the "
 "orcs?"
 msgstr ""
+"Du verkar veta en hel del. Men kan du hjälpa oss? Kan vi hejda orcherna på "
+"något sätt?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:169
 msgid ""
 "You cannot defeat them with the forces you have now. You can only gain time, "
 "maybe this will be enough for you to grow strong enough again."
 msgstr ""
+"Ni kan inte besegra dem med de styrkor ni har nu. Ni kan bara köpa er tid; "
+"kanske kommer det att vara tillräckligt för att samla nog med styrka."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:174
 msgid ""
 "How? Don't tell me we had to fight the Saurians, cross Arkan-Thoria with all "
 "its sea monsters and fight trolls and yetis to come here for nothing!"
 msgstr ""
+"Hur då? Säg inte att vi stred mot ödlefolket, korsade Arkan-Thoria med alla "
+"sjömonster och slogs mot troll och snömän för att inte få med oss något "
+"tillbaka!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:179
 msgid ""
@@ -2117,18 +2155,22 @@ msgid ""
 "take their king's place, and you will be safe until they have a new strong "
 "leader to unite them."
 msgstr ""
+"Ni måste döda deras kung och få det att se ut som att han var dödade av "
+"orcher. Då kommer orcherna att starta inbördeskrig eftersom många vill ta "
+"hans plats. Ni kommer att vara säkra tills de har en ny stark ledare som kan "
+"ena dem på nytt."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:184
 msgid "Kill an orcish King? But he's guarded  better than  a Troll hole!"
-msgstr ""
+msgstr "Döda en orchkung? Men han är bättre bevakad än en trollhåla!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:189
 msgid "Indeed it will be very hard, but maybe I can help you..."
-msgstr ""
+msgstr "Det blir mycket svårt, men jag kanske kan hjälpa er..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:194
 msgid "But you want something in return..."
-msgstr ""
+msgstr "Men du vill ha något i gengäld..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:199
 msgid ""
@@ -2139,21 +2181,30 @@ msgid ""
 "Although Aquagar is slain, more will come. One of my associates has betrayed "
 "me. Now too many know of this book"
 msgstr ""
+"Så sant. Drakfolket är efter min bok. Boken innehåller alla magi, alla "
+"filter och alla besvärjelser som jag känner till. De är mycket kraftfulla, "
+"men hindrar mig inte från att åldras. De bara lockar mig att förlänga mitt "
+"liv med onda och mörka medel... Ändock är detta mitt livsverk och jag vågar "
+"inte förstöra den. Även om Aquagar är död, så kommer fler att komma efter "
+"den. En av de mina har förrått mig. Nu känner alltför många till boken."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:204
 msgid "If you come with us, we will protect you..."
-msgstr ""
+msgstr "Om du följer med oss, så kan vi skydda dig..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:209
 msgid ""
 "No, my time is up... But you can make sure my book ends up in worthy hands. "
 "Someone who will not be corrupted by its power..."
 msgstr ""
+"Nej, min tid är inne... Men ni kan se till att min bok hamnar i värdiga "
+"händer. Någon som inte förleds av dess kraft..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:214
 msgid ""
 "If your book is as powerful as you say, why not use it against the orcs?"
 msgstr ""
+"Om din bok är så mäktig som du säger, varför inte använda den mot orcherna?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:219
 msgid ""
@@ -2161,27 +2212,35 @@ msgid ""
 "control the lust for power. If not, you will turn into something like "
 "Haldric or worse..."
 msgstr ""
+"Vilken fåne som helst kan använda magin i boken, men bara en sann mästare "
+"kan använda den och kontrollera maktlystnaden. Om inte blir man som Haldric "
+"eller ännu värre..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:224
 msgid ""
 "Maybe Cleodil can guard your book without being corrupted by its secrets..."
 msgstr ""
+"Kanske kan Cleodil vakta din bok utan att förledas av dess hemligheter..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:229
 msgid ""
 "I am sure all these secrets are way beyond my art. My art is the healing "
 "kind and I..."
 msgstr ""
+"Jag är säker på att alla dessa hemligheter är bortom min kunskap. Min konst "
+"är helandet och jag..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:234
 msgid "There is no other option."
-msgstr ""
+msgstr "Det är enda utvägen."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:239
 msgid ""
 "Ok, suppose Cleodil accepts to guard your book. How will you help us then "
 "slay the orcish king?"
 msgstr ""
+"Nåväl, anta att Cleodil accepterar. Hur kan du hjälpa oss att döda "
+"orchkungen då?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:244
 msgid ""
@@ -2189,12 +2248,15 @@ msgid ""
 "camp by stealth and kill their king. There is  a potion that will make you "
 "invisible for  some time."
 msgstr ""
+"Det finns ett sätt, men det är mycket farligt. Två av er kan smyga er in i "
+"orchlägret och döda kungen. Det finns ett elixir som gör er osynliga en "
+"stund."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:249
 msgid ""
 "I have never heard of something like that. I suppose you have this potion "
 "then?"
-msgstr ""
+msgstr "Detta var nyheter för mig. Då antar jag att du har det här elixiret?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:254
 msgid ""
@@ -2202,14 +2264,17 @@ msgid ""
 "powerful undead lich. It will make you invisible, but it may also have other "
 "undesirable effects, some temporary, some permament!"
 msgstr ""
+"Förvisso, men det är mycket farligt. Det är gjort av en mäktig häxmästares "
+"ögon. Det gör er osynliga, men det kan också ha andra oönskade effekter, "
+"vissa tillfälliga, andra permanenta!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:259
 msgid "No! this is too dark and dangerous!"
-msgstr ""
+msgstr "Nej! Det är för farligt!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:264
 msgid "What undesirable effects?"
-msgstr ""
+msgstr "Vilka oönskade effekter har det?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:269
 msgid ""
@@ -2219,6 +2284,11 @@ msgid ""
 "need to take a small dose and finish the job quickly. Delay and you will not "
 "only fail in your mission, but also get caught!"
 msgstr ""
+"Er fysiska styrka avtar, men i gengäld kommer ni att kunna använda magi. "
+"Cleodil visar hur. Men den riktiga faran är ondskan som kommer genomsyra era "
+"ådror. Ni måste bekämpa och bemästra den. Ni får bara ta en liten dos och "
+"avsluta uppdraget snabbt. Dröj och ni kommer inte bara att misslyckas med "
+"ert uppdrag utan också bli tillfångatagna."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:274
 msgid ""
@@ -2227,14 +2297,18 @@ msgid ""
 "I cannot make anyone else come with me, since this will be too dangerous. "
 "Does anyone volunteer?"
 msgstr ""
+"Jag tycker inte om det här, men jag ser ingen annan utväg. Vi måste sätta "
+"stopp för orcherna. Jag är en av de två som går för att döda kungen. Men jag "
+"kan inte säga till någon annan att följa med mig; detta är alltför farligt. "
+"Är det någon som ställer upp frivilligt?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:279
 msgid "I will come with you. We will not fail!"
-msgstr ""
+msgstr "Jag följer med dig. Vi kommer inte att misslyckas!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:284
 msgid "This does not seem a wise choice."
-msgstr ""
+msgstr "Det här är nog inget vist val."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:289
 msgid ""
@@ -2242,56 +2316,66 @@ msgid ""
 "should be going now, I guess. Crelanu, your book will be safe with us. We "
 "will guard it until  someone worthy of it comes along."
 msgstr ""
+"Landar kanske är högfärdig, men han är också en stor krigare och en pålitlig "
+"vän. Vi måste ge oss av nu, antar jag. Crelanu, din bok är säker med oss. Vi "
+"skall vakta den tills vi finner någon som är den värdig."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:294
 msgid ""
 "Come, I will give you and Landar a potion and show you a safe point to cross "
 "the river."
 msgstr ""
+"Kom, jag skall ge dig och Landar era drycker och visa er ett säkert ställe "
+"att korsa floden."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:4
 msgid "River crossing"
-msgstr ""
+msgstr "Överfart"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:20
 msgid "Kalenz  moved North to take the fight to Black Eye Karun..."
-msgstr ""
+msgstr "Kalenz färdades norrut för att ta striden till Svartögat Karun..."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:113
 msgid ""
 "We need to cross the river. This is probably the best chance we'll get, but "
 "we will have to fight them."
 msgstr ""
+"Vi måste korsa floden. Detta är troligen den bästa chansen vi får, men vi "
+"måste slåss mot dem."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:118
 msgid "Elfs! They must not cross!"
-msgstr ""
+msgstr "Alver! De får inte komma över!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:144
 msgid "No!"
-msgstr ""
+msgstr "Nej!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:159
 msgid "Now we can cross!"
-msgstr ""
+msgstr "Nu kan vi ta oss över!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:181
 msgid "At last, the orcs are in this land no more!"
-msgstr ""
+msgstr "Äntligen, orcherna är förgjorda!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:186
 msgid "Who is this? A speaking tree?"
-msgstr ""
+msgstr "Vem är det? Ett talande träd?"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:191
 msgid ""
 "Not a tree, I am Ur-Thorodor, protector of this place. I have not been able "
 "to prevent the orcs from desecrating this holy place."
 msgstr ""
+"Inte ett träd. Jag är Ur-Thorodor, denna plats beskyddare. Jag har inte "
+"varit framgångsrik i mina strävanden att hindra orcherna från att förröda "
+"denna heliga plats."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:196
 msgid "What is holy about this place?"
-msgstr ""
+msgstr "Vad är det som är heligt med den här platsen?"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:201
 msgid ""
@@ -2302,79 +2386,102 @@ msgid ""
 "human this worthy. He risked his life and sent his troops back to make peace "
 "with me. His name was Delfador."
 msgstr ""
+"Detta är en plats där gränsen mellan denna värld och andevärlden är mycket "
+"tunn. Det sägs att de med magiska krafter kan kommunicera med de dödas "
+"andar. En mänsklig magiker gjorde nyligen ett försök. Tyvärr kom orcherna "
+"och  störde hans meditation. Nu är han fånge i de dödas rike... Jag har "
+"aldrig sett en så värdig människa. Han riskerade sitt liv och skickade "
+"tillbaka sina trupper för att medla med mig och skapa fred. Hans namn var "
+"Delfador."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:206
 msgid ""
 "We are only seeking to attack the orcs and put a stop to their attacks. We "
 "will neither stay, nor desecrate this place."
 msgstr ""
+"Vi söker bara anfalla orcherna och sätta stopp för deras attacker. Vi skall "
+"varken stanna här eller förröda denna plats."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:211
 msgid ""
 "Then you will proceed north. But be careful, for the orcs have a large force "
 "and I also feel something is very wrong in the spirit world..."
 msgstr ""
+"Fortsätt då norrut. Men var försiktiga, för orcherna har en stor styrka och "
+"jag känner också att något i andevärlden är galet..."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:4
 msgid "The Saurian Treasury"
-msgstr ""
+msgstr "Ödlefolkets skattkammare"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:19
 msgid "You retrieve {AMOUNT} pieces of gold."
-msgstr ""
+msgstr "Du erhåller {AMOUNT} guldstycken."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:35
 msgid ""
 "Elvish scouts quickly picked up the trails of the Saurian war party and soon "
 "Kalenz's force moved in ..."
 msgstr ""
+"Alvspejare fick snabbt upp spåren efter ödlefolkets trupper och snart trädde "
+"Kalenz styrka in..."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:122
 msgid "Enter the Saurian Treasury and leave with the gold"
-msgstr ""
+msgstr "Träd in i ödlefolkets skattkammare och kom undan med guldet"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:182
 msgid ""
 "There they are. They have transferred our gold to their treasury. We must "
 "strike quickly and leave with the gold before they bring in reinforcements"
 msgstr ""
+"Där är de. De har lagt vårt guld i sin skattkammare. Vi måste slå till "
+"snabbt och ge oss av med guldet innan de kallar in förstärkningar."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:187
 msgid ""
 "The elves have followed us! We must hold the gold until reinforcements "
 "arrive."
 msgstr ""
+"Alverna har följt efter oss! Vi måste slå vakt om guldet till vi får "
+"förstärkningar!"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:225
 msgid "More Saurians are coming, we are defeated..."
-msgstr ""
+msgstr "Det kommer mer trupper, vi är förgjorda..."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:255
 msgid ""
 "We got to the treasury. It was much easier than we thought...What's this?"
-msgstr ""
+msgstr "Vi har skatten. Det var mycket lättare än vi trodde... Vad är detta?"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:275
 msgid ""
 "Stupid elves thought the treasury was unguarded! Guards, slay these "
 "intruders!"
 msgstr ""
+"De dumma alverna trodde att skatten var obevakad! Vakter, döda inkräktarna!"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:307
 msgid "We have recovered our gold. "
-msgstr ""
+msgstr "Vi har återtagit vårt guld."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:312
 msgid ""
 "No, we have recovered much more than our gold. Seems like the Saurians had "
 "robbed much more than our gold!"
 msgstr ""
+"Nej, vi har kommit över mycket mer än bara vårt guld! Ödlefolket verkar ha "
+"stulit mycket mer än så!"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:318
 msgid ""
 "They took all our gold! Quickly, set up garrisons everywhere. I will give "
 "500 gold to whoever kills their leader. They must not escape."
 msgstr ""
+"De tog allt vårt guld! Skynda! Sätt upp garnisoner överallt! Jag ger "
+"femhundra guldstycken till den som dödar deras ledare. De får inte komma "
+"undan!"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:324
 msgid ""
@@ -2382,46 +2489,54 @@ msgid ""
 "But by now all Saurians will be looking for us, so we will take a route to "
 "the north. "
 msgstr ""
+"Det är är bara rättvist. Ta allt guld så återvänder vi till Wesmere. Nu är "
+"väl hela ödlefolket efter oss, så vi får ta vägen norröver."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:4
 msgid "Shadows in the dark"
-msgstr ""
+msgstr "Skuggor i mörkret"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:20
 msgid ""
 "Following Ur-Thorodor's directions the elfs moved north to meet the forces "
 "of the orcs..."
 msgstr ""
+"Alverna följde Ur-Thorodors anvisningar och färdades norrut för att möta "
+"orchernas styrkor..."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:155
 msgid ""
 "This forest looks too quiet. Proceed carefully, I don't like this at all."
 msgstr ""
+"Den här skogen är för tyst. Fortsätt med försiktighet, det är något som inte "
+"står rätt till."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:163
 msgid "Living... Soon, you'll be more troops for my master!"
-msgstr ""
+msgstr "Levande... Snart är ni i min herres våld!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:168
 msgid "Undead! Where did they come from?"
-msgstr ""
+msgstr "Vandöda! Var kom de ifrån?"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:247
 msgid ""
 "I am Delfador the great! Foul creatures, time to  be put to your final rest!"
 msgstr ""
+"Jag är Delfador den Store! Vidriga varelser, det är dags att ni återförs "
+"till den slutliga vilan!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:252
 msgid "We have help now! Let's take the fight to them!"
-msgstr ""
+msgstr "Vi har fått hjälp! Nu tar vi striden till dem!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:280
 msgid "We are lost without the great mage!"
-msgstr ""
+msgstr "Vi är förlorade utan den store magikern!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:292
 msgid "More undead are coming! All is lost!"
-msgstr ""
+msgstr "Det kommer fler vandöda! Allt är förlorat!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:316
 msgid ""
@@ -2429,18 +2544,25 @@ msgid ""
 "dead or trapped in the Land of the Dead...I am Kalenz, lord of the elfs. We "
 "are in your debt today. "
 msgstr ""
+"Så du är Delfador... Ur-Thorodor berättade om dig. Men vi trodde att du var "
+"död eller fången in dödsriket... Jag är Kalenz, alvernas furste. Vi står i "
+"skuld till dig."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:321
 msgid ""
 "It is an honor to meet you. I escaped from  the Land of the Dead. I am "
 "chasing Iliah-Malal, the leader of the undead. "
 msgstr ""
+"Jag är hedrad att träffa er. Jag lyckades fly från dödsriket. Jag jagar "
+"Iliah-Malal, de vandödas ledare."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:326
 msgid ""
 "We were going to attack the orcs. Looks like we are not doing too well "
 "against the undead."
 msgstr ""
+"Vi är på väg för att anfalla orcherna. Men det ser inte ut som att vi klarar "
+"oss så bra not de vandöda."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:331
 msgid ""
@@ -2448,6 +2570,8 @@ msgid ""
 "all the help he can get. We will need your help to fend them off. I will "
 "deal with the undead later."
 msgstr ""
+"Orcherna korsade floden i stora antal. Vår kung behöver all hjälp han kan "
+"få. Vi behöver er hjälp för att hejda dem. Jag tar mig an de vandöda senare."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:337
 msgid ""
@@ -2456,16 +2580,22 @@ msgid ""
 "it was shielded with  ultrapure gold, they still remain arrogant. But we are "
 "indebted to you, Delfador and we will join you."
 msgstr ""
+"Vår erfarenhet av Wesnoths kungar är inte så bra. Först trodde vi att det "
+"var den oskärmade Eldrubinen, men efter att vi varnat Haldric II och sett "
+"till att den skärmades med ultrarent guld, så var de likväl arroganta. Men "
+"vi står i skuld till dig, Delfador, och vi kommer att följa med dig."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:342
 msgid ""
 "What? The gold in sceptre is not at all pure! I must advise the King. But "
 "first we need to save him, so let's go."
 msgstr ""
+"Vad? Guldet i spiran är inte alls ren! Jag måste varna kungen. Men först "
+"måste vi rädda honom, så nu går vi."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:7
 msgid "The King must die"
-msgstr ""
+msgstr "Kungen måste dö"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:33
 msgid ""
@@ -2473,76 +2603,89 @@ msgid ""
 "out Crelanu's most dangerous plan. Meanwhile Cleodil has been training "
 "Kalenz into some of the secrets of Crelanu's book ..."
 msgstr ""
+"När striden om Weslath var över visste Kalenz och Landar att de måste utföra "
+"Crelanus farliga plan. Under tiden hade Cleodil undervisat Kalenz i några av "
+"Crelanus bok hemligheter..."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:236
 msgid ""
 "Kill the Orcish King and Kalenz reaches the forest near his starting position"
-msgstr ""
+msgstr "Döda orchkungen och för Kalenz till skogen nära utgångspunkten."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:522
 msgid ""
 "Here we are at last. Landar, are you sure you want to go through with this?"
 msgstr ""
+"Då var vi här till slut. Landar, är du säker på att du vill genomföra det "
+"här?"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:527
 msgid "Absolutely. Let's do it!"
-msgstr ""
+msgstr "Absolut! Nu gör vi det!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:532
 msgid ""
 "We need to kill the king and get out before the effect of the potion runs "
 "out. Let's drink our potions then!"
 msgstr ""
+"Vi måste döda kungen och ta oss därifrån innan elixirets effekt tar slut. Då "
+"dricker vi!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:591
 msgid ""
 "This feels strange! Landar, remember to stay far from the wolves-they may be "
 "able to smell us."
 msgstr ""
+"Det känns underligt! Landar, kom ihåg att undvika vargarna; de kan röja oss "
+"på lukten."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:602
 msgid "It's all over"
-msgstr ""
+msgstr "Det är över."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:616
 msgid "No! We have failed!"
-msgstr ""
+msgstr "Nej! Vi har misslyckats!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:631
 msgid ""
 "The orcish king is dead! Now let's make it look like he was slain by an "
 "orcish hand!"
 msgstr ""
+"Orchkungen är död! Nu måste vi få det att se ut som att han dödades av "
+"orcher!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:646
 msgid "We are too late, the potion effects have worn off and we are visible! "
-msgstr ""
+msgstr "För sent, elixirets effekt har ebbat ut och vi är synliga igen!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:666
 msgid "Done!"
-msgstr ""
+msgstr "Klar!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:685
 msgid ""
 "The King has been murdered! Whoever did it will only get da throne over my "
 "dead stinking body!"
 msgstr ""
+"Kungen har blivit mördad! Den som gjorde det kommer få gå över min döda "
+"stinkande kropp för att få tronen!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:690
 msgid "I am the strongest warlord! I will be king!"
-msgstr ""
+msgstr "Jag är den starkaste krigsherren! Jag blir kung!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:695
 msgid "No way anyone will steal my throne!"
-msgstr ""
+msgstr "Aldrig att någon stjäl min tron!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:700
 msgid "This is my time and no one will be in my way!"
-msgstr ""
+msgstr "Detta är min tid och ingen kan stå i min väg!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:705
 msgid "The plan is working! Now we take back what's ours!"
-msgstr ""
+msgstr "Planen fungerar! Nu tar vi tillbaka det som är vårt!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:4
 msgid "The return of trouble"
