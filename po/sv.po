@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-15 12:18+0200\n"
-"PO-Revision-Date: 2005-05-31 01:15+0200\n"
+"PO-Revision-Date: 2005-06-01 03:39+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -2689,7 +2689,7 @@ msgstr "Planen fungerar! Nu tar vi tillbaka det som är vårt!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:4
 msgid "The return of trouble"
-msgstr ""
+msgstr "Nya problem"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:20
 msgid ""
@@ -2700,30 +2700,40 @@ msgid ""
 "attacking the outskirts of elvish forests. Kalenz gathered the elvish army. "
 "War had returned to the land of the elves."
 msgstr ""
+"Det var en lycklig tid av fred i Wesnoth. Alverna och människorna kunde att "
+"återuppbygga och omorganisera. Kalenz fick tid att koncentrera sig på sitt "
+"problem. Efter en tid lyckades han bemästra effekterna av Crelanus elixir. "
+"Men så en kväll kom rapporter om att en stor styrka orcher attackerade "
+"utkanterna av alvernas skogar. Kalenz samlade ihop sin armé. Kriget hade "
+"återvänt till alvernas rike."
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:205
 msgid ""
 "Kill these filthy elves! All warlords will then accept our leader, Black eye "
 "Karun as king and he will reward you all!"
 msgstr ""
+"Döda de smutsiga alverna! Krigsherrarna blir tvungna att acceptera vår "
+"ledare, Svartögat Karun, som kung, och han kommer att belöna oss alla!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:210
 msgid "This is what we have been training for! Now we drive these beasts back!"
-msgstr ""
+msgstr "Det är det vi har tränat för! Nu driver vi bort de monstren!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:222
 msgid "The elves will now fall!"
-msgstr ""
+msgstr "Alverna skall falla!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:246
 msgid "The orcs are retreating! "
-msgstr ""
+msgstr "Orcherna drar sig tillbaka!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:271
 msgid ""
 "We have just received word that a large orcish force has attacked  in Lake "
 "Glirfindol. Galtrid is already on his way there."
 msgstr ""
+"Vi har just fått bud om att en stor orchstyrka har anfallit Glirfindolsjön. "
+"Galtrid är redan på väg dit."
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:277
 msgid ""
@@ -2731,16 +2741,21 @@ msgid ""
 "If he is successful in Lake Glirfindol, I fear he will be able to unite the "
 "orcs. There is no time to waste."
 msgstr ""
+"Det verkar som att en av deras krigsherrar håller på att tillskansa sig "
+"makten över orcherna. Om han avgår med segern vid Glirfindol, så fruktar jag "
+"att han kommer att kunna ena orcherna. Det finns ingen tid att förlora!"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:3
 msgid "The Treaty"
-msgstr ""
+msgstr "Fördraget"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:61
 msgid ""
 "Friends, today we have won a great victory at the expense of many good men. "
 "Let this be the beginning of a new alliance between our people."
 msgstr ""
+"Vänner, idag har vi vunnit en stor seger, på bekostnad av många goda "
+"soldater. Låt detta bli början på en ny allians mellan våra folk."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:66
 msgid ""
@@ -2748,16 +2763,21 @@ msgid ""
 "dangerous adversaries. We plan to put an end to this threat and we will need "
 "your help."
 msgstr ""
+"Kung Haldric II, jag är mycket glad över att höra dessa ord. Vi står inför "
+"mycket farliga motståndare. Jag tänker ända detta hot och vi behöver er "
+"hjälp."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:71
 msgid ""
 "What? We cannot trust these humans! Where were they when we were fighting "
 "the orcs alone? He will betray us like his father did!"
 msgstr ""
+"Vad? Vi kan inte lita på de här människorna! Var var de när vi ensamma slogs "
+"mot orcherna? Han kommer att förråda oss, precis som hans far!"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:76
 msgid "Silence! How dare you talk this way to the King!"
-msgstr ""
+msgstr "Tystnad! Hur vågar du tala så!"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:81
 msgid ""
@@ -2767,21 +2787,28 @@ msgid ""
 "is my intention to renew our ancient alliance by signing a new treaty here, "
 "with you."
 msgstr ""
+"Lugn, Aldar! Han har rätt! Min far gjorde inget för att hjälpa er när "
+"orcherna anföll er. Men min far är död. Det är många saker min far gjorde "
+"som jag inte förstår. Men det är jag som är Wesnoths kung nu, inte min far! "
+"Det är min avsikt att förnya vår utgamla allians genom att underteckna ett "
+"nytt fördrag, här, med er."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:86
 msgid ""
 "The King is right. We cannot undo the past. But we need each other to fight "
 "the orcs. We will sign the treaty."
 msgstr ""
+"Kungen har rätt. Det som hänt har hänt och kan inte göras ogjort. Vi behöver "
+"varandras stöd för att besegra orcherna. Vi kommer att underteckna fördraget."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:91
 msgid ""
 "Your father had a certain stone, the ruby of fire. Do you still have it?"
-msgstr ""
+msgstr "Du far hade en viss sten, Eldrubinen. Har du kvar den?"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:97
 msgid "How do you know about the ruby of fire?"
-msgstr ""
+msgstr "Hur känner du till den?"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:102
 msgid ""
@@ -2789,11 +2816,15 @@ msgid ""
 "shield its radiation by placing it in a pure gold  encasement. Maybe this is "
 "the reason for your father's strage behavior."
 msgstr ""
+"Vi har fått veta att den kan ha ett märkligt inflytande på dess ägare. Du "
+"måste skärma av dess strålglans genom att täcka den med rent guld. Kanske "
+"var detta orsaken till din fars underliga beteende."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:107
 msgid ""
 "Yes, this would explain many things...I will take care of it, thank you."
 msgstr ""
+"Ja, det skulle förklara en hel del... Jag tar hand om det. Tack ska du ha."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:112
 msgid ""
@@ -2801,26 +2832,33 @@ msgid ""
 "fight to the orcs before winter falls and we need you to create a diversion. "
 "Can we count on you?"
 msgstr ""
+"Nu när fördraget är undertecknat så behöver vi er hjälp. Vi skall ta striden "
+"till orcherna innan vintern är över oss, och ni måste avleda deras "
+"uppmärksamhet. Kan vi räkna med er?"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:117
 msgid ""
 "Well, I am not sure... My late father did not pay too much attention to army "
 "matters and we have already lost too many men..."
 msgstr ""
+"Tja, jag vet inte riktigt... Min far brydde sig inte så mycket om arméns "
+"göranden och låtanden, och vi har redan förlorat för många mannar..."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:122
 msgid "I knew it! I always told you we stand alone!"
-msgstr ""
+msgstr "Jag visste det! Jag sa ju att vi skulle få stå ensamma!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:4
 msgid "The Uprooting"
-msgstr ""
+msgstr "Ett bryskt uppvaknande"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:20
 msgid ""
 "In a small isolated peninsula north of Wesnoth a young elf, named Kalenz was "
 "growing up..."
 msgstr ""
+"På en liten isolerad halvö norr om Wesnoth, växte en ung alv vid namn Kalenz "
+"upp..."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:29
 msgid ""
@@ -2828,6 +2866,10 @@ msgid ""
 "Although not of noble heritage, he was already respected for his skills.. "
 "These were the times humans came to Wesnoth in large numbers..."
 msgstr ""
+"Det var en fridfull plats och Kalenz höll på att utvecklas till en mycket "
+"skicklig och kunnig ung alv. Även om han inte var av adlig härkomst, så var "
+"han redan respekterad för sin kunskap... Detta var under den tiden då "
+"människor kom till Wesnoth i stora antal..."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:34
 msgid ""
@@ -2836,32 +2878,39 @@ msgid ""
 "The local leadership was old and weak... This is the story of Kalenz. It is "
 "also the story of the Elves in the days of the humans in Wesnoth.     "
 msgstr ""
+"Med människorna kom det tyvärr orcher. Alverna försökte alltid undvika krig, "
+"och de var helt oförberedda på vad som komma skulle. Det lokala ledarskapet "
+"var gammalt och svagt... Detta är historien om Kalenz. Det är också "
+"historien om alverna under människornas dagar i Wesnoth."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:245
 msgid "Look, there are many Orcs coming from all directions! To arms!"
-msgstr ""
+msgstr "Titta, det kommer orcher från alla håll! Till vapen!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:250
 msgid ""
 "Hold it Kalenz. The council should discuss the matter. Maybe we can reach an "
 "agreement with them!"
 msgstr ""
+"Lugn, Kalenz. Rådet måste diskutera saken. De kanske kan förhandla med dem!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:255
 msgid "Surrender or die, filthy elves!"
-msgstr ""
+msgstr "Ge upp eller dö, smutsiga alver!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:260
 msgid "They are too many. I am afraid we have no choice but to surrender!"
-msgstr ""
+msgstr "De är för många! Jag är rädd att vi måste kapitulera!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:265
 msgid "Elves will never surrender to these foul beasts! Who's with me?"
 msgstr ""
+"Alver kommer aldrig att kapitulera inför de här vidriga bestarna! Vilka är "
+"med mig?"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:279
 msgid "We will follow you-but where do we go? We are surrounded!"
-msgstr ""
+msgstr "Vi följer dig! Men vart skall vi gå? Vi är omringade!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:285
 msgid ""
@@ -2869,80 +2918,87 @@ msgid ""
 "our home. We need to go southwest to reunite with our brothers. Let's storm "
 "their southern outpost before more of them arrive!"
 msgstr ""
+"Vi måste ta oss till alvrådet i Ka'lian och be om deras hjälp för att återta "
+"vårt hem. Vi måste färdas till sydväst för att återförenas med våra bröder. "
+"Låt oss storma deras södra utpost innan fler av dem kommer hit!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:299
 msgid "Ok Kalenz, you lead us!"
-msgstr ""
+msgstr "Okej, Kalenz, du leder oss!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:337
 msgid "Oh, no! More of them are pouring in, we are too late..."
-msgstr ""
+msgstr "Åh nej! De bara väller in, vi kom för sent..."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:350
 msgid "You messed with the wrong elf!"
-msgstr ""
+msgstr "Du bråkar med fel alv!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:362
 msgid "Take that, you orcish scum!"
-msgstr ""
+msgstr "Här får du, orchavskum!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:374
 msgid "We surrender!"
-msgstr ""
+msgstr "Vi ger oss!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:379
 msgid "Did I mention that we take no prisoners? Die!"
-msgstr ""
+msgstr "Nämnde jag att vi inte tar några fångar? Dö!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:385
 msgid ""
 "Kalenz was right and I was wrong. Let a few of us hold them for a while "
 "while the rest go join Kalenz while you still can!"
 msgstr ""
+"Kalenz hade rätt och jag hade fel. Några av oss håller tillbaka dem, så kan "
+"resten av er följa efter Kalenz medan det ännu finns tid!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:412
 msgid "We must leave now, but we will not forget. We will return!"
 msgstr ""
+"Vi måste ge oss av nu, men vi kommer inte att glömma er. Vi kommer att "
+"återvända!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:417
 msgid "You won't get very far! After them!"
-msgstr ""
+msgstr "Ni ska inte komma långt! Efter dem!"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:21
 msgid "staff"
-msgstr ""
+msgstr "stav"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:22
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:38
 msgid "fire breath"
-msgstr ""
+msgstr "spruta eld"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:40
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:38
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:44
 msgid "fire"
-msgstr ""
+msgstr "eld"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:65
 msgid "ice shot"
-msgstr ""
+msgstr "isstöt"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:66
 msgid "cold"
-msgstr ""
+msgstr "frost"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:70
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:39
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:45
 msgid "magical"
-msgstr ""
+msgstr "magisk"
 
 #: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:4
 msgid "Elvish Archer Invisible"
-msgstr ""
+msgstr "Osynlig alvbågskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:20
 msgid ""
@@ -2951,6 +3007,9 @@ msgid ""
 "make up a large portion of the Elvish military. Invisible units are "
 "especially hard to hit."
 msgstr ""
+"Alvernas bågskyttar börjar träna redan i unga år, och uppnår stor "
+"skicklighet i distansstrid. Dessa träffsäkra och snabba bågskyttar utgör en "
+"stor del av alvernas militär. Osynliga trupper är särskilt svåra att träffa."
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:22
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:101
@@ -2968,7 +3027,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:99
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:22
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:23
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:102
@@ -2986,7 +3045,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:100
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:23
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:53
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:40
@@ -2998,7 +3057,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:39
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:116
 msgid "bow"
-msgstr ""
+msgstr "pilbåge"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:40
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:119
@@ -3014,11 +3073,11 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:40
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:117
 msgid "pierce"
-msgstr ""
+msgstr "stick"
 
 #: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:83
 msgid "female^Elvish Archer"
-msgstr ""
+msgstr "Alvbågskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:99
 msgid ""
@@ -3026,17 +3085,20 @@ msgid ""
 "range combat. Able to fire many arrows quickly and accurately, these Archers "
 "make up a large portion of the Elvish military."
 msgstr ""
+"Alvernas bågskyttar börjar träna redan i unga år, och uppnår stor "
+"skicklighet i distansstrid. Dessa träffsäkra och snabba bågskyttar utgör en "
+"stor del av alvernas militär."
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
-msgstr ""
+msgstr "Osynlig alvjägare"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:92
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:18
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:95
 msgid "ambush"
-msgstr ""
+msgstr "bakhåll"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:21
 msgid ""
@@ -3046,10 +3108,14 @@ msgid ""
 "seen in the woods until just after they have attacked. Invisible units have "
 "a vastly reduced probability of being hit."
 msgstr ""
+"Alvjägarna är extremt snabba och skickliga i alla stridsformer. De anses som "
+"de absolut bästa skogsmännen i Wesnoth. De kan enkelt ligga i bakhåll för "
+"sina fiender i skogen, då de inte kan upptäckas förrän efter de anfallit. "
+"Osynliga trupper är långt svårare att träffa."
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:77
 msgid "female^Elvish Avenger Invisible"
-msgstr ""
+msgstr "Osynlig alvjägare"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:94
 msgid ""
@@ -3058,14 +3124,17 @@ msgid ""
 "Wesnoth, and can ambush their foes in the forest, because they cannot be "
 "seen in the woods until just after they have attacked."
 msgstr ""
+"Alvjägarna är extremt snabba och skickliga i alla stridsformer. De anses som "
+"de absolut bästa skogsmännen i Wesnoth. De kan enkelt ligga i bakhåll för "
+"sina fiender i skogen, då de inte kan upptäckas förrän efter de anfallit."
 
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:17
 msgid "leadership"
-msgstr ""
+msgstr "ledarskap"
 
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:4
 msgid "Elvish High Lord Invisible"
-msgstr ""
+msgstr "Osynlig alvstorfurste"
 
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:19
 msgid ""
@@ -3073,15 +3142,17 @@ msgid ""
 "devastating balls of fire at long range. Invisible units are especially hard "
 "to hit."
 msgstr ""
+"Alvstorfurstarna är skräckinjagande i strid; där de använder svärd och "
+"förödande eldklot. Osynliga trupper är särskilt svåra att träffa."
 
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:37
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:43
 msgid "fireball"
-msgstr ""
+msgstr "eldklot"
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:4
 msgid "Elvish Horse Archer"
-msgstr ""
+msgstr "Beriden alvbågskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:29
 msgid ""
@@ -3090,10 +3161,14 @@ msgid ""
 "both horsemanship and archery, and the Elves are the only race that practice "
 "the two in concert."
 msgstr ""
+"De beridna alvbågskyttarna är inte lika snabba som alvryttarna, men detta "
+"vägs upp av deras mycket kraftfullare distansattack. Få av alverna är "
+"skickliga i både rytteri och bågskytte, och alverna är den enda ras som "
+"tränar dessa två konster tillsammans."
 
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:4
 msgid "Elvish Lord Invisible"
-msgstr ""
+msgstr "Osynlig alvfurste"
 
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:18
 msgid ""
@@ -3101,10 +3176,13 @@ msgid ""
 "devastating balls of fire at long range. Being invisible to the enemy makes "
 "them very hard to hit"
 msgstr ""
+"Alvfurstarna är skräckinjagande i strid, där de i närstrid använder svärd "
+"och på håll förödande frostklot. När de är osynliga är de mycket svåra att "
+"träffa."
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:4
 msgid "Elvish Marksman Invisible"
-msgstr ""
+msgstr "Osynlig alvprickskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:19
 msgid ""
@@ -3113,24 +3191,28 @@ msgid ""
 "great skill with the bow compensates for their lack of skill in melee combat "
 "and lesser speed. Invisible units are especially hard to hit."
 msgstr ""
+"Alvprickskyttarna är experter på bågskytte. Deras skicklighet garanterar en "
+"träffsäkerhet på 60%, även då fienden har gömt sig i svår terräng. Denna "
+"stora skicklighet med bågen kompenserar deras något mindre färdigheter i "
+"närstrid och lägre hastighet. Osynliga trupper är särskilt svåra att träffa."
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:39
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:118
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:38
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:115
 msgid "longbow"
-msgstr ""
+msgstr "långbåge"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:41
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:120
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:40
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:117
 msgid "marksman"
-msgstr ""
+msgstr "prickskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:81
 msgid "female^Elvish Marksman"
-msgstr ""
+msgstr "Alvprickskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:96
 msgid ""
@@ -3139,10 +3221,14 @@ msgid ""
 "great skill with the bow compensates for their lack of skill in melee combat "
 "and lesser speed."
 msgstr ""
+"Alvprickskyttarna är experter på bågskytte. Deras skicklighet garanterar en "
+"träffsäkerhet på 60%, även då fienden har gömt sig i svår terräng. Denna "
+"stora skicklighet med bågen kompenserar deras något mindre färdigheter i "
+"närstrid och lägre hastighet."
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
 msgid "Elvish Range Invisibler"
-msgstr ""
+msgstr "Osynlig skogsvaktaralv"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:19
 msgid ""
@@ -3152,10 +3238,15 @@ msgid ""
 "just made an attack, or there are enemies adjacent to them. Invisible units "
 "are especially hard to hit."
 msgstr ""
+"Skogsvaktaralverna är både starka och snabba. Då de är skickliga i både när- "
+"och distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan "
+"de inte upptäckas av fienden medan de är i skogen förrän de har gått till "
+"attack, eller då fienden står alldeles inpå dem. Osynliga trupper är "
+"särskilt svåra att träffa"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:80
 msgid "female^Elvish Ranger"
-msgstr ""
+msgstr "Skogsvaktaralv"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:96
 msgid ""
@@ -3164,20 +3255,27 @@ msgid ""
 "Rangers cannot be seen by enemies while they are in forest, unless they have "
 "just made an attack, or there are enemies adjacent to them."
 msgstr ""
+"Skogsvaktaralverna är både starka och snabba. Då de är skickliga i både när- "
+"och distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan "
+"de inte upptäckas av fienden medan de är i skogen förrän de har gått till "
+"attack, eller då fienden står alldeles inpå dem."
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:4
 msgid "Elvish Scout"
-msgstr ""
+msgstr "Alvspejare"
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:30
 msgid ""
 "Elvish Scouts move swiftly through forest and grassland alike. Their skill "
 "on horseback is virtually unmatched, although they do lack power in combat."
 msgstr ""
+"Alvspejarna förflyttar sig raskt genom skog och över slätt. Deras "
+"skicklighet på hästryggen är nästan utan motstycke, men de saknar styrka i "
+"strid."
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:4
 msgid "Elvish Sharpshooter Invisible"
-msgstr ""
+msgstr "Osynlig alvskarpskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:19
 msgid ""
@@ -3186,10 +3284,14 @@ msgid ""
 "when firing very quickly. Sharpshooters are excellent at picking off "
 "entrenched enemies. Invisible units are very hard to hit"
 msgstr ""
+"Som den allra skickligaste eliten i Wesnoth är alvskarpskyttarna otroligt "
+"träffsäkra, och träffar i 60% av fallen även då de skjuter mycket snabbt. "
+"Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender. Osynliga "
+"trupper är mycket svåra att träffa."
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:83
 msgid "female^Elvish Sharpshooter"
-msgstr ""
+msgstr "Osynlig alvskarpskytt"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:98
 msgid ""
@@ -3198,3 +3300,6 @@ msgid ""
 "when firing very quickly. Sharpshooters are excellent at picking off "
 "entrenched enemies."
 msgstr ""
+"Som den allra skickligaste eliten i Wesnoth är alvskarpskyttarna otroligt "
+"träffsäkra, och träffar i 60% av fallen även då de skjuter mycket snabbt. "
+"Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender."
