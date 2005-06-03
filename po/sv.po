@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-15 12:18+0200\n"
-"PO-Revision-Date: 2005-06-01 03:39+0200\n"
+"PO-Revision-Date: 2005-06-03 01:02+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1342,7 +1342,7 @@ msgstr "Lyssna inte på den här förrädaren! Ni har alla hört ordern!"
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:130
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:142
 msgid "I...I think I'm done, it's all over"
-msgstr "Jag...jag tror jag dör... Allt är slut."
+msgstr "Jag... Jag tror jag dör... Allt är slut."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:254
 msgid "Cleodil, no!"
