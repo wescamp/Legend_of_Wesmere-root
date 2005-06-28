@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-15 12:18+0200\n"
-"PO-Revision-Date: 2005-06-03 01:02+0200\n"
+"PO-Revision-Date: 2005-06-28 18:49+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10\n"
+"X-Generator: KBabel 1.10.1\n"
 
 #: Legend_of_Wesmere.cfg:24
 msgid "Soldier"
@@ -2824,7 +2824,7 @@ msgstr ""
 msgid ""
 "Yes, this would explain many things...I will take care of it, thank you."
 msgstr ""
-"Ja, det skulle förklara en hel del... Jag tar hand om det. Tack ska du ha."
+"Ja, det skulle förklara en hel del... Jag tar hand om det. Tack skall du ha."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:112
 msgid ""
@@ -2962,7 +2962,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:417
 msgid "You won't get very far! After them!"
-msgstr "Ni ska inte komma långt! Efter dem!"
+msgstr "Ni skall inte komma långt! Efter dem!"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:21
 msgid "staff"
