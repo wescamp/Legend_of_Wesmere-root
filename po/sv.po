@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-15 12:18+0200\n"
+"POT-Creation-Date: 2005-08-14 11:24+0200\n"
 "PO-Revision-Date: 2005-07-24 16:33+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -48,7 +48,7 @@ msgstr ""
 msgid "Hour of Glory"
 msgstr "Ärans timme"
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:58
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:41
 msgid ""
 "Kalenz, your mission is now complete: The orcish King is dead and you have "
 "recaptured your home. Yet I feel there is no peace in your mind..."
@@ -58,7 +58,7 @@ msgstr ""
 "sinne..."
 
 # redan druckit, eller om han försöker motstå att leta efter det
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:63
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:46
 msgid ""
 "It is indeed as you say. It is that potion that's eating me. I cannot enjoy "
 "our victories, nor can I rest. I am fighting it every single moment."
@@ -66,15 +66,15 @@ msgstr ""
 "Du har alldeles rätt. Elixiret brinner i mina ådror. Jag kan inte njuta av "
 "våra segrar, och inte heller vila. Jag kämpar mot det varje minut."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:68
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:51
 msgid "Crelanu  warned us about it..."
 msgstr "Crelanu varnade oss för det..."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:73
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:56
 msgid "There was no other choice. Even if we die, it was worth it."
 msgstr "Vi hade inget val. Även om vi dör så var det värt priset."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:78
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:61
 msgid ""
 "You will not die. You must fight it. I have faith in you Kalenz, you will "
 "overcome and master it. It will be hard and painful, but you will beat the "
@@ -84,11 +84,11 @@ msgstr ""
 "kommer att betvinga det. Det kommer att blir svårt och smärtsamt, men du "
 "kommer att övervinna elixiret. Jag oroar mig mer för Landar..."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:83
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:66
 msgid "He seems to handle it better than me..."
 msgstr "Men han verkar klara av det mycket bättre än jag..."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:88
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:71
 msgid ""
 "He seems to handle it too well, Kalenz. But I am afraid things are not as "
 "they seem. I fear he has already turned to the other side..."
@@ -96,23 +96,24 @@ msgstr ""
 "Han verkar klara av det bra, Kalenz. Men jag fruktar att allt inte är som "
 "det verkar. Jag befarar att han redan har bytt sida..."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:94
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:77
 msgid "No way! Why do you say this?"
 msgstr "Aldrig! Varför säger du så?"
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:99
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:82
+#, fuzzy
 msgid ""
 "Some dwarves have been found dead in our camp. Landar is extremely "
-"unfriendly with them. I think Olurf will leave us soon."
+"unfriendly with them. I think the dwarves will leave us soon."
 msgstr ""
 "Vi har redan funnit dödade dvärgar i vårt läger. Landar är mycket otrevlig "
 "mot dem. Jag tror att Olurf kommer att ge sig av snart."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:104
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:87
 msgid "I will try to patch things between them..."
 msgstr "Jag skall försöka medla mellan dem..."
 
-#: Legend_of_Wesmere/scenarios/A_Warning.cfg:109
+#: Legend_of_Wesmere/scenarios/A_Warning.cfg:92
 msgid ""
 "I see I cannot convince you. So, do as you think, but be careful Kalenz, for "
 "I fear for us all..."
@@ -131,62 +132,69 @@ msgstr ""
 "När den uråldriga alliansen förnyats skyndade våra hjältar iväg till "
 "slagfältet..."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:142
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:118
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:168
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:144
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:119
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:172
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:157
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:120
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:133
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:109
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:177
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:202
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:87
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:111
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:114
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:108
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:110
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:100
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:113
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:162
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:372
 msgid "Defeat all enemies"
 msgstr "Besegra alla fiender"
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:206
-msgid "Last for 21 turns"
+#, fuzzy
+msgid "Last for 25 turns"
 msgstr "Håll stånd i 21 drag"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:146
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:148
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:92
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:127
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:172
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:240
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:128
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:176
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:241
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:165
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:157
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:124
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:141
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:113
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:181
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:136
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:226
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:227
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:210
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:115
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:116
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:91
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:92
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:115
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:118
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:112
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:163
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:114
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:104
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:117
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:164
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:90
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:166
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:376
 msgid "Death of Kalenz"
 msgstr "Kalenz dör"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:150
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:152
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:96
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:131
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:176
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:244
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:132
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:180
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:245
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:128
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:117
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:140
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:230
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:231
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:214
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:119
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:116
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:167
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:120
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:121
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:168
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:380
 msgid "Death of Landar"
 msgstr "Landar dör"
@@ -195,28 +203,31 @@ msgstr "Landar dör"
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:136
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:148
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:218
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:123
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:171
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:124
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:172
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:388
 msgid "Death of Olurf"
 msgstr "Olurf dör"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:104
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:135
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:180
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:136
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:184
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:169
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:161
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:132
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:145
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:121
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:185
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:144
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:222
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:95
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:96
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:119
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:122
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:120
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:175
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:118
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:108
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:125
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:176
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:94
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:170
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:384
 msgid "Death of Cleodil"
 msgstr "Cleodil dör"
@@ -244,15 +255,19 @@ msgstr ""
 "orchernas truppförstärkningar från norr. De får inte ansluta sig till "
 "huvudstyrkan. Våra egna truppförstärkningar borde anlända inom några dagar."
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:348
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:295
+msgid "Ok, but where are the elvish troops? We cannot hold without them!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:399
 msgid "Kalenz is here!"
 msgstr "Kalenz har kommit!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:353
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:404
 msgid "Where is the rest of the elvish army? They should be here!"
 msgstr "Var är resten av alvernas armé? De borde vara här nu!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:358
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:409
 msgid ""
 "The council has decided it was too risky to send troops here. But we could "
 "not let you stand on your own."
@@ -260,51 +275,52 @@ msgstr ""
 "Rådet beslöt att det var alltför riskfyllt att skicka hit trupper. Men vi "
 "kunde inte låta er stå ensamma mot detta hot."
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:441
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:492
 msgid "Here we are men! Charge!"
 msgstr "Här är vi, mannar! Till attack!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:446
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:497
 msgid "More horses!! Run, let's get out of here!"
 msgstr "Fler hästar! Spring, låt oss komma härifrån!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:461
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:512
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:533
 msgid "I have failed!"
 msgstr "Jag har misslyckats!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:475
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:526
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:547
 msgid "No! It's hopeless without Landar!"
 msgstr "Nej! Utan Landar finns det inget hopp!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:490
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:541
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:576
 msgid "We cannot continue without Olurf!"
 msgstr "Vi kan inte fortsätta utan Olurf!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:504
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:293
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:555
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:590
 msgid "Not Cleodil!"
 msgstr "Inte Cleodil!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:518
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:569
 msgid "Weslath will now fall, we have failed!"
 msgstr "Vi har misslyckats! Weslath kommer att falla i fiendens händer!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:529
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:580
 msgid "We have stopped the orcs once again! "
 msgstr "Ännu en gång har vi stoppat orcherna!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:534
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:585
 msgid "And we have revived the ancient alliance with the humans! "
 msgstr "Och vi har förnyat den uråldriga alliansen med människorna!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:540
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:591
 msgid "The King is here! Hail Haldric II, King of Wesnoth! "
 msgstr "Kungen är här! Var hälsad, Haldric II, kung av Wesnoth!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:551
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:602
 msgid ""
 "I die? Orc Chief  never said anything about fighting elves and dwarves! "
 msgstr ""
@@ -322,34 +338,36 @@ msgstr ""
 "Ödlefolket blockerade ingången till Wesmere, så Kalenz och hans följeslagare "
 "gick norrut för att kunna ta sig in i Wesmere-skogen därifrån..."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:159
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:160
 msgid "Defeat enemy leaders"
 msgstr "Besegra fiendeledarna"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:158
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:160
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:112
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:139
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:188
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:248
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:140
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:192
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:249
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:181
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:165
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:140
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:125
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:189
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:152
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:234
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:127
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:235
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:128
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:100
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:100
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:123
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:130
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:124
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:179
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:122
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:116
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:129
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:180
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:98
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:174
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:396
 msgid "Turns run out"
 msgstr "Dragen tar slut"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:218
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:219
 msgid ""
 "What's this? Looks like the orcs have surrounded a dwarvish enclave. I think "
 "it's our old friend, Olurf."
@@ -357,7 +375,7 @@ msgstr ""
 "Vad är det här? Det ser ut som att orcherna har omringat en dvärgenklav. Jag "
 "tror minsann det är vår gamle vän Olurf."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:223
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:224
 msgid ""
 "It's those elves again. Maybe you were not completely wrong when you "
 "mentioned the orcs might attack us. We have been forced from our home and "
@@ -367,12 +385,12 @@ msgstr ""
 "orcherna skulle anfalla. Vi har tvingats bort från vårt hem, och nu är vi "
 "omringade."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:228
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:229
 msgid "Let's help the dwarves-looks like they could need some help."
 msgstr ""
 "Låt oss hjälpa dvärgarna - det ser ut som om de kunde behöva lite hjälp."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:233
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:234
 msgid ""
 "Help them? They would not even let us pass through their land to avoid the "
 "trolls, remember? "
@@ -380,7 +398,7 @@ msgstr ""
 "Skall vi hjälpa dem? De som inte ens lät oss gå över deras marker för att "
 "undvika trollen, har ni redan glömt det?"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:238
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:239
 msgid ""
 "Our problem is  the orcs, not the dwarfs. Besides, the orcs are in our way. "
 "We must help them. Olurf, we cannot let you have all the fun with these "
@@ -390,42 +408,42 @@ msgstr ""
 "i vägen för oss. Vi måste hjälpa dem. Olurf, inte kan vi låta dig ha allt "
 "skoj med orcherna själv!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:243
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:244
 msgid "For an elf, you think like a dwarf! I think I like you(for an elf) "
 msgstr ""
 "Du tänker verkligen som en dvärg, för att vara alv menar jag! Jag tror "
 "nästan jag tycker om dig (fast du är en alv)."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:199
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:200
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:189
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:255
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:256
 msgid "I have failed! This is the end..."
 msgstr "Jag har misslyckats! Detta är slutet..."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:214
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:215
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:204
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:326
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:270
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:335
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:271
 msgid "No!! It is hopeless without Landar..."
 msgstr "Nej! Utan Landar är det hopplöst..."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:284
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:285
 msgid "No!! We needed Cleodil!"
 msgstr "Nej! Vi behövde Cleodil!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:299
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:300
 msgid "No!! we have failed."
 msgstr "Nej! Vi har misslyckats!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:312
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:313
 msgid "We are too late to bring back the treasure to Wesmere..."
 msgstr "Vi hinner inte återföra skatten till Wesmere..."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:322
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:323
 msgid "The orcs are defeated. My lord, we are in your debt. "
 msgstr "Vi har besegrat orcherna. Vi står i tacksamhetsskuld till er, ers nåd."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:327
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:328
 msgid ""
 "We must put aside our differences and help each other against the orcish "
 "menace. Olurf, join us!"
@@ -433,11 +451,11 @@ msgstr ""
 "Olurf, glöm alla meningsskiljaktigheter och gör gemenskap sak med oss i "
 "kampen mot orcherna!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:333
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:334
 msgid "Join with the elves? I think you're pushing it boy!"
 msgstr "Göra gemensam sak med alver? Fresta inte din lycka, pojk!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:339
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:340
 msgid ""
 "There will be a big fight with the orcs in Wesmere very soon. If you can "
 "cover our flank to the north, I will pay you 400 gold. "
@@ -445,7 +463,7 @@ msgstr ""
 "Snart kommer det att stå en stor strid med orcherna i Wesmere. Om du kan "
 "täcka vår norra flank, så betalar jag er 400 guldstycken."
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:344
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:345
 msgid ""
 "This changes everything. With the 400 gold I'm sure I will find some of my "
 "people willing to help you!"
@@ -453,7 +471,7 @@ msgstr ""
 "Det förändrar ju saken. För 400 guld kan jag säkert hitta några av mitt folk "
 "som vill hjälpa er!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:350
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:351
 msgid ""
 "What? Kalenz, are you out of your mind? Surely you will not throw away 400 "
 "gold on this guy! "
@@ -461,7 +479,7 @@ msgstr ""
 "Vad? Är du från vettet, Kalenz? Inte kan du mena att du tycker det är värt "
 "att kasta bort 400 guld på den här typen!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:355
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:356
 msgid ""
 "My lord, we are no crooks! We will be there to cover your northern flank or "
 "else I will return your gold! "
@@ -469,7 +487,7 @@ msgstr ""
 "Vi är inte några skurkar, ers nåd. Vi kommer att täcka er norra flank, eller "
 "så lämnar vi tillbaka guldet!"
 
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:362
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:363
 msgid ""
 "I believe so. I think he now knows that if he does not, maybe next time we "
 "will not be there to help either "
@@ -531,10 +549,11 @@ msgstr ""
 "varelser som vi är."
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:230
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:289
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:293
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:295
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:269
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:303
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:245
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:428
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:257
 msgid "Cleodil, no!!"
 msgstr "Cleodil, nej!"
 
@@ -723,11 +742,12 @@ msgstr ""
 "beslöts snabbt att skicka undsättning till dem. Men vintern hade hunnit "
 "ifatt våra hjältar..."
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:184
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:188
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:150
 msgid "Death of Uradredia"
 msgstr "Uradredia dör"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:229
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:233
 msgid ""
 "I see troops coming from the south! Surely our army has beaten these elves "
 "and humans and will now help us get rid of these remaining elves!"
@@ -736,32 +756,33 @@ msgstr ""
 "människorna, och nu kommer de för att hjälpa oss att ta kål på de här sista "
 "alverna!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:234
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:238
 msgid ""
 "Our defenses are streched thin. Men, prepare to face another orcish attack!"
 msgstr ""
 "Våra trupper är alltför utspridda. Mannar, bered er för ännu ett anfall från "
 "orcherna!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:239
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:243
 msgid "The North Elves still stand. Prepare for battle!"
 msgstr "Nordalverna gör fortfarande motstånd. Bered er för strid!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:251
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:255
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:215
 msgid "All is lost!..."
 msgstr "Allt är förlorat...!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:266
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:270
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:230
 msgid "No!! Not Landar! ..."
 msgstr "Nej! Inte Landar...!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:278
-msgid "We still have not broken the siege! All is lost..."
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:282
+#, fuzzy
+msgid "We still have not broken the siege! We will freeze in this cold..."
 msgstr "Vi har inte lyckats bryta belägringen! Allt är förlorat..."
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:304
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:308
 msgid ""
 "Before you die, know that you lost in Wesmere, you lost in Weslath, you will "
 "lose here and that your king is dead!"
@@ -769,15 +790,36 @@ msgstr ""
 "Innan du dör så skall du veta att ni förlorade i Wesmere, ni förlorade i "
 "Weslath, ni kommer att förlora här och er kung är död!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:313
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:317
 msgid "The North Elves are now free! "
 msgstr "Nordalverna är fria!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:318
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:322
 msgid "Thanks to you Kalenz, son of Kliada. Our troops are at your command. "
 msgstr ""
 "Det är din förtjänst, Kalenz Kliadas son. Våra trupper står till ditt "
 "förfogande."
+
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:335
+msgid "The elves are attacking us! Reserves!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:344
+msgid "Zhuk"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:351
+msgid "Dran"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:352
+#, fuzzy
+msgid "Hrugt"
+msgstr "Krulg"
+
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:353
+msgid "Orhtib"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:4
 msgid "Cliffs of Thoria"
@@ -866,8 +908,9 @@ msgid "Costly Revenge"
 msgstr "En dyrbar hämnd"
 
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:20
+#, fuzzy
 msgid ""
-"But Kalenz failed to persuade Olurf. The dwarfs left and at Landar's "
+"But Kalenz failed to persuade the dwarfs. The dwarfs left and at Landar's "
 "insistence the elves marched on the Saurians..."
 msgstr ""
 "Men Kalenz lyckades inte övertala Olurf. Dvärgarna gav sig av och på Landars "
@@ -893,7 +936,7 @@ msgstr "Detta är vår chans att göra slut på dem..."
 msgid "We are too late! We will freeze in this cold..."
 msgstr "Vi kommer för sent! I den här kylan kommer vi att frysa ihjäl..."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:239
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:240
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:229
 msgid "Aargh! I'm dying!"
 msgstr "Aargh! Jag dör!"
@@ -902,7 +945,7 @@ msgstr "Aargh! Jag dör!"
 msgid "Victory is ours. "
 msgstr "Segern är vår!"
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:337
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:338
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:254
 msgid "No!! Not Cleodil!"
 msgstr "Nej! Inte Cleodil!"
@@ -1133,8 +1176,8 @@ msgstr ""
 "Utan att stöta på någon mer återvände Kalenz och hans följeslagare till "
 "Wesmere just i rättan tid..."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:154
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:126
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:156
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:112
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:392
 msgid "Death of  Galtrid"
 msgstr "Galtrid dör"
@@ -1204,23 +1247,23 @@ msgstr ""
 "Aargh! Jag skulle ha stannat kvar i bergen i stället för att göra gemensam "
 "sak med orcherna!"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:721
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:729
 msgid "Thought we'd let you have all the fun with the orcs by yourselves?"
 msgstr "Trodde ni att vi skulle låta er ha allt skoj med orcherna för själva?"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:726
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:734
 msgid "It's Olurf! He made it!"
 msgstr "Det är Olurf! Han klarade det!"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:731
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:739
 msgid "I told you I'd be there"
 msgstr "Jag sa ju att jag skulle komma."
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:736
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:744
 msgid "Not much of an army he is bringing with him though"
 msgstr "Det var inte mycket till armé han har med sig."
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:741
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:749
 msgid ""
 "Not much of an army! These are dwarves with migthy axes, not some wimpy bow-"
 "carying elves!"
@@ -1228,14 +1271,14 @@ msgstr ""
 "Inte mycket till armé! Detta är dvärgar med kraftfulla yxor, inte några veka "
 "pilbågebärande alver!"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:747
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:755
 msgid ""
 "Olurf is that all the dwarves you could find? Maybe the gold was not enough?"
 msgstr ""
 "Olurf, är det här alla dvärgar du kunde hitta? Var det kanske inte "
 "tillräckligt med guld?"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:752
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:760
 msgid ""
 "They are not fighting for gold, they are in it for the fun. I'd have a lot "
 "more if one of my men had kept quiet about helping elves! Anyway, my clan "
@@ -1245,21 +1288,21 @@ msgstr ""
 "fler om inte en av mina mannar skvallrat om att vi skulle hjälpa alver! I "
 "vilket fall som helst så bör min klan ansluta sig till oss om några dagar."
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:757
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:765
 msgid "In a few days? That's too late! Then we can have our gold back!"
 msgstr ""
 "Om några dagar? Det kommer att vara för sent! Då kan vi få tillbaka vårt "
 "guld!"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:762
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:770
 msgid "Sure, minus expenses"
 msgstr "Visst, med omkostnader avdragna."
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:767
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:775
 msgid "What expenses?"
 msgstr "Vad då för omkostnader?"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:772
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:780
 msgid ""
 "Well it's an ancient dwarvish custom to buy the warriors a few drinks before "
 "the battle... So minus expenses that's about even"
@@ -1267,19 +1310,19 @@ msgstr ""
 "Tja, det är en urgammal sed hos dvärgarna att bjuda krigarna på några bägare "
 "innan striden... Så med omkostnader avdragna är det väl jämnt så här."
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:777
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:785
 msgid "That explains why they are so reckless in battle..."
 msgstr "Då förstår jag varför de är så vildsinta i strid..."
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:783
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:791
 msgid "... Well, gentlemen, we have a battle to fight!"
 msgstr "Mina herrar, vi har en strid att utkämpa!"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:794
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:802
 msgid "I die without getting da stone? "
 msgstr "Dör ja' utan att ha fått tag i stenen?"
 
-#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:805
+#: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:813
 msgid "Orcs, death is all you will find in this forest!"
 msgstr "Orcher, det enda ni kommer att finna i den här skogen är död!"
 
@@ -1288,8 +1331,9 @@ msgid "Elvish Assasins"
 msgstr "Lönnmördaralver"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:20
+#, fuzzy
 msgid ""
-"After the council's decision, Kalenz and Cleodil retired in the North..."
+"After the council's decision, Kalenz and Cleodil retired in the North ..."
 msgstr ""
 "Kalenz och Cleodil drog sig tillbaka till norden efter rådets beslut..."
 
@@ -1301,15 +1345,15 @@ msgstr "...men då började saker att hända igen..."
 msgid "Kalenz reaches the signpost"
 msgstr "Kalenz når vägskylten"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:201
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:208
 msgid "My Lord Kalenz, you are in great danger! You must get out immediately."
 msgstr "Furst Kalenz, ni är i stor fara! Ni måste ge er iväg omedelbart!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:206
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:213
 msgid "What?!"
 msgstr "Vad?!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:211
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:218
 msgid ""
 "Landar has taken control of the army. He eliminated the council and "
 "proclaimed himself Lord. What is worse, there is word out that he has "
@@ -1319,11 +1363,11 @@ msgstr ""
 "själv till furste. Till råga på allt så ryktas det att han redan har gett "
 "order om att ni skall dödas."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:216
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:223
 msgid "Too late! All traitors will die!"
 msgstr "För sent! Alla förrädare skall dö!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:221
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:228
 msgid ""
 "Listen to me! We have fought and bled side by side.  We do not have to fight "
 "each other!"
@@ -1331,28 +1375,38 @@ msgstr ""
 "Hör på mig! Vi har kämpat och blött vid varandras sida. Vi behöver inte "
 "slåss mot varandra!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:227
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:234
 msgid "Do not listen to this traitor! You all have heard the order!"
 msgstr "Lyssna inte på den här förrädaren! Ni har alla hört ordern!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:208
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:239
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:311
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:184
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:130
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:142
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:240
+msgid ""
+"You should try to reach Uraredia and the North Elves. He too, has refused to "
+"join Landar. Plus, word is that some troops still loyal to you are heading "
+"there."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:210
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:253
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:279
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:318
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:185
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:145
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:158
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:228
 msgid "I...I think I'm done, it's all over"
 msgstr "Jag... Jag tror jag dör... Allt är slut."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:254
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:268
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:200
 msgid "Cleodil, no!"
 msgstr "Cleodil, nej!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:266
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:280
 msgid "Oh, no! we are caught in between..."
 msgstr "Åh nej! Vi har hamnat emellan..."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:280
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:294
 msgid "Now we must head to the North Elves!"
 msgstr "Nu måste vi ge oss av till nordalverna!"
 
@@ -1366,18 +1420,18 @@ msgstr ""
 "Kalenz och hans trupper rusade iväg för att hjälpa till att säkra alvernas "
 "skattkammare."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:151
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:156
 msgid ""
 "It seems that we are too late. The Treasury has fallen to the Saurians...."
 msgstr ""
 "Det verkar som om vi kommer för sent. Skattkammaren har fallit i ödlefolkets "
 "händer..."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:156
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:161
 msgid "and I see the remains of the garrison has been taken prisoners."
 msgstr "Och resten av garnisonen har tagits tillfånga."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:161
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:166
 msgid ""
 "We have to free them and make these Saurians pay. Attack and leave no one "
 "alive!"
@@ -1385,7 +1439,7 @@ msgstr ""
 "Vi måste befria dem och straffa de här ödlemännen. Anfall och låt inte någon "
 "komma härifrån levande!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:166
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:171
 msgid ""
 " More elves are coming! Too late, we've taken all your gold and we'll get "
 "more gold from the orcs for helping them out! "
@@ -1393,35 +1447,35 @@ msgstr ""
 "Det kommer fler alver! För sent, vi har tagit allt ert guld, och vi kommer "
 "att få än mer guld från orcherna som tack för hjälpen!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:171
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:176
 msgid "You will not live to enjoy it!"
 msgstr "Ni kommer inte att leva för att njuta av det!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:183
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:188
 msgid "I have failed! The elves are doomed..."
 msgstr "Jag har misslyckats! Alverna är förlorade..."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:196
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:201
 msgid "No! we will never recover our gold in time..."
 msgstr "Nej! Vi hinner inte återta vårt guld..."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:209
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:214
 msgid "Whoever messes with my people will die!"
 msgstr "Envar som ställer till trubbel för mitt folk kommer att dö!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:221
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:226
 msgid "Aargh! I'm gone!"
 msgstr "Aargh! Jag är slut!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:226
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:231
 msgid "I told you so!"
 msgstr "Det var ju det jag sa!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:230
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:235
 msgid "Let it be known that you perished at the hands of the Elves of Kalenz!"
 msgstr "Sprid ordet att det var för Kalenz alvers händer som du gick under!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:287
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:296
 msgid ""
 "We are free! My lord Kalenz we will follow you anywhere and be forever "
 "grateful. I have important information about our treasure."
@@ -1429,13 +1483,13 @@ msgstr ""
 "Vi är fria! Furst Kalenz, vi följer dig vart du önskar, och vi är dig evigt "
 "tacksamma. Jag har viktig information om vår skattkammare."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:296
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:305
 msgid ""
 "We have defeated the Saurians and freed the garrison, but our gold is gone. "
 msgstr ""
 "Vi har besegrat ödlefolket och befriat garnisonen, men vårt guld är borta."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:301
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:310
 msgid ""
 "The Saurians have apparently taken all our treasure to their treasury. They "
 "were particularly interested in finding some dastone, I could not really "
@@ -1445,7 +1499,7 @@ msgstr ""
 "letade särskilt efter någon 'stenen', men jag förstod inte riktigt vad det "
 "rörde sig om."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:307
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:316
 msgid ""
 "I heard the war with the Orcs is not going well. We really need all this "
 "gold!"
@@ -1453,7 +1507,7 @@ msgstr ""
 "Det sägs att kriget mot orcherna drar ut på tiden. Vi behöver sannerligen "
 "allt guld som fanns här."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:313
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:322
 msgid ""
 "We will hunt down those Saurians and get back our gold. And, we must make "
 "them pay for messing with us! Let's hurry. "
@@ -1461,7 +1515,7 @@ msgstr ""
 "Vi skall leta reda på de där ödlemännen och ta tillbaka vårt guld. Och så "
 "skall de få betalt för att de ställt till det för oss! Skynda!"
 
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:341
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:350
 msgid "No! We need Cleodil!"
 msgstr "Nej! Vi behöver Cleodil!"
 
@@ -1471,35 +1525,32 @@ msgstr "Krigets slut"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:20
 msgid ""
-"After assembling all the army he could, Kalenz marched against his old "
-"friend and now mortal enemy, Landar..."
+"They say the battle at the North Elves was the beginning of the end for "
+"Landar's revolt. The truth is that  the  civil war went on for many more "
+"years, neither side having enough strength to achieve a decisive victory... "
+"But eventually Landar's ways turned away  many of his followers. After "
+"assembling all the army he could, Kalenz marched against his old friend and "
+"now mortal enemy, Landar,  in the forest of Gitamoth... "
 msgstr ""
-"Efter att ha kallat samman en så stor armé som möjligt, marscherade Kalenz "
-"mot sin gamle vän och numera dödsfiende, Landar..."
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:88
 msgid "Defeat Landar"
 msgstr "Besegra Landar"
 
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:125
-msgid ""
-"Landar, listen to me! It does not have to come to this. I know about the "
-"potion. Let us help!"
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:141
+msgid "Landar, let's not spill any more elvish blood.  Give up. We can help!"
 msgstr ""
-"Landar, lyssna på mig! Det behöver inte bli så här. Jag känner till "
-"elixiret. Låt oss hjälpa dig!"
 
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:130
-msgid "Here is Kalenz. There is no talk with traitors! Let none of them alive!"
-msgstr ""
-"Så här är Kalenz. Det blir inget förhandlande med förrädare! Låt inte någon "
-"komma undan!"
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:146
+#, fuzzy
+msgid "No! It all ends here!"
+msgstr "Nej! Det är slut!"
 
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:156
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:172
 msgid "I'm done. Now I can rest!"
 msgstr "Jag är färdig. Nu kan jag vila!"
 
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:161
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:177
 msgid ""
 "I'm very sorry Landar. You were my best friend. I was blind at what the "
 "potion was doing to you. I was fighting it myself!"
@@ -1507,7 +1558,7 @@ msgstr ""
 "Jag beklagar verkligen, Landar. Du var min bästa vän. Jag såg inte vad "
 "elixiret gjorde med dig. Jag kämpade mot det själv!"
 
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:166
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:182
 msgid ""
 "I know. But I did not take just one bottle. I wanted to make sure we could "
 "kill the orcish king. Now I have driven our dwarvish allies away and have "
@@ -1519,7 +1570,7 @@ msgstr ""
 "allierade och har bringat död och förödelse över vårt eget folk. Jag har "
 "till och med försökt döda min egen vän. Jag förtjänar inte att vara alv."
 
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:171
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:187
 msgid ""
 "It was not your fault. Maybe it was the curse of Aquagar or maybe it's the "
 "price we had to pay. Rest well, my friend. Rest well Landar, Hero of the "
@@ -1528,12 +1579,18 @@ msgstr ""
 "Det var inte ditt fel! Kanske var det Aquagars förbannelse, eller så är det "
 "det priset vi måste betala. Vila, min vän. Vila, Landar, alvernas hjälte!"
 
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:206
+#, fuzzy
+msgid "No! Not Cleodil!"
+msgstr "Nej! Inte Cleodil!"
+
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:3
 msgid "Epilogue"
 msgstr "Epilog"
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:13
-msgid "After the end of Asheviere, Landar returned to his home in the North."
+#, fuzzy
+msgid "After the end of Asheviere, Kalenz returned to his home in the North."
 msgstr "Efter att Asheviere besegrats, återvände Landar till sitt hem i norr."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:17
@@ -1557,11 +1614,12 @@ msgid "Kalenz's story  lived from mouth to mouth for the coming generations."
 msgstr "Kalenz historia berättades i de kommande generationerna."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:29
+#, fuzzy
 msgid ""
 "But even many years later many said he was still roaming the forests of "
 "Wesnoth, making sure they will be forever home to the elves of Wesnoth, for "
 "the elves, like humans, had paid in much blood and suffering to learn that "
-"nothing in this world comes for free."
+"nothing in the world of  Wesnoth comes for free."
 msgstr ""
 "Men även många år senare berättades det att han fortfarande levde i Wesnoths "
 "skogar, för att se till att de skulle fortsätta vara alvernas hem i Wesnoth. "
@@ -1614,6 +1672,120 @@ msgstr ""
 "hot inte var borta, att alverna gått miste om ett ypperligt tillfälle att ta "
 "itu med hotet, och att de skulle återvända."
 
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:5
+msgid "Hero's Return"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:21
+msgid ""
+"Sparring Eldred's life proved to be a very costly mistake. After Eldred's "
+"betrayal of Garard at Abez(see  the Heir to the Throne campaign) and the "
+"subsequent ascension to the throne by Asheviere the elves had no contact "
+"with the humans, save for Delfador and his new protege, Konrad. Then, one "
+"day, Cleodil's fears had come true: Asheviere has attacked in the south, "
+"using orcish mercenaries...Kalenz quickly gathered the troops..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:200
+msgid ""
+"Looks like the orcs have attacked in force... This is the place Delfador and "
+"young Konrad were living in. I wonder if they were able to flee in time..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:205
+msgid "More elves! Attack them and leave no one alive!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:210
+msgid ""
+"Orcs, you have set foot on our forest for the last time! Prepare to die!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:215
+msgid ""
+"Ha!  This will be your end. The humans are no longer on your side. And with "
+"the Queen's gold, we can get many who will fight for us!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:224
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:242
+msgid "No! it's all over!"
+msgstr "Nej! Det är slut!"
+
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:251
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:248
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:211
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:254
+msgid "No! More orcs are coming, we are doomed..."
+msgstr "Nej! Det kommer fler orcher! Vi är dödsdömda..."
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:268
+msgid ""
+"Speak the truth and die quickly: Where is the human mage and the prince? "
+"What have you done to them?"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:273
+msgid "They are dead. We burned them."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:278
+msgid ""
+"If this were true, you'd either display them or have sent their bodies to "
+"the queen. Make sure this lying worm dies slow."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:288
+msgid "Victory!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:314
+msgid ""
+"My Lord Kalenz, you are urgently needed at a council meeting at the K'alian. "
+"Delfador will also be there among the human rebells!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:361
+#, fuzzy
+msgid "Ha! More of us are coming! You elves are lost!"
+msgstr "Det kommer fler vandöda! Allt är förlorat!"
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:372
+msgid "Athburil"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:373
+msgid "Panorea"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:377
+msgid "Good thing you came! More of us are hiding in the forest."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:388
+msgid "Ithoras"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:389
+msgid "Kletskis"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:398
+msgid "Pribol"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:399
+msgid "Ilendal"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:408
+msgid "Gliglus"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:409
+msgid "Arthanar"
+msgstr ""
+
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:4
 msgid "Hostile Mountains"
 msgstr "Fientliga bergstrakter"
@@ -1628,12 +1800,12 @@ msgstr ""
 "huvudlederna redan var översvämmade av orcher. De blev tvungna att ta en "
 "omväg genom territorium de helst undvek..."
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:222
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:111
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:223
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:112
 msgid "Reach the signpost"
 msgstr "Nå fram till vägskylten"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:146
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:147
 msgid ""
 "I hoped to avoid these paths...The eastern path is dwarven territory and is "
 "shorter. I hope the dwarves grant us safe passage, since the other path is "
@@ -1643,7 +1815,7 @@ msgstr ""
 "dvärgterritorium och är kortare. Jag hoppas att dvärgarna låter oss passera, "
 "eftersom den andra leder genom trollterritorium..."
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:151
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:152
 msgid ""
 "Not in your dreams, elf! These are dwarven lands. We don't want you and your "
 "likes here! Take a hike!"
@@ -1651,7 +1823,7 @@ msgstr ""
 "Glöm det, alv! Detta är dvärgland. Vi vill inte ha dig och dina likar här! "
 "Försvinn!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:156
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:157
 msgid ""
 "Look, the orcs have landed. They will be attacking you too any minute now. "
 "This is no time to fight among ourselves!"
@@ -1659,7 +1831,7 @@ msgstr ""
 "Titta, orcherna har kommit. De anfaller när som helst nu. Vi har inte tid "
 "för interna stridigheter nu!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:161
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:162
 msgid ""
 "'nother of these elvish tricks, huh? We know your kind. And who needs your "
 "help anyway, weaklings? Leave now, or feel my axe! And so will anyone else "
@@ -1671,11 +1843,11 @@ msgstr ""
 "som träder in på dvärgterritorium. Vi fruktar ingen. Den som sätter sin fot "
 "på flodens östra strand kommer att ångra sig!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:166
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:167
 msgid "I guess the trolls cannot be any less friendly"
 msgstr "Jag antar att trollen inte kan vara så mycket mer ovänliga..."
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:171
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:172
 msgid ""
 "Hmm... Maybe the dwarves CAN still be of help. Onwards and no matter what "
 "you do, do NOT step on the east band of the river!"
@@ -1683,41 +1855,41 @@ msgstr ""
 "Hmm... Dvärgarna kanske fortfarande kan vara till hjälp. Framåt! Och vad ni "
 "än gör, gå INTE upp på flodens östra strand!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:325
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:198
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:332
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:199
 msgid "No! without  his bow we have no chance!"
 msgstr "Nej! Utan hans båge har vi inte en chans!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:211
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:212
 msgid "Oh, no! More trolls are coming, we are doomed..."
 msgstr "Åh nej! Det kommer ännu fler troll! Vi är dödsdömda...!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:262
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:224
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:264
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:225
 msgid "payback time!"
 msgstr "Nu skall ni få!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:240
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:241
 msgid "We made it! Now onward to Wesmere! Hurry!"
 msgstr "Vi klarade det! Framåt mot Wesmere! Skynda!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:258
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:259
 msgid "These darn trolls stepped on OUR land! Attack!"
 msgstr "De där trollen går på VÅR mark! Attack!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:281
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:282
 msgid "These darn elves stepped on OUR land! Attack!"
 msgstr "De där alverna går på VÅR mark! Attack!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:302
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:303
 msgid "We made it. Onwards to Wesmere!"
 msgstr "Vi klarade det. Mot Wesmere!"
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:307
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:308
 msgid "Crazy Elves! But at least they helped us with the trolls"
 msgstr "Galna alver! Men de hjälpte oss åtminstone med trollen."
 
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:323
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:324
 msgid "No! we need the dwarves on our side!"
 msgstr "Nej! Vi måste ha dvärgarna på vår sida!"
 
@@ -1733,15 +1905,15 @@ msgstr ""
 "Kalenz och hans mannar kom slutligen fram till Ka'lian, men saker och ting "
 "var inte som de hade hoppats..."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:177
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:179
 msgid "Oh no! The Ka'lian is under attack! We must help them!"
 msgstr "Åh nej! Ka'lian är under attack! Vi måste hjälpa dem!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:182
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:184
 msgid "Are you our army's vanguard? Hurry, we are under attack!"
 msgstr "Är ni er armés förtrupp? Skynda er, vi är under attack!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:187
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:189
 msgid ""
 "No, we were also attacked up north. Anyway, we'll talk later. Now let's "
 "drive these foul orcs out of our forest! Then surely the allied elvish and "
@@ -1751,7 +1923,7 @@ msgstr ""
 "vi ut de vidriga orcherna ur vår skog! Sedan kan alvernas och människornas "
 "förenade arméer besegra dem."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:192
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:194
 msgid ""
 "Then you have not heard. King Haldric has broken the treaty. The humans will "
 "not come to our help!"
@@ -1759,36 +1931,27 @@ msgstr ""
 "I så fall har ni inte hört. Kung Haldric har brutit pakten. Människorna "
 "kommer inte till vår hjälp!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:197
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:199
 msgid "What's that? More meat for my troops? Get them!"
 msgstr "Vad är detta? Mer kött till mina soldater? På dem!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:222
-msgid "No! it's all over!"
-msgstr "Nej! Det är slut!"
-
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:236
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:238
 msgid "With Landar gone, it's hopeless!"
 msgstr "Med Landar borta är allt hopplöst!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:249
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:235
-msgid "No! More orcs are coming, we are doomed..."
-msgstr "Nej! Det kommer fler orcher! Vi är dödsdömda..."
-
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:273
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:275
 msgid "How can this be?  Anyway, we have more surprises for you, elves!"
 msgstr "Hur kan detta hända? Nåväl, vi har fler överraskningar åt er, alver!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:283
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:285
 msgid "We won! The K'alian is safe!"
 msgstr "Vi vann! Ka'lian är säkert!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:315
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:319
 msgid "The elvish treasury is under attack! They desparately need help!"
 msgstr "Alvernas skattkammare är under attack! De behöver vår hjälp!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:320
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:324
 msgid ""
 "Galtrid, the orcs have been beaten, but you should remain here, for there "
 "may be a few more around. I'll go "
@@ -1796,17 +1959,50 @@ msgstr ""
 "Galtrid, orchernas är slagna, men du borde stanna kvar här, för det kan "
 "finnas fler i närheten. Jag går."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:326
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:330
 msgid "Please hurry! The situation was desperate as I was leaving."
 msgstr "Skynda dig! Situationen var desperat när jag gick."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:332
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:336
 msgid "Go Kalenz, I'll guard the Ka'lian till our army returns from the front."
 msgstr "Gå, Kalenz. Jag vaktar Ka'lian tills vår armé återvändes från fronten."
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:3
 msgid "Mountain_Lake"
 msgstr "Bergssjön"
+
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:26
+msgid ""
+"The elves moved in to recapture the Mountain lake, an area until now noted "
+"for its peacefulness and tranquility..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:145
+msgid "Here we are.  This mountain mist looks dangerous!."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:158
+msgid ""
+"That coward leader of them was not here! It seems he has moved against the "
+"humans."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:163
+msgid ""
+"Then let them fight it out. The human kings have reverted back to the days "
+"of the Haldric traitor."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:168
+msgid ""
+"Yes, but I cannot understand this. Before we thought it was that ruby of "
+"fire, but we told Haldric II and he was going to solve this problem."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:235
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:186
+msgid "The elves will now fall!"
+msgstr "Alverna skall falla!"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:6
 msgid "News from the front"
@@ -1836,7 +2032,7 @@ msgstr "Kanske kan några av mina dvärgar eskortera dig..."
 msgid "Ok, Landar, but be careful. We need you."
 msgstr "Okej, Landar, men var försiktig. Vi behöver dig."
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:151
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:142
 msgid ""
 "At last I found you alive and well! We need you back at once! The orcs have "
 "attacked the humans."
@@ -1844,11 +2040,11 @@ msgstr ""
 "Äntligen hittade jag dig! Vi behöver dig med en gång! Orcherna har anfallit "
 "människorna."
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:156
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:147
 msgid "This means we  are safe for the time being, no?"
 msgstr "Det betyder att vi är säkra för tillfället, inte sant?"
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:161
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:152
 msgid ""
 "What's more, King Haldric is dead. His successor wants to renew our ancient "
 "alliance and has asked for our help."
@@ -1856,19 +2052,19 @@ msgstr ""
 "Dessutom, kung Haldric är död. Hans efterträdare vill förnya vår uråldriga "
 "allians och har bett om vår hjälp."
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:199
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:190
 msgid "How convenient! Now they need our help!"
 msgstr "Så lämpligt! Nu behöver de vår hjälp!"
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:204
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:195
 msgid "Landar! You're back! Everything's ok?"
 msgstr "Landar! Du är tillbaka? Är allt väl?"
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:209
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:200
 msgid "Yes, I have the potion. "
 msgstr "Ja, jag har elixiret."
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:214
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:205
 msgid ""
 "Now this is a difficult choice. I know humans didn't help us when the orcs "
 "attacked, but the orcs are everybody's enemy. When humans fall, we'll be "
@@ -1878,7 +2074,7 @@ msgstr ""
 "orcherna anföll, men orcherna är alla fiender. När människorna faller blir "
 "det vår tur."
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:219
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:210
 msgid ""
 "The orcish forces are encamped south of the great river,  and have "
 "surrounded the city of  Weslath. The humans are sending all their forces "
@@ -1888,10 +2084,57 @@ msgstr ""
 "staden Weslath. Människorna skickar dit alla sina styrkor. Vi måste besluta "
 "om vi skall hjälpa dem eller inte."
 
-#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:224
+#: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:215
 msgid ""
 "Go tell the council and the human king that we'll be there! Now let's hurry!"
 msgstr "Gå och säg till Rådet och människokungen att vi kommer! Nu, skynda!"
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:4
+msgid "Northern Battle"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:20
+msgid ""
+"Kalenz managed to reach the North Elves to ask for help. Very soon, Landar's "
+"army appeared..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:137
+msgid "Survive for six days"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:217
+msgid ""
+"Landar, listen to me! It does not have to come to this. I know about the "
+"potion. Let us help!"
+msgstr ""
+"Landar, lyssna på mig! Det behöver inte bli så här. Jag känner till "
+"elixiret. Låt oss hjälpa dig!"
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:222
+msgid "Here is Kalenz. There is no talk with traitors! Let none of them alive!"
+msgstr ""
+"Så här är Kalenz. Det blir inget förhandlande med förrädare! Låt inte någon "
+"komma undan!"
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:236
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:258
+msgid "Things are not going well! Retreat! We will meet again, traitors!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:307
+msgid "With Uradredia gone, the North Elves will no longer fight!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:318
+msgid ""
+"We have yet to breakk their defences! While we are getting weaker the enemy "
+"is getting stronger! Retreat!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:329
+msgid "We won!"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:4
 msgid "Prince of Wesnoth"
@@ -1927,7 +2170,7 @@ msgstr ""
 msgid "Defeat Eldred"
 msgstr "Besegra Eldred"
 
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:130
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:132
 msgid ""
 "Wesnoth Generals, you have attacked defenseless elvish land. You must leave "
 "immediately. I am Kalenz, lord of the elfs. You can ask the great Delfador "
@@ -1937,7 +2180,7 @@ msgstr ""
 "er av genast. Jag är Kalenz, alvernas furste. Den store Delfador kan "
 "bekräfta mina ord."
 
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:135
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:137
 msgid ""
 "This is elvish land no more. I, Eldred, prince of Wesnoth and heir to the "
 "throne claim it for Wesnoth and Queen Asheviere. Delfador does not rule "
@@ -1947,17 +2190,18 @@ msgstr ""
 "tronarvinge annekterar det för Wesnoth och drottning Asheviere. Delfador "
 "regerar inte i Wesnoth!"
 
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:140
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:142
 msgid "I did not want to spill human blood, but there is no other choice."
 msgstr "Jag vill inte spilla människoblod, men det finns ingen annan utväg."
 
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:200
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:202
+#, fuzzy
 msgid ""
-"Peace Friends! I have been riding nonstop for days to prevent this! Eldred, "
-"I have direct orders from the King to take you back to the Palace, where you "
-"will be reprimanded for your unexcusable actions. Kalenz, the King offers "
-"his deepest apologies for these events and promises to do anything in his "
-"power to make amends."
+"Peace Friends! I have been riding nonstop for days to prevent this maddness! "
+"Eldred, I have direct orders from the King to take you back to the Palace, "
+"where you will be reprimanded for your unexcusable actions. Kalenz, the King "
+"offers his deepest apologies for these events and promises to do anything in "
+"his power to make amends."
 msgstr ""
 "Fred, vänner! Jag har ridit i dagar för att förhindra detta! Eldred, jag har "
 "direkta order från kungen att ta dig tillbaka till palatset, där du skall få "
@@ -1965,7 +2209,7 @@ msgstr ""
 "ursäkter för dessa händelser och lovar att han skall göra vad som ligger i "
 "hans makt för att återgälda er."
 
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:205
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:207
 msgid ""
 "Delfador! I am glad to see you. We have no demands on the King, but I "
 "believe he should be very careful, for he does not seem to be the only one "
@@ -1975,12 +2219,20 @@ msgstr ""
 "han borde nog ta sig i akt, för han verkar inte vara den enda som styr över "
 "Wesnoth!"
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:265
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:222
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:213
+msgid ""
+"Kalenz, I am very worried. I can see great evil in the palace and it is not "
+"just the prince. I see dark days ahead..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:272
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:390
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:234
 msgid "No, the elves will fall!"
 msgstr "Nej, alverna kommer att falla!"
 
-#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:234
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:284
+#: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:246
 msgid "We are too late! All is lost!"
 msgstr "Vi kom för sent! Allt är förlorat!"
 
@@ -1988,7 +2240,7 @@ msgstr "Vi kom för sent! Allt är förlorat!"
 msgid "Revelations"
 msgstr "Avslöjanden"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:68
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:71
 msgid ""
 "So you are the ones who defeated Aquagar and his drakes. You must be Olurf, "
 "and have been here before when we were both much younger. But Elves never "
@@ -2000,7 +2252,7 @@ msgstr ""
 "varit i Thoria förut. Men detta är oroliga tider. Jag känner till alltihop. "
 "Jag har förutspått att detta skulle ske."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:73
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:76
 msgid ""
 "This is Kalenz, leader of the elves. I have brought him here so he can ask "
 "for your advice and your help to deal with the orcs."
@@ -2008,7 +2260,7 @@ msgstr ""
 "Detta är Kalenz, alvernas ledare. Jag har tagit med honom hit så att han kan "
 "fråga dig om råd och be dig om hjälp för att besegra orcherna."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:78
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:81
 msgid ""
 "Elves, you have fought valiantly and have won a great victory at the forest "
 "of Wesmere. Yet the forces that are upon you are not yet defeated. Indeed, "
@@ -2020,11 +2272,11 @@ msgstr ""
 "starkare för varje dag. Ni strider mot ödet. För ögonblicket har ni dock "
 "lyckats avleda deras uppmärksamhet."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:83
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:86
 msgid "What do you mean  divert their attention?"
 msgstr "Vad menar du med att vi har avlett deras uppmärksamhet?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:88
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:91
 msgid ""
 "You cannot even imagine it. Why do you think orcs came all the way here  to "
 "attack you?"
@@ -2032,17 +2284,17 @@ msgstr ""
 "Ni kan inte ens föreställa er det. Varför tror ni orcherna kom hela den här "
 "vägen för att anfalla er?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:93
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:96
 msgid "Because they are orcs! Look old man, can you help us beat them or not?"
 msgstr ""
 "För att de är orcher! Hör nu, gamle man, kan du hjälpa oss att besegra dem, "
 "eller inte?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:98
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:101
 msgid "You must be Landar, very brave, but also very brash. "
 msgstr "Du måste vara Landar; mycket modig, men också mycket högfärdig."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:104
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:107
 msgid ""
 "Landar is brash, but this is why we came here. I also do not understand what "
 "you are talking about. Olurf tells me you are very wise, but only help for a "
@@ -2052,15 +2304,15 @@ msgstr ""
 "vad du talar om. Olurf säger att du är mycket vis, men att din hjälp har ett "
 "pris. Om det är vad du vill ha, så nämn ditt pris."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:109
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:112
 msgid "Are you saying the Orcs attacked us looking for something?"
 msgstr "Påstår du att orcherna anföll oss av en särskild anledning?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:114
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:117
 msgid "Yes, that is what I am saying"
 msgstr "Ja, det är det jag säger."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:119
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:122
 msgid ""
 "It makes sense now: The Saurians were asking about a dastone and also after "
 "we won in Wesmere there was an Orc mumbling something about a dastone.."
@@ -2068,15 +2320,15 @@ msgstr ""
 "Nu förstår jag: ödlefolket frågade om någon sten och efter att vi vunnit i "
 "Wesmere mumlade också någon orch om en sten..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:124
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:127
 msgid "It's not a dastone, it's the stone: The mean the ruby of fire..."
 msgstr "Ja, de syftar på Eldrubinen..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:129
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:132
 msgid "What's that and what does it have to do with us?"
 msgstr "Vad är det och vad har det med oss att göra?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:134
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:137
 msgid ""
 "It's the source of your troubles: This is a very powerful magical artifact "
 "and that Haldric tyrrant has it. He has fooled the orcs that the elves have "
@@ -2088,7 +2340,7 @@ msgstr ""
 "Men nu misstänker de att de blivit förda bakom ljuset. Haldric kommer att få "
 "betala för sin arrogans."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:139
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:142
 msgid ""
 "Hmm... You seem to like king Haldric even less than elves...How do you know "
 "all these?"
@@ -2096,7 +2348,7 @@ msgstr ""
 "Hmm... Du verkar tycka sämre om Haldric än alver... Hur känner du till allt "
 "detta?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:144
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:147
 msgid ""
 "He was the one who banished me from Wesnoth. They say I tried to steal the "
 "ruby and become too powerful... Truth is this ruby is driving Haldric more "
@@ -2110,20 +2362,20 @@ msgstr ""
 "strid, men bara en sann mästare kan handha den utanför strid. Oskärmad så "
 "förändrar dess magiska strålglans Haldric varje gång han kommer nära den."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:149
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:152
 msgid "So the orcs will now attack the humans?"
 msgstr "Så orcherna kommer nu att anfalla människorna?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:154
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:157
 msgid "Yes, but after they win you're next and so are dwarves"
 msgstr ""
 "Ja, men efter att de vunnit där, så är det alvernas och dvärgarnas tur."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:159
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:162
 msgid "Don't worry about us. You seem to have some problems of your own."
 msgstr "Oroa dig inte över oss. Du verkar ha egna problem."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:164
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:167
 msgid ""
 "You obviously know a lot. But can you help us? Is there a way to stop the "
 "orcs?"
@@ -2131,7 +2383,7 @@ msgstr ""
 "Du verkar veta en hel del. Men kan du hjälpa oss? Kan vi hejda orcherna på "
 "något sätt?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:169
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:172
 msgid ""
 "You cannot defeat them with the forces you have now. You can only gain time, "
 "maybe this will be enough for you to grow strong enough again."
@@ -2139,7 +2391,7 @@ msgstr ""
 "Ni kan inte besegra dem med de styrkor ni har nu. Ni kan bara köpa er tid; "
 "kanske kommer det att vara tillräckligt för att samla nog med styrka."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:174
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:177
 msgid ""
 "How? Don't tell me we had to fight the Saurians, cross Arkan-Thoria with all "
 "its sea monsters and fight trolls and yetis to come here for nothing!"
@@ -2148,7 +2400,7 @@ msgstr ""
 "sjömonster och slogs mot troll och snömän för att inte få med oss något "
 "tillbaka!"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:179
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:182
 msgid ""
 "You need to kill their king and make it look like he was killed by orcs. "
 "This way the orcs will start a civil war for succession, for many want to "
@@ -2160,19 +2412,19 @@ msgstr ""
 "hans plats. Ni kommer att vara säkra tills de har en ny stark ledare som kan "
 "ena dem på nytt."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:184
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:187
 msgid "Kill an orcish King? But he's guarded  better than  a Troll hole!"
 msgstr "Döda en orchkung? Men han är bättre bevakad än en trollhåla!"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:189
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:192
 msgid "Indeed it will be very hard, but maybe I can help you..."
 msgstr "Det blir mycket svårt, men jag kanske kan hjälpa er..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:194
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:197
 msgid "But you want something in return..."
 msgstr "Men du vill ha något i gengäld..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:199
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:202
 msgid ""
 "It is as you say. These drakes were after my book. This book has all the "
 "magic tricks, filters and spells I know. They are very powerful, but will "
@@ -2188,11 +2440,11 @@ msgstr ""
 "inte förstöra den. Även om Aquagar är död, så kommer fler att komma efter "
 "den. En av de mina har förrått mig. Nu känner alltför många till boken."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:204
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:207
 msgid "If you come with us, we will protect you..."
 msgstr "Om du följer med oss, så kan vi skydda dig..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:209
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:212
 msgid ""
 "No, my time is up... But you can make sure my book ends up in worthy hands. "
 "Someone who will not be corrupted by its power..."
@@ -2200,13 +2452,13 @@ msgstr ""
 "Nej, min tid är inne... Men ni kan se till att min bok hamnar i värdiga "
 "händer. Någon som inte förleds av dess kraft..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:214
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:217
 msgid ""
 "If your book is as powerful as you say, why not use it against the orcs?"
 msgstr ""
 "Om din bok är så mäktig som du säger, varför inte använda den mot orcherna?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:219
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:222
 msgid ""
 "Any fool can use the magic in the  book, but only a master can use and "
 "control the lust for power. If not, you will turn into something like "
@@ -2216,13 +2468,13 @@ msgstr ""
 "kan använda den och kontrollera maktlystnaden. Om inte blir man som Haldric "
 "eller ännu värre..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:224
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:227
 msgid ""
 "Maybe Cleodil can guard your book without being corrupted by its secrets..."
 msgstr ""
 "Kanske kan Cleodil vakta din bok utan att förledas av dess hemligheter..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:229
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:232
 msgid ""
 "I am sure all these secrets are way beyond my art. My art is the healing "
 "kind and I..."
@@ -2230,11 +2482,11 @@ msgstr ""
 "Jag är säker på att alla dessa hemligheter är bortom min kunskap. Min konst "
 "är helandet och jag..."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:234
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:237
 msgid "There is no other option."
 msgstr "Det är enda utvägen."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:239
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:242
 msgid ""
 "Ok, suppose Cleodil accepts to guard your book. How will you help us then "
 "slay the orcish king?"
@@ -2242,7 +2494,7 @@ msgstr ""
 "Nåväl, anta att Cleodil accepterar. Hur kan du hjälpa oss att döda "
 "orchkungen då?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:244
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:247
 msgid ""
 "There is a way, but it is very dangerous: Two of you can enter the orcish "
 "camp by stealth and kill their king. There is  a potion that will make you "
@@ -2252,13 +2504,13 @@ msgstr ""
 "orchlägret och döda kungen. Det finns ett elixir som gör er osynliga en "
 "stund."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:249
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:252
 msgid ""
 "I have never heard of something like that. I suppose you have this potion "
 "then?"
 msgstr "Detta var nyheter för mig. Då antar jag att du har det här elixiret?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:254
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:257
 msgid ""
 "Indeed I do, but it is very dangerous: It is made from the eyes of a "
 "powerful undead lich. It will make you invisible, but it may also have other "
@@ -2268,15 +2520,15 @@ msgstr ""
 "ögon. Det gör er osynliga, men det kan också ha andra oönskade effekter, "
 "vissa tillfälliga, andra permanenta!"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:259
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:262
 msgid "No! this is too dark and dangerous!"
 msgstr "Nej! Det är för farligt!"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:264
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:267
 msgid "What undesirable effects?"
 msgstr "Vilka oönskade effekter har det?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:269
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:272
 msgid ""
 "Your physical strength will decrease, but in return you will be able to "
 "easily use magic. Cleodil will show you. But the real danger will be evil "
@@ -2290,7 +2542,7 @@ msgstr ""
 "avsluta uppdraget snabbt. Dröj och ni kommer inte bara att misslyckas med "
 "ert uppdrag utan också bli tillfångatagna."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:274
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:277
 msgid ""
 "I do not like this, but I see no other way: We must stop the orcs. So, since "
 "I am the leader, I will be one of the two who will go to kill the king. But "
@@ -2302,15 +2554,15 @@ msgstr ""
 "kan inte säga till någon annan att följa med mig; detta är alltför farligt. "
 "Är det någon som ställer upp frivilligt?"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:279
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:282
 msgid "I will come with you. We will not fail!"
 msgstr "Jag följer med dig. Vi kommer inte att misslyckas!"
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:284
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:287
 msgid "This does not seem a wise choice."
 msgstr "Det här är nog inget vist val."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:289
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:292
 msgid ""
 "Landar may be brash, but he is a great fighter and a trusted friend. We "
 "should be going now, I guess. Crelanu, your book will be safe with us. We "
@@ -2320,7 +2572,7 @@ msgstr ""
 "vän. Vi måste ge oss av nu, antar jag. Crelanu, din bok är säker med oss. Vi "
 "skall vakta den tills vi finner någon som är den värdig."
 
-#: Legend_of_Wesmere/scenarios/Revelations.cfg:294
+#: Legend_of_Wesmere/scenarios/Revelations.cfg:297
 msgid ""
 "Come, I will give you and Landar a potion and show you a safe point to cross "
 "the river."
@@ -2336,7 +2588,7 @@ msgstr "Överfart"
 msgid "Kalenz  moved North to take the fight to Black Eye Karun..."
 msgstr "Kalenz färdades norrut för att ta striden till Svartögat Karun..."
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:113
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:128
 msgid ""
 "We need to cross the river. This is probably the best chance we'll get, but "
 "we will have to fight them."
@@ -2344,27 +2596,27 @@ msgstr ""
 "Vi måste korsa floden. Detta är troligen den bästa chansen vi får, men vi "
 "måste slåss mot dem."
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:118
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:133
 msgid "Elfs! They must not cross!"
 msgstr "Alver! De får inte komma över!"
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:144
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:159
 msgid "No!"
 msgstr "Nej!"
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:159
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:174
 msgid "Now we can cross!"
 msgstr "Nu kan vi ta oss över!"
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:181
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:196
 msgid "At last, the orcs are in this land no more!"
 msgstr "Äntligen, orcherna är förgjorda!"
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:186
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:201
 msgid "Who is this? A speaking tree?"
 msgstr "Vem är det? Ett talande träd?"
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:191
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:206
 msgid ""
 "Not a tree, I am Ur-Thorodor, protector of this place. I have not been able "
 "to prevent the orcs from desecrating this holy place."
@@ -2373,11 +2625,11 @@ msgstr ""
 "varit framgångsrik i mina strävanden att hindra orcherna från att förröda "
 "denna heliga plats."
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:196
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:211
 msgid "What is holy about this place?"
 msgstr "Vad är det som är heligt med den här platsen?"
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:201
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:216
 msgid ""
 "This is a place where the spirit world comes close to this word. It is said "
 "that those with magical powers can communicate with the spirits of the dead. "
@@ -2394,7 +2646,7 @@ msgstr ""
 "tillbaka sina trupper för att medla med mig och skapa fred. Hans namn var "
 "Delfador."
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:206
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:221
 msgid ""
 "We are only seeking to attack the orcs and put a stop to their attacks. We "
 "will neither stay, nor desecrate this place."
@@ -2402,7 +2654,7 @@ msgstr ""
 "Vi söker bara anfalla orcherna och sätta stopp för deras attacker. Vi skall "
 "varken stanna här eller förröda denna plats."
 
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:211
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:226
 msgid ""
 "Then you will proceed north. But be careful, for the orcs have a large force "
 "and I also feel something is very wrong in the spirit world..."
@@ -2426,11 +2678,11 @@ msgstr ""
 "Alvspejare fick snabbt upp spåren efter ödlefolkets trupper och snart trädde "
 "Kalenz styrka in..."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:122
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:123
 msgid "Enter the Saurian Treasury and leave with the gold"
 msgstr "Träd in i ödlefolkets skattkammare och kom undan med guldet"
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:182
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:183
 msgid ""
 "There they are. They have transferred our gold to their treasury. We must "
 "strike quickly and leave with the gold before they bring in reinforcements"
@@ -2438,7 +2690,7 @@ msgstr ""
 "Där är de. De har lagt vårt guld i sin skattkammare. Vi måste slå till "
 "snabbt och ge oss av med guldet innan de kallar in förstärkningar."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:187
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:188
 msgid ""
 "The elves have followed us! We must hold the gold until reinforcements "
 "arrive."
@@ -2446,27 +2698,27 @@ msgstr ""
 "Alverna har följt efter oss! Vi måste slå vakt om guldet till vi får "
 "förstärkningar!"
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:225
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:226
 msgid "More Saurians are coming, we are defeated..."
 msgstr "Det kommer mer trupper, vi är förgjorda..."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:255
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:256
 msgid ""
 "We got to the treasury. It was much easier than we thought...What's this?"
 msgstr "Vi har skatten. Det var mycket lättare än vi trodde... Vad är detta?"
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:275
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:276
 msgid ""
 "Stupid elves thought the treasury was unguarded! Guards, slay these "
 "intruders!"
 msgstr ""
 "De dumma alverna trodde att skatten var obevakad! Vakter, döda inkräktarna!"
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:307
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:308
 msgid "We have recovered our gold. "
 msgstr "Vi har återtagit vårt guld."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:312
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:313
 msgid ""
 "No, we have recovered much more than our gold. Seems like the Saurians had "
 "robbed much more than our gold!"
@@ -2474,7 +2726,7 @@ msgstr ""
 "Nej, vi har kommit över mycket mer än bara vårt guld! Ödlefolket verkar ha "
 "stulit mycket mer än så!"
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:318
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:319
 msgid ""
 "They took all our gold! Quickly, set up garrisons everywhere. I will give "
 "500 gold to whoever kills their leader. They must not escape."
@@ -2483,7 +2735,7 @@ msgstr ""
 "femhundra guldstycken till den som dödar deras ledare. De får inte komma "
 "undan!"
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:324
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:325
 msgid ""
 "Turnaround is fair play. Now let's get all the gold and get back to Wesmere. "
 "But by now all Saurians will be looking for us, so we will take a route to "
@@ -2491,6 +2743,185 @@ msgid ""
 msgstr ""
 "Det är är bara rättvist. Ta allt guld så återvänder vi till Wesmere. Nu är "
 "väl hela ödlefolket efter oss, så vi får ta vägen norröver."
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:4
+msgid "Save the King"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:20
+msgid ""
+"Following Delfador, the elves moved to unite with the Wesnoth forces and "
+"meet Black Eye Karun head-on..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:30
+msgid "but the King was in an unenviable position..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:161
+msgid "Defeat Black Eye Karun"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:173
+#, fuzzy
+msgid "Death of Delfador"
+msgstr "Aldar dör"
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:177
+#, fuzzy
+msgid "Death of Garard"
+msgstr "Galtrid dör"
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:225
+msgid ""
+"It looks like we have arrived just in time! King Garard stands surrounded by "
+"the enemy."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:230
+msgid ""
+"It seems that we are too late. This new warlord has managed to unite the "
+"orcish tribes. Look at their army, it's huge!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:235
+msgid ""
+"Elves! I heard you have been looking for me! But you will save neither the "
+"human King, nor yourselves."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:240
+msgid ""
+"This must be their leader. We must destroy him now, before his power grows!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:252
+msgid "Invincible Black Eye Karun is dead? Quick, run for your lives!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:257
+msgid "You will terrorize Wesnoth no more!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:309
+#, fuzzy
+msgid "There goes Wesnoth's only hope!"
+msgstr "Där försvinner vårt sista hopp!"
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:324
+msgid "The King has fallen! Now Wesnoth will fail!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:335
+#, fuzzy
+msgid "Victory! "
+msgstr "Segern är vår!"
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:340
+msgid ""
+"Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
+"today!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:346
+msgid "My King, this is Kalenz, Lord of the Elves."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:352
+msgid "You will be forever welcome in the court of Wesnoth."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:357
+msgid "We are happy to have fought by your side."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:362
+msgid ""
+"King Garard, we have more urgent matters. Leollyn sent me on a mission to "
+"find out why the dead are restless. A foul necromancer has opened a portal "
+"to the land of the dead. This must be closed at all costs  and I am afraid "
+"my skills are insufficient for that task."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:367
+msgid ""
+"Kalenz, I feel Delfador is the chosen one. The one who can be trusted with "
+"the book. I believe the book will help him close that portal and eliminate "
+"the undead menace."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:373
+msgid ""
+"I agree. Never in my life have I met any human of his qualities. But I fear "
+"the book is cursed. It may bring lots of suffering to his holder and his "
+"people..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:378
+msgid ""
+"Yes, that may be. But I feel if anyone can be trusted with the book, it's "
+"him. It should be his decision if he accepts it or not."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:385
+msgid ""
+"Delfador, our weapons are weak against the undead, but perhaps we may still "
+"be able to help. The elvish forests have seen many falls since Crelanu "
+"entrusted his book of magic to Cleodil. It contains a lot of knowledge, "
+"knowledge that it took Crelanu all his life to gather."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:390
+msgid ""
+"The book was entrusted to Cleodil, until someone worthy of it came along. We "
+"believe you are that one, Delfador. The book may help you find a way to "
+"close that portal."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:396
+msgid ""
+"Friends, your words flatter me. I am not sure I am worthy of such a valuable "
+"possesion."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:401
+msgid ""
+"We are sure of that. But be warned, for we feel there is a curse to this "
+"book. Crelanu's advice brought a lot of destruction upon us, even though at "
+"the time we had no other choice..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:406
+msgid ""
+"I do not know if there is a curse to the book or not. All I know is that we "
+"must close that portal soon, or else we are all doomed."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:412
+msgid ""
+"This is a decision you will have to take. If we decide to fight the undead "
+"without the book's help, it will be an honor to fight by your side, no "
+"matter what the outcome."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:418
+msgid ""
+"The way you put it I have no choice but to accept the book, for I cannot "
+"bring sure death to many humans and elves for fear of the book..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:424
+msgid ""
+"Here it is, Delfador. May it help you bring a swift end to the undead menace "
+"and may its aquisiton lead you to happier times than it lead us..."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:431
+msgid ""
+"Thank you friends. May we meet in happier times.  Now I must make haste, for "
+"I need to study the book and prepare for the battle with the undead. Then, I "
+"will talk the King into shielding the sceptre properly."
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:4
 msgid "Shadows in the dark"
@@ -2504,41 +2935,53 @@ msgstr ""
 "Alverna följde Ur-Thorodors anvisningar och färdades norrut för att möta "
 "orchernas styrkor..."
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:155
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:157
 msgid ""
 "This forest looks too quiet. Proceed carefully, I don't like this at all."
 msgstr ""
 "Den här skogen är för tyst. Fortsätt med försiktighet, det är något som inte "
 "står rätt till."
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:163
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:165
 msgid "Living... Soon, you'll be more troops for my master!"
 msgstr "Levande... Snart är ni i min herres våld!"
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:168
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:170
 msgid "Undead! Where did they come from?"
 msgstr "Vandöda! Var kom de ifrån?"
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:247
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:175
+msgid "We should try to go West. I feel things are worse on the Eastern front."
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:225
+msgid "We have more help!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:277
+msgid "And now even more help!"
+msgstr ""
+
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:372
 msgid ""
 "I am Delfador the great! Foul creatures, time to  be put to your final rest!"
 msgstr ""
 "Jag är Delfador den Store! Vidriga varelser, det är dags att ni återförs "
 "till den slutliga vilan!"
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:252
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:377
 msgid "We have help now! Let's take the fight to them!"
 msgstr "Vi har fått hjälp! Nu tar vi striden till dem!"
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:280
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:405
 msgid "We are lost without the great mage!"
 msgstr "Vi är förlorade utan den store magikern!"
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:292
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:417
 msgid "More undead are coming! All is lost!"
 msgstr "Det kommer fler vandöda! Allt är förlorat!"
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:316
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:441
 msgid ""
 "So you are Delfador...Ur-Thorodor told us about you. But we thought you were "
 "dead or trapped in the Land of the Dead...I am Kalenz, lord of the elfs. We "
@@ -2548,7 +2991,7 @@ msgstr ""
 "död eller fången in dödsriket... Jag är Kalenz, alvernas furste. Vi står i "
 "skuld till dig."
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:321
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:446
 msgid ""
 "It is an honor to meet you. I escaped from  the Land of the Dead. I am "
 "chasing Iliah-Malal, the leader of the undead. "
@@ -2556,7 +2999,7 @@ msgstr ""
 "Jag är hedrad att träffa er. Jag lyckades fly från dödsriket. Jag jagar "
 "Iliah-Malal, de vandödas ledare."
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:326
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:451
 msgid ""
 "We were going to attack the orcs. Looks like we are not doing too well "
 "against the undead."
@@ -2564,7 +3007,7 @@ msgstr ""
 "Vi är på väg för att anfalla orcherna. Men det ser inte ut som att vi klarar "
 "oss så bra not de vandöda."
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:331
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:456
 msgid ""
 "The orcs have apparently crossed the great river in force. Our King may need "
 "all the help he can get. We will need your help to fend them off. I will "
@@ -2573,7 +3016,7 @@ msgstr ""
 "Orcherna korsade floden i stora antal. Vår kung behöver all hjälp han kan "
 "få. Vi behöver er hjälp för att hejda dem. Jag tar mig an de vandöda senare."
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:337
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:462
 msgid ""
 "Our experience with Wesnoth Kings has not been too good. At first we thought "
 "it was  that unshielded ruby of fire, but even after we told Haldric II and "
@@ -2585,7 +3028,7 @@ msgstr ""
 "till att den skärmades med ultrarent guld, så var de likväl arroganta. Men "
 "vi står i skuld till dig, Delfador, och vi kommer att följa med dig."
 
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:342
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:467
 msgid ""
 "What? The gold in sceptre is not at all pure! I must advise the King. But "
 "first we need to save him, so let's go."
@@ -2597,7 +3040,7 @@ msgstr ""
 msgid "The King must die"
 msgstr "Kungen måste dö"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:33
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:34
 msgid ""
 "With the battle of Weslath over, Kalenz and Landar knew they had to carry "
 "out Crelanu's most dangerous plan. Meanwhile Cleodil has been training "
@@ -2607,23 +3050,23 @@ msgstr ""
 "Crelanus farliga plan. Under tiden hade Cleodil undervisat Kalenz i några av "
 "Crelanus bok hemligheter..."
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:236
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:237
 msgid ""
 "Kill the Orcish King and Kalenz reaches the forest near his starting position"
 msgstr "Döda orchkungen och för Kalenz till skogen nära utgångspunkten."
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:522
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:523
 msgid ""
 "Here we are at last. Landar, are you sure you want to go through with this?"
 msgstr ""
 "Då var vi här till slut. Landar, är du säker på att du vill genomföra det "
 "här?"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:527
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:528
 msgid "Absolutely. Let's do it!"
 msgstr "Absolut! Nu gör vi det!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:532
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:533
 msgid ""
 "We need to kill the king and get out before the effect of the potion runs "
 "out. Let's drink our potions then!"
@@ -2631,7 +3074,7 @@ msgstr ""
 "Vi måste döda kungen och ta oss därifrån innan elixirets effekt tar slut. Då "
 "dricker vi!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:591
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:592
 msgid ""
 "This feels strange! Landar, remember to stay far from the wolves-they may be "
 "able to smell us."
@@ -2639,15 +3082,15 @@ msgstr ""
 "Det känns underligt! Landar, kom ihåg att undvika vargarna; de kan röja oss "
 "på lukten."
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:602
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:603
 msgid "It's all over"
 msgstr "Det är över."
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:616
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:617
 msgid "No! We have failed!"
 msgstr "Nej! Vi har misslyckats!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:631
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:632
 msgid ""
 "The orcish king is dead! Now let's make it look like he was slain by an "
 "orcish hand!"
@@ -2655,15 +3098,15 @@ msgstr ""
 "Orchkungen är död! Nu måste vi få det att se ut som att han dödades av "
 "orcher!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:646
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:647
 msgid "We are too late, the potion effects have worn off and we are visible! "
 msgstr "För sent, elixirets effekt har ebbat ut och vi är synliga igen!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:666
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:667
 msgid "Done!"
 msgstr "Klar!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:685
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:689
 msgid ""
 "The King has been murdered! Whoever did it will only get da throne over my "
 "dead stinking body!"
@@ -2671,19 +3114,19 @@ msgstr ""
 "Kungen har blivit mördad! Den som gjorde det kommer få gå över min döda "
 "stinkande kropp för att få tronen!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:690
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:694
 msgid "I am the strongest warlord! I will be king!"
 msgstr "Jag är den starkaste krigsherren! Jag blir kung!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:695
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:699
 msgid "No way anyone will steal my throne!"
 msgstr "Aldrig att någon stjäl min tron!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:700
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:704
 msgid "This is my time and no one will be in my way!"
 msgstr "Detta är min tid och ingen kan stå i min väg!"
 
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:705
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:709
 msgid "The plan is working! Now we take back what's ours!"
 msgstr "Planen fungerar! Nu tar vi tillbaka det som är vårt!"
 
@@ -2692,13 +3135,14 @@ msgid "The return of trouble"
 msgstr "Nya problem"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:20
+#, fuzzy
 msgid ""
 "The period of peace was a happy one for Wesnoth. The elves and humans were "
 "able to rebuild and reorganize. Kalenz himself was able to concentrate on "
 "his problem. Eventually he was able to master the effects of Crelanu's "
 "potion. But then one evening reports came in of a large orcish force "
-"attacking the outskirts of elvish forests. Kalenz gathered the elvish army. "
-"War had returned to the land of the elves."
+"attacking the outskirts of elvish forests. Kalenz gathered quickly a small "
+"force. War had returned to the land of the elves."
 msgstr ""
 "Det var en lycklig tid av fred i Wesnoth. Alverna och människorna kunde att "
 "återuppbygga och omorganisera. Kalenz fick tid att koncentrera sig på sitt "
@@ -2707,7 +3151,7 @@ msgstr ""
 "utkanterna av alvernas skogar. Kalenz samlade ihop sin armé. Kriget hade "
 "återvänt till alvernas rike."
 
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:205
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:218
 msgid ""
 "Kill these filthy elves! All warlords will then accept our leader, Black eye "
 "Karun as king and he will reward you all!"
@@ -2715,19 +3159,15 @@ msgstr ""
 "Döda de smutsiga alverna! Krigsherrarna blir tvungna att acceptera vår "
 "ledare, Svartögat Karun, som kung, och han kommer att belöna oss alla!"
 
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:210
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:223
 msgid "This is what we have been training for! Now we drive these beasts back!"
 msgstr "Det är det vi har tränat för! Nu driver vi bort de monstren!"
 
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:222
-msgid "The elves will now fall!"
-msgstr "Alverna skall falla!"
-
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:246
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:259
 msgid "The orcs are retreating! "
 msgstr "Orcherna drar sig tillbaka!"
 
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:271
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:284
 msgid ""
 "We have just received word that a large orcish force has attacked  in Lake "
 "Glirfindol. Galtrid is already on his way there."
@@ -2735,7 +3175,7 @@ msgstr ""
 "Vi har just fått bud om att en stor orchstyrka har anfallit Glirfindolsjön. "
 "Galtrid är redan på väg dit."
 
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:277
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:290
 msgid ""
 "It looks like an orcish warlord is becoming much stronger than all others. "
 "If he is successful in Lake Glirfindol, I fear he will be able to unite the "
@@ -2811,10 +3251,11 @@ msgid "How do you know about the ruby of fire?"
 msgstr "Hur känner du till den?"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:102
+#, fuzzy
 msgid ""
 "We have learned that it can have strange effects on its owner. You need to "
 "shield its radiation by placing it in a pure gold  encasement. Maybe this is "
-"the reason for your father's strage behavior."
+"the reason for your father's strange behavior."
 msgstr ""
 "Vi har fått veta att den kan ha ett märkligt inflytande på dess ägare. Du "
 "måste skärma av dess strålglans genom att täcka den med rent guld. Kanske "
@@ -2883,36 +3324,36 @@ msgstr ""
 "var gammalt och svagt... Detta är historien om Kalenz. Det är också "
 "historien om alverna under människornas dagar i Wesnoth."
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:245
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:246
 msgid "Look, there are many Orcs coming from all directions! To arms!"
 msgstr "Titta, det kommer orcher från alla håll! Till vapen!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:250
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:251
 msgid ""
 "Hold it Kalenz. The council should discuss the matter. Maybe we can reach an "
 "agreement with them!"
 msgstr ""
 "Lugn, Kalenz. Rådet måste diskutera saken. De kanske kan förhandla med dem!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:255
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:256
 msgid "Surrender or die, filthy elves!"
 msgstr "Ge upp eller dö, smutsiga alver!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:260
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:261
 msgid "They are too many. I am afraid we have no choice but to surrender!"
 msgstr "De är för många! Jag är rädd att vi måste kapitulera!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:265
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:266
 msgid "Elves will never surrender to these foul beasts! Who's with me?"
 msgstr ""
 "Alver kommer aldrig att kapitulera inför de här vidriga bestarna! Vilka är "
 "med mig?"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:279
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:284
 msgid "We will follow you-but where do we go? We are surrounded!"
 msgstr "Vi följer dig! Men vart skall vi gå? Vi är omringade!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:285
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:290
 msgid ""
 "We must reach the elvish council in Kali'an and seek their help to recapture "
 "our home. We need to go southwest to reunite with our brothers. Let's storm "
@@ -2922,31 +3363,31 @@ msgstr ""
 "vårt hem. Vi måste färdas till sydväst för att återförenas med våra bröder. "
 "Låt oss storma deras södra utpost innan fler av dem kommer hit!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:299
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:306
 msgid "Ok Kalenz, you lead us!"
 msgstr "Okej, Kalenz, du leder oss!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:337
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:344
 msgid "Oh, no! More of them are pouring in, we are too late..."
 msgstr "Åh nej! De bara väller in, vi kom för sent..."
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:350
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:357
 msgid "You messed with the wrong elf!"
 msgstr "Du bråkar med fel alv!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:362
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:369
 msgid "Take that, you orcish scum!"
 msgstr "Här får du, orchavskum!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:374
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:381
 msgid "We surrender!"
 msgstr "Vi ger oss!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:379
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:386
 msgid "Did I mention that we take no prisoners? Die!"
 msgstr "Nämnde jag att vi inte tar några fångar? Dö!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:385
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:392
 msgid ""
 "Kalenz was right and I was wrong. Let a few of us hold them for a while "
 "while the rest go join Kalenz while you still can!"
@@ -2954,13 +3395,13 @@ msgstr ""
 "Kalenz hade rätt och jag hade fel. Några av oss håller tillbaka dem, så kan "
 "resten av er följa efter Kalenz medan det ännu finns tid!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:412
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:419
 msgid "We must leave now, but we will not forget. We will return!"
 msgstr ""
 "Vi måste ge oss av nu, men vi kommer inte att glömma er. Vi kommer att "
 "återvända!"
 
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:417
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:424
 msgid "You won't get very far! After them!"
 msgstr "Ni skall inte komma långt! Efter dem!"
 
@@ -3303,3 +3744,10 @@ msgstr ""
 "Som den allra skickligaste eliten i Wesnoth är alvskarpskyttarna otroligt "
 "träffsäkra, och träffar i 60% av fallen även då de skjuter mycket snabbt. "
 "Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender."
+
+#~ msgid ""
+#~ "After assembling all the army he could, Kalenz marched against his old "
+#~ "friend and now mortal enemy, Landar..."
+#~ msgstr ""
+#~ "Efter att ha kallat samman en så stor armé som möjligt, marscherade "
+#~ "Kalenz mot sin gamle vän och numera dödsfiende, Landar..."
