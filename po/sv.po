@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-14 11:24+0200\n"
-"PO-Revision-Date: 2005-07-24 16:33+0200\n"
+"PO-Revision-Date: 2005-08-16 22:02+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Legend_of_Wesmere.cfg:24
 msgid "Soldier"
@@ -3532,7 +3532,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
-msgstr "Osynlig alvjägare"
+msgstr "Osynlig alvhämnare"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:92
@@ -3556,7 +3556,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:77
 msgid "female^Elvish Avenger Invisible"
-msgstr "Osynlig alvjägare"
+msgstr "Osynlig alvhämnare"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:94
 msgid ""
@@ -3669,7 +3669,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
 msgid "Elvish Range Invisibler"
-msgstr "Osynlig skogsvaktaralv"
+msgstr "Osynlig alvjägare"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:19
 msgid ""
@@ -3679,15 +3679,15 @@ msgid ""
 "just made an attack, or there are enemies adjacent to them. Invisible units "
 "are especially hard to hit."
 msgstr ""
-"Skogsvaktaralverna är både starka och snabba. Då de är skickliga i både när- "
-"och distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan "
-"de inte upptäckas av fienden medan de är i skogen förrän de har gått till "
+"Alvjägarna är både starka och snabba. Då de är skickliga i både när- och "
+"distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan de "
+"inte upptäckas av fienden medan de är i skogen förrän de har gått till "
 "attack, eller då fienden står alldeles inpå dem. Osynliga trupper är "
-"särskilt svåra att träffa"
+"särskilt svåra att träffa."
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:80
 msgid "female^Elvish Ranger"
-msgstr "Skogsvaktaralv"
+msgstr "Alvjägare"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:96
 msgid ""
@@ -3696,9 +3696,9 @@ msgid ""
 "Rangers cannot be seen by enemies while they are in forest, unless they have "
 "just made an attack, or there are enemies adjacent to them."
 msgstr ""
-"Skogsvaktaralverna är både starka och snabba. Då de är skickliga i både när- "
-"och distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan "
-"de inte upptäckas av fienden medan de är i skogen förrän de har gått till "
+"Alvjägarna är både starka och snabba. Då de är skickliga i både när- och "
+"distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan de "
+"inte upptäckas av fienden medan de är i skogen förrän de har gått till "
 "attack, eller då fienden står alldeles inpå dem."
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:4
@@ -3744,10 +3744,3 @@ msgstr ""
 "Som den allra skickligaste eliten i Wesnoth är alvskarpskyttarna otroligt "
 "träffsäkra, och träffar i 60% av fallen även då de skjuter mycket snabbt. "
 "Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender."
-
-#~ msgid ""
-#~ "After assembling all the army he could, Kalenz marched against his old "
-#~ "friend and now mortal enemy, Landar..."
-#~ msgstr ""
-#~ "Efter att ha kallat samman en så stor armé som möjligt, marscherade "
-#~ "Kalenz mot sin gamle vän och numera dödsfiende, Landar..."
