@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-14 11:24+0200\n"
-"PO-Revision-Date: 2005-08-16 22:02+0200\n"
+"PO-Revision-Date: 2005-08-18 22:15+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -101,13 +101,12 @@ msgid "No way! Why do you say this?"
 msgstr "Aldrig! Varför säger du så?"
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:82
-#, fuzzy
 msgid ""
 "Some dwarves have been found dead in our camp. Landar is extremely "
 "unfriendly with them. I think the dwarves will leave us soon."
 msgstr ""
-"Vi har redan funnit dödade dvärgar i vårt läger. Landar är mycket otrevlig "
-"mot dem. Jag tror att Olurf kommer att ge sig av snart."
+"Några dvärgar har hittats döda i vårt läger. Landar är mycket otrevlig mot "
+"dem. Jag tror att dvärgarna kommer att ge sig av snart."
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:87
 msgid "I will try to patch things between them..."
@@ -151,9 +150,8 @@ msgid "Defeat all enemies"
 msgstr "Besegra alla fiender"
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:206
-#, fuzzy
 msgid "Last for 25 turns"
-msgstr "Håll stånd i 21 drag"
+msgstr "Håll stånd i 25 drag"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:148
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:92
@@ -778,9 +776,8 @@ msgid "No!! Not Landar! ..."
 msgstr "Nej! Inte Landar...!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:282
-#, fuzzy
 msgid "We still have not broken the siege! We will freeze in this cold..."
-msgstr "Vi har inte lyckats bryta belägringen! Allt är förlorat..."
+msgstr "Vi har inte lyckats bryta belägringen! Vi kommer att frysa..."
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:308
 msgid ""
@@ -813,9 +810,8 @@ msgid "Dran"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:352
-#, fuzzy
 msgid "Hrugt"
-msgstr "Krulg"
+msgstr "Hrugt"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:353
 msgid "Orhtib"
@@ -908,12 +904,11 @@ msgid "Costly Revenge"
 msgstr "En dyrbar hämnd"
 
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:20
-#, fuzzy
 msgid ""
 "But Kalenz failed to persuade the dwarfs. The dwarfs left and at Landar's "
 "insistence the elves marched on the Saurians..."
 msgstr ""
-"Men Kalenz lyckades inte övertala Olurf. Dvärgarna gav sig av och på Landars "
+"Men Kalenz lyckades inte övertala dvärgarna. De gav sig av och på Landars "
 "enträgna uppmaning marscherade alverna mot ödlefolket..."
 
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:167
@@ -1331,11 +1326,9 @@ msgid "Elvish Assasins"
 msgstr "Lönnmördaralver"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:20
-#, fuzzy
 msgid ""
 "After the council's decision, Kalenz and Cleodil retired in the North ..."
-msgstr ""
-"Kalenz och Cleodil drog sig tillbaka till norden efter rådets beslut..."
+msgstr "Efter rådets beslut drog sig Kalenz och Cleodil tillbaka till norden."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:29
 msgid "...but things were about to get interesting again..."
@@ -1542,9 +1535,8 @@ msgid "Landar, let's not spill any more elvish blood.  Give up. We can help!"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:146
-#, fuzzy
 msgid "No! It all ends here!"
-msgstr "Nej! Det är slut!"
+msgstr "Nej! Allt är slut!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:172
 msgid "I'm done. Now I can rest!"
@@ -1580,7 +1572,6 @@ msgstr ""
 "det priset vi måste betala. Vila, min vän. Vila, Landar, alvernas hjälte!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:206
-#, fuzzy
 msgid "No! Not Cleodil!"
 msgstr "Nej! Inte Cleodil!"
 
@@ -1589,9 +1580,8 @@ msgid "Epilogue"
 msgstr "Epilog"
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:13
-#, fuzzy
 msgid "After the end of Asheviere, Kalenz returned to his home in the North."
-msgstr "Efter att Asheviere besegrats, återvände Landar till sitt hem i norr."
+msgstr "Efter att Asheviere besegrats, återvände Kalenz till sitt hem i norr."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:17
 msgid ""
@@ -1614,17 +1604,16 @@ msgid "Kalenz's story  lived from mouth to mouth for the coming generations."
 msgstr "Kalenz historia berättades i de kommande generationerna."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:29
-#, fuzzy
 msgid ""
 "But even many years later many said he was still roaming the forests of "
 "Wesnoth, making sure they will be forever home to the elves of Wesnoth, for "
 "the elves, like humans, had paid in much blood and suffering to learn that "
 "nothing in the world of  Wesnoth comes for free."
 msgstr ""
-"Men även många år senare berättades det att han fortfarande levde i Wesnoths "
-"skogar, för att se till att de skulle fortsätta vara alvernas hem i Wesnoth. "
-"För alverna, liksom människorna, hade betalat stort i blod och lidande för "
-"lärdomen att inget i denna värld är utan kamp."
+"Men även många år senare berättades det att han fortfarande syntes i "
+"Wesnoths skogar, för att se till att de skulle fortsätta vara alvernas hem i "
+"Wesnoth. För alverna, liksom människorna, hade betalat stort i blod och "
+"lidande för lärdomen att inget i denna värld kommer utan kamp."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:3
 msgid "First Epilogue"
@@ -1746,9 +1735,8 @@ msgid ""
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:361
-#, fuzzy
 msgid "Ha! More of us are coming! You elves are lost!"
-msgstr "Det kommer fler vandöda! Allt är förlorat!"
+msgstr "Ha! Det kommer fler av oss! Ni är slagna!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:372
 msgid "Athburil"
@@ -2195,7 +2183,6 @@ msgid "I did not want to spill human blood, but there is no other choice."
 msgstr "Jag vill inte spilla människoblod, men det finns ingen annan utväg."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:202
-#, fuzzy
 msgid ""
 "Peace Friends! I have been riding nonstop for days to prevent this maddness! "
 "Eldred, I have direct orders from the King to take you back to the Palace, "
@@ -2763,14 +2750,12 @@ msgid "Defeat Black Eye Karun"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:173
-#, fuzzy
 msgid "Death of Delfador"
-msgstr "Aldar dör"
+msgstr "Delfador dör"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:177
-#, fuzzy
 msgid "Death of Garard"
-msgstr "Galtrid dör"
+msgstr "Garard dör"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:225
 msgid ""
@@ -2804,16 +2789,14 @@ msgid "You will terrorize Wesnoth no more!"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:309
-#, fuzzy
 msgid "There goes Wesnoth's only hope!"
-msgstr "Där försvinner vårt sista hopp!"
+msgstr "Där försvinner Wesnoths sista hopp!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:324
 msgid "The King has fallen! Now Wesnoth will fail!"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:335
-#, fuzzy
 msgid "Victory! "
 msgstr "Segern är vår!"
 
@@ -3135,7 +3118,6 @@ msgid "The return of trouble"
 msgstr "Nya problem"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:20
-#, fuzzy
 msgid ""
 "The period of peace was a happy one for Wesnoth. The elves and humans were "
 "able to rebuild and reorganize. Kalenz himself was able to concentrate on "
@@ -3144,12 +3126,12 @@ msgid ""
 "attacking the outskirts of elvish forests. Kalenz gathered quickly a small "
 "force. War had returned to the land of the elves."
 msgstr ""
-"Det var en lycklig tid av fred i Wesnoth. Alverna och människorna kunde att "
+"Det var en lycklig tid av fred i Wesnoth. Alverna och människorna kunde "
 "återuppbygga och omorganisera. Kalenz fick tid att koncentrera sig på sitt "
 "problem. Efter en tid lyckades han bemästra effekterna av Crelanus elixir. "
 "Men så en kväll kom rapporter om att en stor styrka orcher attackerade "
-"utkanterna av alvernas skogar. Kalenz samlade ihop sin armé. Kriget hade "
-"återvänt till alvernas rike."
+"utkanterna av alvernas skogar. Kalenz samlade snabbt ihop en mindre styrka. "
+"Kriget hade återvänt till alvernas rike."
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:218
 msgid ""
@@ -3251,7 +3233,6 @@ msgid "How do you know about the ruby of fire?"
 msgstr "Hur känner du till den?"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:102
-#, fuzzy
 msgid ""
 "We have learned that it can have strange effects on its owner. You need to "
 "shield its radiation by placing it in a pure gold  encasement. Maybe this is "
