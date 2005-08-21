@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-14 11:24+0200\n"
+"POT-Creation-Date: 2005-08-21 20:48+0200\n"
 "PO-Revision-Date: 2005-05-05 00:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10,36 +10,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: Legend_of_Wesmere.cfg:24
-msgid "Soldier"
-msgstr ""
-
-#: Legend_of_Wesmere.cfg:24
-msgid "(easiest)"
-msgstr ""
-
-#: Legend_of_Wesmere.cfg:25
-msgid "(normal)"
-msgstr ""
-
-#: Legend_of_Wesmere.cfg:25
-msgid "Lord"
-msgstr ""
-
-#: Legend_of_Wesmere.cfg:26
-msgid "(hardest)"
-msgstr ""
-
-#: Legend_of_Wesmere.cfg:26
-msgid "High Lord"
-msgstr ""
-
-#: Legend_of_Wesmere.cfg:28
-msgid ""
-"Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
-"survival from the second orcish invasion to the times of Konrad and Delfador"
-msgstr ""
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:3
 msgid "Hour of Glory"
@@ -491,7 +461,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:230
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:293
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:295
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:310
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:269
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:428
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:257
@@ -1904,13 +1874,13 @@ msgid ""
 "just the prince. I see dark days ahead..."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:272
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:287
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:390
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:234
 msgid "No, the elves will fall!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:284
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:299
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:246
 msgid "We are too late! All is lost!"
 msgstr ""
@@ -2340,68 +2310,68 @@ msgstr ""
 msgid "Death of Garard"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:225
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:240
 msgid ""
 "It looks like we have arrived just in time! King Garard stands surrounded by "
 "the enemy."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:230
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:245
 msgid ""
 "It seems that we are too late. This new warlord has managed to unite the "
 "orcish tribes. Look at their army, it's huge!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:235
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:250
 msgid ""
 "Elves! I heard you have been looking for me! But you will save neither the "
 "human King, nor yourselves."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:240
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:255
 msgid ""
 "This must be their leader. We must destroy him now, before his power grows!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:252
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:267
 msgid "Invincible Black Eye Karun is dead? Quick, run for your lives!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:257
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:272
 msgid "You will terrorize Wesnoth no more!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:309
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:324
 msgid "There goes Wesnoth's only hope!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:324
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:339
 msgid "The King has fallen! Now Wesnoth will fail!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:335
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:350
 msgid "Victory! "
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:340
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:355
 msgid ""
 "Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
 "today!"
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:346
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:361
 msgid "My King, this is Kalenz, Lord of the Elves."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:352
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:367
 msgid "You will be forever welcome in the court of Wesnoth."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:357
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:372
 msgid "We are happy to have fought by your side."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:362
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:377
 msgid ""
 "King Garard, we have more urgent matters. Leollyn sent me on a mission to "
 "find out why the dead are restless. A foul necromancer has opened a portal "
@@ -2409,27 +2379,27 @@ msgid ""
 "my skills are insufficient for that task."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:367
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:382
 msgid ""
 "Kalenz, I feel Delfador is the chosen one. The one who can be trusted with "
 "the book. I believe the book will help him close that portal and eliminate "
 "the undead menace."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:373
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:388
 msgid ""
 "I agree. Never in my life have I met any human of his qualities. But I fear "
 "the book is cursed. It may bring lots of suffering to his holder and his "
 "people..."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:378
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:393
 msgid ""
 "Yes, that may be. But I feel if anyone can be trusted with the book, it's "
 "him. It should be his decision if he accepts it or not."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:385
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:400
 msgid ""
 "Delfador, our weapons are weak against the undead, but perhaps we may still "
 "be able to help. The elvish forests have seen many falls since Crelanu "
@@ -2437,52 +2407,52 @@ msgid ""
 "knowledge that it took Crelanu all his life to gather."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:390
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:405
 msgid ""
 "The book was entrusted to Cleodil, until someone worthy of it came along. We "
 "believe you are that one, Delfador. The book may help you find a way to "
 "close that portal."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:396
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:411
 msgid ""
 "Friends, your words flatter me. I am not sure I am worthy of such a valuable "
 "possesion."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:401
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:416
 msgid ""
 "We are sure of that. But be warned, for we feel there is a curse to this "
 "book. Crelanu's advice brought a lot of destruction upon us, even though at "
 "the time we had no other choice..."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:406
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:421
 msgid ""
 "I do not know if there is a curse to the book or not. All I know is that we "
 "must close that portal soon, or else we are all doomed."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:412
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:427
 msgid ""
 "This is a decision you will have to take. If we decide to fight the undead "
 "without the book's help, it will be an honor to fight by your side, no "
 "matter what the outcome."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:418
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:433
 msgid ""
 "The way you put it I have no choice but to accept the book, for I cannot "
 "bring sure death to many humans and elves for fear of the book..."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:424
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:439
 msgid ""
 "Here it is, Delfador. May it help you bring a swift end to the undead menace "
 "and may its aquisiton lead you to happier times than it lead us..."
 msgstr ""
 
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:431
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:446
 msgid ""
 "Thank you friends. May we meet in happier times.  Now I must make haste, for "
 "I need to study the book and prepare for the battle with the undead. Then, I "
