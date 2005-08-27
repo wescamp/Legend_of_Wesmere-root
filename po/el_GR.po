@@ -1,15 +1,23 @@
+# translation of el_gr.po to
+# translation of el_gr.po to
+# , 2005.
+# , 2005.
+# , 2005.
+# , 2005.
+# , 2005.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: el_gr\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-21 20:48+0200\n"
-"PO-Revision-Date: 2005-05-05 00:16+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2005-08-27 11:11+0200\n"
+"PO-Revision-Date: 2005-08-27 11:12+0100\n"
+"Last-Translator: David Philippi <david@torangan.de>\n"
+"Language-Team:  <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 0.9.6\n"
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:3
 msgid "Hour of Glory"
@@ -68,7 +76,6 @@ msgid "No way! Why do you say this?"
 msgstr "Αποκλείεται! Γιατί τό λές αυτό;"
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:82
-#, fuzzy
 msgid ""
 "Some dwarves have been found dead in our camp. Landar is extremely "
 "unfriendly with them. I think the dwarves will leave us soon."
@@ -115,11 +122,11 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:162
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:372
 msgid "Defeat all enemies"
-msgstr ""
+msgstr "Νίκησε όλους τους εχθρούς."
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:206
 msgid "Last for 25 turns"
-msgstr ""
+msgstr "Αντεξε 25 γύρους"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:148
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:92
@@ -146,7 +153,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:166
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:376
 msgid "Death of Kalenz"
-msgstr ""
+msgstr "Θάνατος του Κάλεντς"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:152
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:96
@@ -163,7 +170,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:168
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:380
 msgid "Death of Landar"
-msgstr ""
+msgstr "Θάνατος του  Λάνταρ"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:100
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:136
@@ -173,7 +180,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:172
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:388
 msgid "Death of Olurf"
-msgstr ""
+msgstr "Θάνατος του  Όλουρφ "
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:104
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:136
@@ -195,13 +202,12 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:94
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:170
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:384
-#, fuzzy
 msgid "Death of Cleodil"
-msgstr "Οχι την Κλεοντίλ!"
+msgstr "Θάνατος της Κλεοντίλ"
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:226
 msgid "Death of Aldar"
-msgstr ""
+msgstr "Θάνατος του Αλνταρ"
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:266
 msgid "Here we are! Prepare to fight!"
@@ -218,13 +224,14 @@ msgid ""
 "not be allowed to enter the battle! Our reinforcements should arrive in a "
 "few days."
 msgstr ""
-"Ο στρατηγός Αλνταρ πήρε το μύνημά σας ότι έρχεστε. Σας ζητάει να "
-"αποκόψετεΤις ενισχύσεις των ορκ από τά βόρεια. Δεν πρέπει να μπούν στή μάχη. "
-"Οι ενισχύσεις μας θά φτάσουν σε μερικές μέρες."
+"Ο στρατηγός Αλνταρ πήρε το μύνημά σας ότι έρχεστε. Σας ζητάει να αποκόψετε "
+"τις ενισχύσεις των ορκ από τά βόρεια. Δεν πρέπει να μπούν στή μάχη. Οι "
+"ενισχύσεις μας θά φτάσουν σε μερικές μέρες."
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:295
 msgid "Ok, but where are the elvish troops? We cannot hold without them!"
 msgstr ""
+"Ναί,αλλά πού είναι ο στρατός των ξωτικών; Δεν θά αντέξουμε χωρίς αυτούς! "
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:399
 msgid "Kalenz is here!"
@@ -258,7 +265,7 @@ msgstr "Απέτυχα!"
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:526
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:547
 msgid "No! It's hopeless without Landar!"
-msgstr "Οχι! Χωρίς τον Λάνταρ δέν υπ[άρχει ελπίδα!"
+msgstr "Οχι! Χωρίς τον Λάνταρ δέν υπάρχει ελπίδα!"
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:541
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:576
@@ -301,10 +308,12 @@ msgid ""
 "With the Saurians blocking the entrance to Wesmere, Kalenz and his group "
 "moved north to enter Wesmere Forest from there ..."
 msgstr ""
+"Καθώς οί Σαυράνθρωποι είχαν μπλοκάρει τήν είσοδο του Γουέσμηρ, ο Κάλεντς καί "
+"η ομάδα του κινήθηκαν βόρεια, γιά να μπουν στό δάσος του Γουέσμηρ από εκεί"
 
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:160
 msgid "Defeat enemy leaders"
-msgstr ""
+msgstr "Νίκησε τους αρχηγούς των εχθρών"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:160
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:112
@@ -329,7 +338,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:174
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:396
 msgid "Turns run out"
-msgstr ""
+msgstr "Τέλος των γύρων"
 
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:219
 msgid ""
@@ -461,37 +470,41 @@ msgstr "Η μάχη του βιβλίου"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:20
 msgid "Quickening their pace, Elves and Dwarves raced towards the smoke...."
-msgstr ""
+msgstr "Επιταχύνοντας τό βήμα τους, ξωτικά καί νάνοι έτρεξαν πρός τόν καπνό..."
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:88
 msgid "Defeat the drakes and trolls"
-msgstr ""
+msgstr "Νίκησε τά δρακοειδή καί τους Τρόλ"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:108
 msgid "Death of Crelanu"
-msgstr ""
+msgstr "Θάνατος του Κρελάνου"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:154
 msgid ""
 "Looks like your mage friend is in trouble. There is a horde of drakes "
 "attacking!"
 msgstr ""
+" Ο μάγος φίλος σου φαίνεται νά έχει προβλήματα. Μιά ορδή δρακοειδών του "
+"επιτίθενται!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:159
 msgid "We need to make sure nothing happens to the mage. Let's help them out!"
 msgstr ""
+"Πρέπει να εξασφαλίσουμε ότι τίποτε δέν θά συμβεί στόν μάγο. Ας τον "
+"βοηθήσουμε."
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:164
 msgid "Fools! The book will be mine!"
-msgstr ""
+msgstr "Ανόητοι! Τό βιβλίο θά είναι δικό μου!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:176
 msgid "No, my mission is not completed!..."
-msgstr ""
+msgstr "Όχι, η αποστολή μου δέν ολοκληρώθηκε!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:191
 msgid "Landar, no!! ..."
-msgstr ""
+msgstr "Λάνταρ, όχι!!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:206
 msgid "Olurf, stay with me! "
@@ -503,6 +516,8 @@ msgid ""
 "We still have not made it to safety. With all these creatures around we "
 "might as well give up!..."
 msgstr ""
+"Ακόμα δέν φτάσαμε σέ ασφαλές σημείο. Μέ όλα αυτά τά πλάσματα τριγύρω "
+"καλύτερα να εηκαταλείψουμε!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:230
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:293
@@ -511,11 +526,11 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:428
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:257
 msgid "Cleodil, no!!"
-msgstr ""
+msgstr "Κλεοντίλ, όχι!!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:244
 msgid "There goes our last hope!"
-msgstr ""
+msgstr "Πάει η τελευταία μας ελπίδα!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:259
 msgid ""
@@ -525,11 +540,18 @@ msgid ""
 "Morogoth. As for you, Crelanu, may your book always haunt you and all its "
 "future owners!"
 msgstr ""
+"Πεθαίνω, αλλά δεν θα πάω έτσι! Καταραμένος νά είσαι Κάλεντς! Να μή βρείς "
+"ησυχία γιά πολλά χρόνια. Καί άς  χάσεις τά πιό αγαπημένα πρόσωπα.  Αυτό άς "
+"είναιτό τίμημα γιά το θάνατο του Ακουαγκάρ, μεγάλου μάγου των δρακοειδών της "
+"Μόρογκοθ. Όσο γιά σένα Κρελάνου, άς στοιχειώνει τό βιβλίο σου εσένα καί "
+"όλους τους μελλοντικούς του κατόχους!"
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:264
 msgid ""
 "Some scary fellow this Aquagar! Come now, I think Crelanu ows us some drinks"
 msgstr ""
+"Αρκετά τρομακτικός αυτός ο Ακουαγκάρ! Πάμε τώρα, ο Κρελάνου, μάς χρωστάει "
+"κέρασμα"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:4
 msgid "Bounty Hunters"
@@ -541,47 +563,59 @@ msgid ""
 "resources to keep it this way and started off on the long and dangerous trip "
 "to the great mage of Thoria....But danger was a lot closer to home"
 msgstr ""
+"Καί έτσι μέ τό Γουέσμηρ φαινομενικά ασφαλές, ο Κάλεντς και ο Όλουρφ άφησαν "
+"αρκετά στρατεύματα καί εφόδια ώστε τό Γουέσμηρ να συνεχίσει νά είναι ασφαλές "
+"καί ξεκίνησαν γιά τό μακρύ καί επικίνδυνο ταξίδι πρός τον μεγάλο μάγο της "
+"Θόρια... Αλλά ο κίνδυνος ήταν πολύ πιό κοντά στά πάτρια εδάφη..."
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:132
-#, fuzzy
 msgid "Kalenz crosses the river"
-msgstr "Ο Κάλεντς είναι εδώ!"
+msgstr "Ο Κάλεντς περνάει το ποτάμι"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:207
 msgid "Yes! Its those elves who stole our gold! The bounty is mine!"
 msgstr ""
+"Ναί! Είναι τά ξωτικά πού έλεψαν τό χρυσάφι μας! Η αμοιβή είναι δική μου!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:212
 msgid "You must be joking! The bounty is all mine."
-msgstr ""
+msgstr "Πρέπει νά αστειεύεσαι! Η αμοιβή είναι μόνο δική μου!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:217
 msgid "What are they talking about?"
-msgstr ""
+msgstr "Γιά τι πράγμα μιλάνε; "
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:222
 msgid ""
 "Apparently the Saurians have put a bounty on our heads for taking our gold "
 "back after they stole it. Are you interested? "
 msgstr ""
+"Φαίνεται ότι οι Σαυράνθρωποι έχουν επικηρύξει τά κεφάλια μας γιατί τούς "
+"πήραμε τό χρυσάφι πού μας είχαν κλέψει. Ενδιαφέρεσαι;"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:227
 msgid ""
 "No, but my axe is interested in some Saurian heads! They've been too "
 "friendly with them orcs!"
 msgstr ""
+"Όχι, αλλά τό τσεκούρι μου ενδιαφέρεται γιά μερικά κεφάλια Σαυρανθρώπων. "
+"Παραήταν φιλικοί με αυτούς τους όρκ!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:232
 msgid ""
 "Remember, we are here on a mission. We will fight the Saurians if we must, "
 "but our mission is to get to Thoria."
 msgstr ""
+"Θυμηθείτε ότι έχουμε μιά αποστολή. Θά πολεμήσουμε τους Σαυράνθρωπους αν "
+"χρειαστεί, αλλά η αποστολή μας είναι νά πάμε στήν Θόρια."
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:237
 msgid ""
 "Crossing the river without a bridge? We dwarves know water is a very "
 "dangerous thing!"
 msgstr ""
+"Νά περάσουμε τό ποτάμι χωρίς γέφυρα; Εμείς οι νάνοι ξέρουμε ότι τό νερό "
+"είναι πολύ επικίνδυνο πράμα!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:242
 msgid ""
@@ -589,53 +623,58 @@ msgid ""
 "legends about it, so be very careful when you cross, even though they are "
 "probably just fairy tales."
 msgstr ""
+"Πράγματι τό ποτάμι είναι ο Αρκάν-Θόρια. Υπάρχουν πολλοί άσχημοι θρύλοι "
+"γι'αυτό, έτσι ας είμαστε πολύ προσεκτικοί όταν τό περάσουμε, παρόλο πού "
+"αυτοί οι θρύλοι είναι μάλλον παραμύθια."
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:255
 msgid "I've beaten the orcs and now I lose to these?..."
-msgstr ""
+msgstr "Νίκησα τούς όρκ καί χάνω από αυτά; "
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:270
 msgid "No!! Landar stay with me!..."
-msgstr ""
+msgstr "Όχι! Λάνταρ, μείνε μαζί μου!"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:245
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:285
 msgid "No!! We have nobody to guide us to Thoria!"
-msgstr ""
+msgstr "Όχι! Τώρα δέν έχουμε κανένα να μας οδηγήσει στήν Θόρια! "
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:299
 msgid "No!! We need Cleodils art!"
-msgstr ""
+msgstr "Όχι! Χρειαζόμαστε την τέχνη της Κλεοντίλ!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:312
 msgid ""
 "We still have not crossed the river and are now surrounded by too many "
 "creatures..."
 msgstr ""
+"Ακόμα να περάσουμε τό ποτάμι και είμαστε περικυκλωμένοι από πάρα πολλά "
+"πλάσματα..."
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:326
 msgid "We made it. Onwards to Thoria!"
-msgstr ""
+msgstr " Τά καταφέραμε. Εμπρός γιά την Θόρια!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:331
 msgid "At last! "
-msgstr ""
+msgstr "Επιτέλους!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:337
 msgid "We really need to settle things with these Saurians once and forall! "
-msgstr ""
+msgstr "Πρέπει να τελειώνουμε μ'αυτούς τους Σαυράνθρωπους μιά γιά πάντα!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:358
 msgid "Sealurr"
-msgstr ""
+msgstr "Σήλουρ"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:363
 msgid "The legends are true! Sea creatures are upon us!"
-msgstr ""
+msgstr "Οι θρύλοι είναι αλήθεια! Πλάσματα της θάλασσας μας επιτίθενται!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:380
 msgid "Kallub"
-msgstr ""
+msgstr "Κάλουμπ"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:385
 msgid "They are coming at us from all sides!"
@@ -644,7 +683,7 @@ msgstr "Μας έρχονται από όλες τις μεριές!"
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:401
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:436
 msgid "Scardeep"
-msgstr ""
+msgstr "Σκάρντιπ"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:406
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:441
@@ -655,7 +694,7 @@ msgstr "Προσοχή στό φίδι!"
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:456
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:470
 msgid "Kalimar"
-msgstr ""
+msgstr "Κάλιμαρ"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:5
 msgid "Breaking_the_siege"
@@ -669,26 +708,36 @@ msgid ""
 "was quickly decided to send a force to their aid. But winter had caught up "
 "with our heroes..."
 msgstr ""
+"Μέ τούς όρκ να βυθίζονται σέ εμφύλιο πόλεμο, αυτή ήταν η ευκαιρία γιά τόν "
+"Κάλεντς να ανακαταλάβει τήν αγαπημένη του πατρίδα. Στό μεταξύ αναφορές είχαν "
+"έρθει γιά οχυρωμένα ξωτικά στό βορρά πού ακόμα αντιστέκονταν στούς εισβολείς "
+"όρκ. Αποφασίστηκε γρήγορα να σταλεί μιά δύναμη νά τους βοηθήσει. Αλλά ο "
+"χειμώνας είχε προφτάσει τούς ήρωές μας..."
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:188
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:150
 msgid "Death of Uradredia"
-msgstr ""
+msgstr "Θάνατος του Ουραντρέντια"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:233
 msgid ""
 "I see troops coming from the south! Surely our army has beaten these elves "
 "and humans and will now help us get rid of these remaining elves!"
 msgstr ""
+"Βλέπω στρατό νά έρχεται από τό νότο! Σίγουρα ο στρατός μας νίκησε αύτά τά "
+"ξωτικά καί τους ανθρώπους καί τώρα θά μας βοηθήσει να ξεφορτωθούμε κι' αυτά "
+"τά υπόλοιπα ξωτικά!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:238
 msgid ""
 "Our defenses are streched thin. Men, prepare to face another orcish attack!"
 msgstr ""
+"Η αμυντική μας γραμμή είναι αραιωμένη! Αντρες, ετοιμαστείτε να "
+"αντιμετωπίσουμε καί νέα επίθεση των όρκ!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:243
 msgid "The North Elves still stand. Prepare for battle!"
-msgstr ""
+msgstr "Τά ξωτικά του βορρά αντέχουν ακόμα! Ετοιμαστείτε γιά μάχη!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:255
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:215
@@ -698,59 +747,64 @@ msgstr "Όλα χάθηκαν!..."
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:270
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:230
 msgid "No!! Not Landar! ..."
-msgstr ""
+msgstr "Όχι! Όχι τόν Λάνταρ!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:282
 msgid "We still have not broken the siege! We will freeze in this cold..."
-msgstr ""
+msgstr "Ακόμα δέν σπάσαμε την πολυορκία! Θά παγώσουμε σ'αυτό τό κρύο!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:308
 msgid ""
 "Before you die, know that you lost in Wesmere, you lost in Weslath, you will "
 "lose here and that your king is dead!"
 msgstr ""
+"Πρίν πεθάνεις, μάθε ότι ηττηθήκατε στό Γουέσμηρ, ηττηθήκατε στή Γουέσλαθ, θά "
+"ηττηθήτε εδώ καί ότι ο βασιλιάς σας είναι νεκρός! "
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:317
 msgid "The North Elves are now free! "
-msgstr ""
+msgstr "Τά ξωτικά του βορρά είναι τώρα ελεύθερα! "
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:322
 msgid "Thanks to you Kalenz, son of Kliada. Our troops are at your command. "
 msgstr ""
+"Χάρη σ' εσένα Κάλεντς, γυιέ του Κλιάντα. Ο στρατός μας είναι στή διάθεσή σου."
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:335
 msgid "The elves are attacking us! Reserves!"
-msgstr ""
+msgstr "Τά ξωτικά μας επιτίθενται! Εφεδρείες! "
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:344
 msgid "Zhuk"
-msgstr ""
+msgstr "Ζχούκ"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:351
 msgid "Dran"
-msgstr ""
+msgstr "Ντράν"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:352
 msgid "Hrugt"
-msgstr ""
+msgstr "Χρούγκτ"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:353
 msgid "Orhtib"
-msgstr ""
+msgstr "Ορχτίμπ"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:4
 msgid "Cliffs of Thoria"
-msgstr ""
+msgstr "Στίς πλαγιές της Θόρια"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:19
 msgid ""
 "Leaving Arkan-Thoria behind, Kalenz and his band ventured into the dangerous "
 "mountains of Thoria...."
 msgstr ""
+"Αφήνοντας πίσω, τόν Αρκάν-Θόρια ο Κάλεντς καί η ομάδα του έφτασαν στά "
+"επικίνδυνα βουνά της Θόρια"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:116
 msgid "Reach the signpost with Kalenz"
-msgstr ""
+msgstr " Φτάσε με τον Κάλεντς στήν πινακίδα"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:188
 msgid "I can hardly see with all that mist around, but I can sense danger"
@@ -778,6 +832,8 @@ msgid ""
 "I too feel we are in great danger. Probably we should stay close together "
 "and move very carefully."
 msgstr ""
+"Καί εγώ αισθάνομαι ότι είμαστε σε μεγάλο κίνδυνο. Μάλλον πρέπει να μείνουμε "
+"κοντά ο ένας στόν άλλον καί να προχωρήσουμε πολύ προσεκτικά."
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:286
 msgid "Onwards!"
@@ -799,7 +855,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:340
 msgid "Krulg"
-msgstr ""
+msgstr "Κρούλγκ"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:345
 msgid "Watch out!"
@@ -811,11 +867,11 @@ msgstr "Προσοχή!"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:357
 msgid "Tralg"
-msgstr ""
+msgstr "Τράλγκ"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:358
 msgid "Urlg"
-msgstr ""
+msgstr "Ούρλγκ"
 
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:4
 msgid "Costly Revenge"
@@ -826,12 +882,16 @@ msgid ""
 "But Kalenz failed to persuade the dwarfs. The dwarfs left and at Landar's "
 "insistence the elves marched on the Saurians..."
 msgstr ""
+"Όμως ο Κάλεντς απέτυχε να πείσει τούς νάνους. Οι νάνοι έφυγαν καί με επιμονή "
+"του Λάνταρ τά ξωτικά εκστράτευσαν εναντίον των Σαυρανθρώπων..."
 
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:167
 msgid ""
 "We have finally reached Saurgrath, their capitol. Remember whose side they "
 "have been on in our most trying times."
 msgstr ""
+"Φτάσαμε επιτέλους στό Σάουργκραθ, τήν πρωτεύουσά τους. Ας μήν ξεχνάμε με "
+"ποιανού τό μέρος ήταν στίς πιό δύσκολες στιγμές μας."
 
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:172
 msgid "I fear this will be a bloodbath..."
@@ -843,7 +903,7 @@ msgstr "Είναι η ευκαιρία μας να τους αποτελειώσ
 
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:215
 msgid "We are too late! We will freeze in this cold..."
-msgstr ""
+msgstr "Αργήσαμε υπερβολικά! Τώρα θά παγώσουμε σ'αυτό τό κρύο..."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:240
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:229
@@ -869,6 +929,8 @@ msgid ""
 "what is this dwarf friend of yours that you invited to the elvish council? "
 "This is most unusual!"
 msgstr ""
+"Αυτή είναι μιά μεγάλη νίκη! Κάλεντς σου χρωστάμε πολλά, αλλά τί είναι αυτός "
+"ο νάνος φίλος σου πού έφερες στό Συμβούλιο; Αυτό είναι πολύ ασυνήθιστο!"
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:76
 msgid ""
@@ -877,6 +939,10 @@ msgid ""
 " what to do next. Whatever must happen next concerns all in Wesnoth, Elves, "
 "Dwarves and Humans."
 msgstr ""
+"Αρχοντά μου είναι ο Όλουρφ. Αυτός κι οι άντρες του πολέμησαν στό πλευρό μας "
+"καί δικαιωματικά έχουν μιά θέση σ'αυτή τη συνάντηση γιατί πρέπει να "
+"αποφασίσουμε τώρα τις επόμενες ενέργειές μας. ¨οτι είναι να γίνει αφορά "
+"όλους στό Γουέσνοθ, ξωτικά, νάνους καί ανθρώπους."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:81
 msgid ""
@@ -885,6 +951,10 @@ msgid ""
 "was very humble, but now his arrogance knows no limits. He believes  the "
 "orcs will not dare fight him."
 msgstr ""
+"Δέν μπορούμε να υπολογίζουμε στούς ανθρώπους. Ο βασιλιάς Χάλντριτς αποφάσισε "
+"νά σπάσει την παλιά μας συμμαχία καί έστειλε πίσω όλους τους αντιπροσώπους "
+"μας. ¨οταν ήρθε στό νησί ήταν ταπεινός, αλλά τώρα η αλλαζονεία του δέν έχει "
+"όρια. Πιστεύει ότι οι όρκ δέν θά τολμήσουν να τόν πολεμήσουν."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:86
 msgid ""
@@ -892,6 +962,9 @@ msgid ""
 "defeated. We must take the fight to them, retrieve our lost lands and finish "
 "once and for all with the orcs."
 msgstr ""
+"Αρχοντές μου, οι όρκ απωθήθηκαν από τό Γουέσμηρ, αλλά απέχουν πολύ από τό νά "
+"έχουν νικηθεί. Πρέπει να τούς επιτεθούμε,να πάρουμε πίσω τά εδάφη μας καί νά "
+"τελειώνουμε μιά καί καλή μαζί τους."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:91
 msgid ""
@@ -899,6 +972,9 @@ msgid ""
 "follow your suggestion. Besides, we are not as skilled in fighting outside "
 "our forests."
 msgstr ""
+"Χάσαμε πολλά ξωτικά στόν πόλεμο. Φοβάμαι ότι δέν είναι φρόνιμο να "
+"ακολουθήσουμε τη συμβουλή σου. Εξάλλου δέν τα καταφέρνουμε καλά στόν πόλεμο "
+"έξω από τά δάση μας."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:96
 msgid ""
@@ -906,12 +982,17 @@ msgid ""
 "the north, in all kinds of land. And, we are willing to die in order to get "
 "rid of the foul orcs!"
 msgstr ""
+"Μά πολεμάμε από τότε πού αναγκαστήκαμε νά φύγουμε από την πατρίδα μας στό "
+"βορρά σέ όλα τά εδάφη. Καί είμαστε διατεθειμένοι νά πεθάνουμε γιά να "
+"απαλλαγούμε από τούς ελεεινούς όρκ!"
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:101
 msgid ""
 "Our answer is still no. Prepare our defences as best you can, but do not "
 "renew the war. This is the council's decision"
 msgstr ""
+"Η απάντησή μας παραμένει όχι. Οργάνωσε τήν άμυνα όσο καλύτερα μπορείς, αλλά "
+"μήν ξαναρχίσεις τόν πόλεμο. Αυτή είναι η απόφαση του Συμβουλίου. "
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:149
 msgid ""
@@ -919,6 +1000,9 @@ msgid ""
 "must have some other sort of help. Olurf, can we perhaps make a deal with "
 "the dwarves?"
 msgstr ""
+"Αυτό είναι σκέτη τρέλλα! Οι όρκ θά ανακτήσουν τήν δύναμή τους καί θά "
+"ξαναεπιτεθούν! Πρέπει να βρούμε κάποιο άλλο είδος βοήθειας.'Ολουρφ, μπορούμε "
+"ίσως να κάνουμε συμφωνία μέ τους νάνους;"
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:154
 msgid ""
@@ -927,10 +1011,14 @@ msgid ""
 "sorts of useful things. Legend has it he has helped our people before. Maybe "
 "he can help us again."
 msgstr ""
+"Δυστυχώς οι δικοί μου είναι καχύποπτοι μέ σάς τά ξωτικά. Αλλά ίσως υπάρχει "
+"κάτι πού μπορούμε νά κάνουμε. Έχω ακούσει γιά έναν μάγο στά βουνά πού έχει "
+"κάθε λογής χρήσιμα πραγματάκια. Ο θρύλος λέει ότι μας έχει βοηθήσει στό "
+"παρελθόν. Ισως μας ξαναβοηθήσει."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:159
 msgid "And where do we find this mage, if he exists?"
-msgstr ""
+msgstr "Καί πού θά βρούμε αυτόν τόν μάγο, άν υπάρχει;"
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:164
 msgid ""
@@ -938,22 +1026,30 @@ msgid ""
 "helps anyone for free. Thoria is very dangerous, especially for elves. Even "
 "dwarves and trolls stay away."
 msgstr ""
+"Δέν θά είναι εύκολο. Ζεί στά βουνά της Θόρια καί ποτέ δέν βοηθάει κανέναν "
+"τζάμπα. Η Θόρια είναι πολύ επικίνδυνη, ιδιαίτερα γιά ξωτικά. Ακόμα καί οι "
+"νάνοι καί οι τρόλ δέν πλησιάζουν."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:169
 msgid ""
 "I think the orcs are in no position to attack us for some time. Maybe we "
 "should go see this mage. Olurf, can you take us there?"
 msgstr ""
+"Νομίζω ότι οι όρκ δέν είναι σέ θέση να μας επιτεθούν γιά κάποιο διάστημα. "
+"Ισως πρέπει να δούμε αυτόν τόν μάγο. 'Ολουρφ, τί λές, μπορείς να μας "
+"οδηγήσεις εκεί;"
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:174
 msgid "I think I can. But dangerous this will be!"
-msgstr ""
+msgstr "Νομίζω. Όμως επικίνδυνο θά είναι! "
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:179
 msgid ""
 "Ok then, but we will leave our best troops and gold here in case the orcs "
 "attack again."
 msgstr ""
+"Εντάξει, αλλά θά αφήσουμε τις πιό επίλεκτες μονάδες μας εδώ καθώς καί τό "
+"χρυσάφι, σέ περίπτωση πού οι όρκ ξαναεπιτεθούν."
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:3
 msgid "Council ruling"
@@ -965,6 +1061,9 @@ msgid ""
 "able to have an organized state in Wesnoth. But the Elves still had problems "
 "of their own..."
 msgstr ""
+"Με την πάλαι ποτέ κραταιά αυτοκρατορία των Σαυρανθρώπων κατεστραμένη, οι "
+"Σαυράνθρωποι δέν κατάφεραν ποτέ ξανά νά έχουν οργανωμένη πολιτεία στό "
+"Γουέσνοθ. Αλλά καί τά ξωτικά είχαν τά δικά τους προβλήματα..."
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:87
 msgid ""
@@ -974,6 +1073,11 @@ msgid ""
 "the Saurians. These are decisions to be taken by the council, and by nobody "
 "else!  "
 msgstr ""
+"Κάλεντς βρίσκεσαι μπροστά στό Συμβούλιο σήμερα γιά να απολογηθείς γιά τις "
+"ενέργειές σου. Μόνος σου αποφάσισες να βοηθήσεις τους ανθρώπους στή Γουέσλαθ "
+"καί έτισ να ρισκάρεις κι' άλλο πόλεμο με τούς όρκ, να επιτεθείς στούς όρκ "
+"στό βορρά καί τέλος να επιτεθείς στούς Σαυράνθρωπους. Αυτές είναι αποφάσεις "
+"πού λαμβάνει τό Συμβούλιο καί κανείς άλλος!"
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:92
 msgid ""
@@ -982,132 +1086,160 @@ msgid ""
 "beneficial to our cause: The orcs are now in a civil war for succession, the "
 "North Elves are free and the Saurians no longer a threat."
 msgstr ""
+" Μέ όλο τό σεβασμό Αρχοντά μου, είμασταν καί συνεχίζουμε να είμαστε σέ "
+"πόλεμο. Απλά δέν είχαμε χρόνο να σας συμβουλευτούμε. Επιπλέον, όλες οι "
+"πράξεις μας είχαν ευεργετικά αποτελέσματα: Οι όρκ βρίσκονται σέ εμφύλιο "
+"πόλεμο γιά την διαδοχή, τά ξωτικά του βορρά είναι ελεύθερα καί οι "
+"Σαυράνθρωποι δέν είναι πιά απειλή."
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:97
 msgid ""
 "The council is not blind to these effects. But still you cannot decide on "
 "behalf of the Elves."
 msgstr ""
+" Τό Συμβούλιο δέν παραβλέπει τίποτε από αυτά. Αλλά παρόλα αυτά δέν μπορείς "
+"να αποφασίζεις γιά λογαριασμό των ξωτικών"
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:102
 msgid "If it weren't for Kalenz and his men, none of us would be here today. "
 msgstr ""
+"Χωρίς τόν Κάλεντς καί τούς άντρες του, κανείς μας δέν θά ήταν εδώ σήμερα."
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:107
 msgid ""
 "I agree. What's done is done. Let us concentrate on the future, not the "
 "past. "
-msgstr ""
+msgstr "Συμφωνώ. Ότι έγινε, έγινε. Ας εστιάσουμε στό μέλλον, όχι τό παρελθόν."
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:112
 msgid ""
 "Kalenz, the council has decided that you will be stripped of any military "
 "authority. You may now go."
 msgstr ""
+"Κάλεντς, τό Συμβούλιο αποφάσισε να σού αφαιρέσει κάθε στρατιωτική εξουσία. "
+"Μπορείς νά φύγεις τώρα"
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:117
 msgid ""
 "It is with pleasure that I will go. But we need to have a strong army, as "
 "the orcs will return!"
 msgstr ""
+"Με ευχαρίστηση θά φύγω. Αλλά χρειαζόμαστε ισχυρό στρατό, γιατί οι όρκ θά "
+"επιστρέψουν!"
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:123
 msgid "Cowards and traitors!"
-msgstr ""
+msgstr " Δειλοί καί προδότες!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:4
 msgid "Elves' Last Stand"
-msgstr ""
+msgstr "Η τελευταία μάχη των ξωτικών"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:20
 msgid ""
 "With no further encounters Kalenz and his band returned to Wesmere just in "
 "time..."
 msgstr ""
+"Χωρίς άλλες συναντήσεις ο Κάλεντς καί η ομάδα του επέστρεψαν στό Γουέσμηρ "
+"πάνω στήν πιό κρίσιμη ώρα..."
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:156
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:112
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:392
 msgid "Death of  Galtrid"
-msgstr ""
+msgstr "Θάνατος του Γκάλτριντ"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:434
 msgid ""
 "The orcs have pushed us back to the Kalian. There is no way out. We must win "
 "here!"
 msgstr ""
+"Οι όρκ μας αναγκάσανε να υποχωρήσουμε ως τό Κάλιαν. Δέν υπάρχει άλλη "
+"διέξοδος. Πρέπει να νικήσουμε εδώ!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:439
 msgid "This is our final stand. If they take the K'alian, all is lost!"
-msgstr ""
+msgstr "Αυτή είναι η τελική μας μάχη. Αν πάρουν τό Κάλιαν, όλα χάθηκαν!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:445
 msgid "We'll crush those weak elves and I'll get da stone!"
-msgstr ""
+msgstr "Εμείς νικήσει αυτά αντύναμα ξωτικά καί εγκώ πάρει τοπέτρα."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:451
 msgid ""
 "I see the orcish army is big but consists of mostly inexperienced fighters. "
 "This should not take too long...."
 msgstr ""
+"Βλέπω πώς ο στρατός των όρκ είναι μεγάλος αλλά απαρτίζεται κυρίως από "
+"άπειρους όρκ. Δέν θά έπρεπε να μάς πάρει πολλή ώρα να τους νικήσουμε..."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:510
 msgid ""
 "These are hardened orc and Troll veterans. Men, prepare for a long, hard "
 "fight..."
 msgstr ""
+"Πρόκειται γιά σκληροτράχηκους βετεράνους όρκ καί τρόλ. Αντρες ετοιμαστείτε "
+"γιά μιά μεγάλη καί σκληρή μάχη..."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:521
 msgid ""
 "We still haven't defeated the orcs and our troops and supplies are "
 "exhausted. This is the end!"
 msgstr ""
+"Ακόμα δέν έχουμε νικήσει τους όρκ καί τά στρατεύματα καί τά εφόδια μας έχουν "
+"εξαντληθεί. Ήρθε τό τέλος! "
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:562
 msgid "No, with Galtrid gone, we are doomed!"
-msgstr ""
+msgstr "Όχι! Χωρίς τόν Γκάλτριντ, είμαστε χαμένοι!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:601
 msgid "At last! The orcs are defeated."
-msgstr ""
+msgstr "Επιτέλους, οι όρκ νικήθηκαν."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:629
 msgid ""
 "The elves have beat us and they did not use da stone. Maybe they don't have "
 "it? King will not like bad news!"
 msgstr ""
+" Τά ξωτικά μας νίκησαν καί ντέν χρησιμοποίησαν τόπετρα. Μήπως όκι έχουν "
+"αυτό; Βασιλιά όκι αρέσει κακός νέα!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:644
 msgid ""
 "Aargh! I should have stayed in the mountains instead of joining the orcs"
-msgstr ""
+msgstr "Ααργκ! Έπρεπε νά μείνω στά βουνά αντί νά συμμαχήσω μέ τους όρκ."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:729
 msgid "Thought we'd let you have all the fun with the orcs by yourselves?"
-msgstr ""
+msgstr " Νομίσατε ότι θά σας αφήναμε νά διασκεδάζετε μόνοι σας;"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:734
 msgid "It's Olurf! He made it!"
-msgstr ""
+msgstr "Είναι ο Όλουρφ! Τά κατάφερε!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:739
 msgid "I told you I'd be there"
-msgstr ""
+msgstr "Σάς τόχα πεί ότι θά ερχόμουν!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:744
 msgid "Not much of an army he is bringing with him though"
-msgstr ""
+msgstr " Δέν φέρνει όμως καί πολύ στρατό μαζί του."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:749
 msgid ""
 "Not much of an army! These are dwarves with migthy axes, not some wimpy bow-"
 "carying elves!"
 msgstr ""
+"Όχι καί πολύ στρατό! Αυτοί είναι νάνοι μέ γερά τσεκούρια, όχι ξωτικάκια μέ "
+"τοξάκια!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:755
 msgid ""
 "Olurf is that all the dwarves you could find? Maybe the gold was not enough?"
 msgstr ""
+"Όλουρφ, αυτούς μόνο τους νάνους μπόρεσες νά βρείς; Μήπως δέν έφταναν τά "
+"χρυσά νομίσματα; "
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:760
 msgid ""
@@ -1115,40 +1247,47 @@ msgid ""
 "more if one of my men had kept quiet about helping elves! Anyway, my clan "
 "should join us in a few days."
 msgstr ""
+"Δέν πολεμάνε για χρυσάφι, αλλά γιά τό κέφι τους. Θά είχα πολλούς παραπάνω άν "
+"ένας από τούς άντρες μου δέν είχε αναφέρει ότι θά βοηθούσαμε ξωτικά! Ετσι κι "
+"αλλιώς, η φατρία μου θά είναι μαζί μας σέ μερικές μέρες."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:765
 msgid "In a few days? That's too late! Then we can have our gold back!"
 msgstr ""
+"Σέ μερικές μέρες; Αυτό είναι πολύ αργά! Μπορούμε νά έχουμε πίσω τό χρυσό "
+"μας; "
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:770
 msgid "Sure, minus expenses"
-msgstr ""
+msgstr "Ναί, μείον τά έξοδα"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:775
 msgid "What expenses?"
-msgstr ""
+msgstr "Τί έξοδα;"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:780
 msgid ""
 "Well it's an ancient dwarvish custom to buy the warriors a few drinks before "
 "the battle... So minus expenses that's about even"
 msgstr ""
+"Είναι ένα παλιό έθιμο των νάνων νά κερνάμε τους πολεμιστές μερικά ποτά πρίν "
+"τή μάχη... Οπότε αν αφαιρέσουμε τά έξοδα είμαστε εντάξει."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:785
 msgid "That explains why they are so reckless in battle..."
-msgstr ""
+msgstr "Αυτό εξηγεί γιατί είναι τόσο ατρόμητοι στή μάχη..."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:791
 msgid "... Well, gentlemen, we have a battle to fight!"
-msgstr ""
+msgstr "Λοιπόν, κύριοι, έχουμε μιά μάχη νά τελειώσουμε!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:802
 msgid "I die without getting da stone? "
-msgstr ""
+msgstr "Πεθαίνω χωρίς πάρει τόπετρα;"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:813
 msgid "Orcs, death is all you will find in this forest!"
-msgstr ""
+msgstr " Όρκ, τό μόνο πού θά βρείτε σέ αυτό τό δάσος είναι ο θάνατος!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:4
 msgid "Elvish Assasins"
@@ -1158,18 +1297,22 @@ msgstr "Ξωτικά-Δολοφόνοι"
 msgid ""
 "After the council's decision, Kalenz and Cleodil retired in the North ..."
 msgstr ""
+" Μετά την απόφαση του Συμβουλίου ο Κάλεντς καί η Κλεοντίλ αποσύρηθκαν στό "
+"Βορρά..."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:29
 msgid "...but things were about to get interesting again..."
-msgstr ""
+msgstr "... αλλά τά πράγματα σύντομα θά αποκτούσαν νέο ενδιαφέρον"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:153
 msgid "Kalenz reaches the signpost"
-msgstr ""
+msgstr "Ο Κάλεντς φτάνει στήν πινακίδα"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:208
 msgid "My Lord Kalenz, you are in great danger! You must get out immediately."
 msgstr ""
+" 'Αρχοντά μου Κάλεντς, είσαι σε μεγάλο κίνδυνο. Πρέπει νά φύγεις από εδώ "
+"αμέσως."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:213
 msgid "What?!"
@@ -1181,6 +1324,8 @@ msgid ""
 "proclaimed himself Lord. What is worse, there is word out that he has "
 "already ordered your assasination."
 msgstr ""
+" Ο Λάνταρ πήρε τόν έλεγχο του στρατού. Εξόντωσε τό Συμβούλιο καί "
+"αυτοανακηρύχτηκε 'Αρχοντας. Επιπλέον, λέγεται ότι διέταξε την δολοφονία σου."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:223
 msgid "Too late! All traitors will die!"
@@ -1191,10 +1336,12 @@ msgid ""
 "Listen to me! We have fought and bled side by side.  We do not have to fight "
 "each other!"
 msgstr ""
+"Ακούστε με! Έχουμε πολεμήσει καί ματώσει μαζί. Δέν χρειάζεται νά "
+"αλληλοσκοτωθούμε!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:234
 msgid "Do not listen to this traitor! You all have heard the order!"
-msgstr ""
+msgstr "Μήν τόν ακούτε τόν προδότη! Όλοι σας ακούσατε τη διαταγή!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:240
 msgid ""
@@ -1202,6 +1349,9 @@ msgid ""
 "join Landar. Plus, word is that some troops still loyal to you are heading "
 "there."
 msgstr ""
+" Πρέπει να προσπαθήσετε να φτάσετε στόν Ουραρέντια καί τά ξωτικά του βορρά. "
+"Καί αυτός αρνήθηκε νά πάρει τό μέρος του Λάνταρ. Επιπλέον, λέγεται ότι "
+"μερικά στρατεύματα πού είναι ακόμα πιστά σέ σένα κατευθύνονται εκεί."
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:210
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:253
@@ -1212,88 +1362,98 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:158
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:228
 msgid "I...I think I'm done, it's all over"
-msgstr ""
+msgstr "Νομίζω πώς πεθαίνω, όλα τελείωσαν..."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:268
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:200
 msgid "Cleodil, no!"
-msgstr ""
+msgstr "Κλεοντίλ, όχι!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:280
 msgid "Oh, no! we are caught in between..."
-msgstr ""
+msgstr "'Οχι! Παγιδευτήκαμε!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:294
 msgid "Now we must head to the North Elves!"
-msgstr ""
+msgstr "Τώρα πάμε στά ξωτικά του Βορρά!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:4
 msgid "The Elvish Treasury"
-msgstr ""
+msgstr "Τό θησαυροφυλάκιο των ξωτικών"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:20
 msgid "Kalenz and his forces raced to help the Elvish Treasury..."
 msgstr ""
+"Ο Κάλεντς καί οι δυνάμεις του έσπευσαν να βοηθήσουν τό θησαυροφυλάκιο των "
+"ξωτικών..."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:156
 msgid ""
 "It seems that we are too late. The Treasury has fallen to the Saurians...."
 msgstr ""
+" Φαίνεται ότι αργήσαμε. Τό θησαυροφυλάκιο έχει ήδη καταληφθεί από τους "
+"Σαυράνθρωπους..."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:161
 msgid "and I see the remains of the garrison has been taken prisoners."
-msgstr ""
+msgstr "καί βλέπω ότι τά υπολείματα της φρουράς έχουν πιαστεί αιχμάλωτοι."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:166
 msgid ""
 "We have to free them and make these Saurians pay. Attack and leave no one "
 "alive!"
 msgstr ""
+"Πρέπει να τους ελευθερώσουμε καί νά κάνουμε τους Σαυράνθρωπους να πληρώσουν. "
+"Επίθεση καί μήν αφήσετε κανέναν ζωντανό! "
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:171
 msgid ""
 " More elves are coming! Too late, we've taken all your gold and we'll get "
 "more gold from the orcs for helping them out! "
 msgstr ""
+" Έρχονται καί άλλα ξωτικά! Πολύ αργά, πήραμε όλο τό χρυσάφι σας καί θά "
+"πάρουμε κι άλλο από τούς όρκ γιά τη βοήθειά μας."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:176
 msgid "You will not live to enjoy it!"
-msgstr ""
+msgstr "Δέν θά ζήσεις νά τό χαρείς!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:188
 msgid "I have failed! The elves are doomed..."
-msgstr ""
+msgstr "Απέτυχα! Τά ξωτικά είναι καταδικασμένα.."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:201
 msgid "No! we will never recover our gold in time..."
-msgstr ""
+msgstr "'Οχι! Δέν θά καταφέρουμε να ανακτήσουμε τό χρυσάφι μας έγκαιρα..."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:214
 msgid "Whoever messes with my people will die!"
-msgstr ""
+msgstr "'Οποιος τά βάζει μέ τό λαό μου θά πεθάνει!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:226
 msgid "Aargh! I'm gone!"
-msgstr ""
+msgstr "'Ααργκ! Πεθαίνω!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:231
 msgid "I told you so!"
-msgstr ""
+msgstr "Στό είχα πεί!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:235
 msgid "Let it be known that you perished at the hands of the Elves of Kalenz!"
-msgstr ""
+msgstr "Μάθε ότι πεθαίνεις από τά χέρια των ξωτικών του Κάλεντς."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:296
 msgid ""
 "We are free! My lord Kalenz we will follow you anywhere and be forever "
 "grateful. I have important information about our treasure."
 msgstr ""
+" Είμαστε ελεύθεροι! Αρχοντα μου Κάλεντς θά σέ ακολουθήσουμε παντού καί θά "
+"είμαστε πάντα ευγνώμωνες. Εχουμε σημαντικές πληροφορίες γιά τό θησαυρό μας."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:305
 msgid ""
 "We have defeated the Saurians and freed the garrison, but our gold is gone. "
-msgstr ""
+msgstr " Νικήσαμε τους Σαυράνθρωπους, αλλά τό χρυσάφι μας έχει εξαφανιστεί."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:310
 msgid ""
@@ -1301,26 +1461,34 @@ msgid ""
 "were particularly interested in finding some dastone, I could not really "
 "understand what this was"
 msgstr ""
+"Οι Σαυράνθρωποι φαίνεται ότι πήραν όλο τό χρυσό μας στό θησαυροφυλάκιό τους. "
+"Τούς ενδιέφερε ιδιαίτερα να βρούν κάποιο τόπετρα, αλλά δέν μπορούσα να "
+"καταλάβω τί ακριβώς ήταν αυτό."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:316
 msgid ""
 "I heard the war with the Orcs is not going well. We really need all this "
 "gold!"
 msgstr ""
+" Ακουσα ότι ο πόλεμος μέ τους όρκ δέν πηγαίνει καλά. Χρειαζόμαστε πραγματικά "
+"όλο τό χρυσό!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:322
 msgid ""
 "We will hunt down those Saurians and get back our gold. And, we must make "
 "them pay for messing with us! Let's hurry. "
 msgstr ""
+"Θά κυνηγήσουμε αυτούς τους Σαυράνθρωπους καί θά ανακτήσουμε τό χρυσάφι μας. "
+"Καί πρέπει νά τους κάνουμε νά τό μετανιώσουν πού τάβαλαν μαζί μας! Ας "
+"βιαστούμε."
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:350
 msgid "No! We need Cleodil!"
-msgstr ""
+msgstr "'Οχι! Χρειαζόμαστε την Κλεοντίλ!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:4
 msgid "End of War"
-msgstr ""
+msgstr "Τό τέλος του πολέμου"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:20
 msgid ""
@@ -1331,29 +1499,38 @@ msgid ""
 "assembling all the army he could, Kalenz marched against his old friend and "
 "now mortal enemy, Landar,  in the forest of Gitamoth... "
 msgstr ""
+"Λένε ότι η μάχη στά ξωτικά του Βορρά ήταν η αρχή τού τέλους γιά την ανταρσία "
+"του Λάνταρ. Η αλήθεια είναι ότι ο εμφύλιος πόλεμος συνεχίστηκε γιά πολλά "
+"χρόνια, με καμμιά από τις δυό πλευρές να μήν έχει αρκετή ισχύ γιά μιά "
+"αποφασιστική νίκη... Στό τέλος όμως οι μέθοδοι του Λάνταρ απομάκρυναν "
+"πολλούς από τους υποστηρικτές του. Αφού μάζεψε όσο στρατό μπορούσε, ο "
+"Κάλεντς βάδισε εναντίον του παλιού φίλου καί τώρα θανάσιμου εχθρού του, τού "
+"Λάνταρ, στό δάσος τού Γκίταμοθ..."
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:88
 msgid "Defeat Landar"
-msgstr ""
+msgstr "Νίκησε τόν Λάνταρ"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:141
 msgid "Landar, let's not spill any more elvish blood.  Give up. We can help!"
 msgstr ""
+"Λάνταρ, ας μήν χύσουμε άλλο αίμα ξωτικών! Παραδώσου! Μπορούμε να βοηθήσουμε!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:146
-#, fuzzy
 msgid "No! It all ends here!"
-msgstr "Ο Κάλεντς είναι εδώ!"
+msgstr "Όχι! Όλα  τελειώνουν εδώ!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:172
 msgid "I'm done. Now I can rest!"
-msgstr ""
+msgstr "Τελείωσα! Τώρα μπορώ να ησυχάσω."
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:177
 msgid ""
 "I'm very sorry Landar. You were my best friend. I was blind at what the "
 "potion was doing to you. I was fighting it myself!"
 msgstr ""
+"Λυπάμαι πολύ Λάνταρ. Ησουν ο καλύτερος φίλος μου. Δέν έβλεπα τί σού έκανε τό "
+"φίλτρο. Κι εγώ τό πολεμούσα! "
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:182
 msgid ""
@@ -1362,6 +1539,10 @@ msgid ""
 "brought death and disaster to our own people. I have even tried to kill my "
 "own friend. I do not deserve to have ever been an elf."
 msgstr ""
+"Τό ξέρω. Αλλά δέν πήρα μόνο μιά φιάλη. Ηθελα να σιγουρευτώ ότι θά σκοτώναμε "
+"τόν βασιλιά των όρκ. Τώρα έδιωξα τους νάνους συμμάχους μας και έφερα θάνατο "
+"καί καταστροφή στό λαό μας. Ακόμα καί τόν καλύτερο φίλο προσπάθησα νά "
+"σκοτώσω. Δέν αξίζω να ήμουν ποτέ ξωτικό."
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:187
 msgid ""
@@ -1369,35 +1550,42 @@ msgid ""
 "price we had to pay. Rest well, my friend. Rest well Landar, Hero of the "
 "Elves!"
 msgstr ""
+"Δέν ήταν δικό σου φταίξιμο. Ισως ήταν η κατάρα του Ακουαγκάρ, ή ίσως είναι "
+"τό τίμημα πού έπρεπε να πληρώσουν. Αναπαύσου καλά, φίλε μου. Αναπαύσου καλά, "
+"Λάνταρ, Ήρωα των ξωτικών!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:206
-#, fuzzy
 msgid "No! Not Cleodil!"
 msgstr "Όχι! Οχι την Κλεοντίλ!"
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:3
 msgid "Epilogue"
-msgstr ""
+msgstr "Επίλογος"
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:13
 msgid "After the end of Asheviere, Kalenz returned to his home in the North."
-msgstr ""
+msgstr " Μετά τό τέλος της Ασεβίρ, ο Κάλεντς γύρισε σπίτι του, στό Βορρά. "
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:17
 msgid ""
 "Some say he lived happily there; The elves still recognized them as their "
 "leader."
 msgstr ""
+"Μερικοί λένε ότι έζησε ευτυχισμένα εκεί. Τά ξωτικά συνέχισαν να τόν "
+"αναγνωρίζουν σαν αρχηγό τους."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:21
 msgid ""
 "The plains and forests of Wesnoth would see many more seasons for Elves and "
 "humans."
 msgstr ""
+"Οι πεδιάδες καί τά δάση τού Γουέσνοθ θά έβλεπαν πολλές εποχές ακόμα γιά τούς "
+"ανθρώπους καί τά ξωτικά."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:25
 msgid "Kalenz's story  lived from mouth to mouth for the coming generations."
 msgstr ""
+"Η ιστορία τού Κάλεντς μαθευόταν από στόμα σέ στόμα κι από γενιά σέ γενιά."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:29
 msgid ""
@@ -1406,34 +1594,48 @@ msgid ""
 "the elves, like humans, had paid in much blood and suffering to learn that "
 "nothing in the world of  Wesnoth comes for free."
 msgstr ""
+"Αλλά ακόμα πολλά χρόνια μεά πολλοί είπαν ότι ακόμα περιφέρεται στά δάση του "
+"Γουέσνοθ, γιά να εξασφαλίσει ότι αυτά θά είναι γιά πάντα τό σπίτι των "
+"ξωτικών του Γουέσνοθ, μιά καί τά ξωτικά, όπως καί οι άνθρωποι έχουν πληρώσει "
+"με πολύ αίμα καί βάσανα γιά νά μάθουν ότι τίποτε στόν κόσμο του Γουέσνοθ δέν "
+"χαρίζεται."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:3
 msgid "First Epilogue"
-msgstr ""
+msgstr "Πρώτος Επίλογος"
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:13
 msgid ""
 "Kalenz indeed buried Landar with great honors and made a monument worthy of "
 "a true elvish hero."
 msgstr ""
+"Ο Κάλεντς πράγματι έθαψε τον Λάνταρ με μεγάλες τιμές καί ανήγειρε ένα "
+"μνημείο αντάξιο ενός πραγματικού Ηρωα των ξωτικών."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:17
 msgid ""
 "Landar's remaining followers' lives were spared, but they were banished to "
 "Gitamoth forest, henceforth known as Silent Forest."
 msgstr ""
+"Στούς υπόλοιπους υποστηρικτές του Λάνταρ χαρίστηκε η ζωή, αλλά εξορίστηκαν "
+"στό δάσος του Γκίταμοθ, πού από τότε είναι γνωστό σάν Σιωπηλό δάσος."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:21
 msgid ""
 "As Landar had wiped out the Elvish Council, Kalenz was unanimously chosen as "
 "Lord of the Elves. North and South Elves swore allegiance to him."
 msgstr ""
+"Καθώς ο Λάνταρ είχε εξοντώσει τό Συμβούλιο, ο Κάλεντς ομόφωνα επιλέχτηκε σάν "
+"Αρχοντας των ξωτικών. Βόρεια καί Νότια ξωτικά ορίστηκαν πίστη σ' αυτόν."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:25
 msgid ""
 "Kalenz still needed time to master the evil roaming in his veins, so he "
 "retired with Cleodil to his home in the North."
 msgstr ""
+" Ο Κάλεντς χρειαζόταν κι άλλο χρόνο γιά να κυριαρχήσει στό κακό πού "
+"κυκλοφορούσε στίς φλέβες του, έτσι αποσύρθηκε με την Κλεοντίλ στό σπίτι του "
+"στό Βορρά."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:29
 msgid ""
@@ -1441,10 +1643,14 @@ msgid ""
 "He knew that the orcish threat was not over, as the elves had lost a golden "
 "opportunity to end the threat and that trouble would  return..."
 msgstr ""
+" Πρίν απ' αυτό όμως οργάνωσε τά ξωτικά καί τόν στρατό ώστε νά είναι έτοιμα. "
+"Ήξερε ότι η απειλή των όρκ δέν είχε τελειώσει, αφού τά ξωτικά είχαν χάσει "
+"μιά χρυσή ευκαιρία νά βάλουν ένα τέλος σ' αυτή την απειλή καί ότι οι "
+"μπελάδες θά ξαναγύριζαν..."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:5
 msgid "Hero's Return"
-msgstr ""
+msgstr "Η επιστροφή τού Ήρωα"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:21
 msgid ""
@@ -1455,110 +1661,129 @@ msgid ""
 "day, Cleodil's fears had come true: Asheviere has attacked in the south, "
 "using orcish mercenaries...Kalenz quickly gathered the troops..."
 msgstr ""
+"Τό χάρισμα της ζωής τού Ελντρεντ αποδείχτηκε ένα λάθος πού έμελλε να "
+"πληρωθεί ακριβά. Μετά την προδοσία του Έλντρεντ πρός τόν Γκαράρντ στά στενά "
+"του Αβέζ(βλ. την εκστατεία Διάδοχος του Θρόνου) καί την μετέπειτα άνοδο στό "
+"θρόνο της Ασεβίρ, τά ξωτικά δέν είχαν επαφές με τους ανθρώπους, εκτός από "
+"τον Ντλελφαντορ καί τον νέο προστατευόμενό του, τόν Κόνραντ. Μιά μέρα οι "
+"φόβοι της Κλεοντίλ επαληθεύτηκαν: Η Ασεβίρ είχε επιτεθεί στό νότο, "
+"χρησιμοποιώντας μισθοφόρους όρκ. Ο Κάλεντς γρήγορα συγκέντωσε τό στρατό..."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:200
 msgid ""
 "Looks like the orcs have attacked in force... This is the place Delfador and "
 "young Konrad were living in. I wonder if they were able to flee in time..."
 msgstr ""
+"Φαίνεται ότι οι όρκ επιτέθηκαν μέ πολλές δυνάμεις... Εδώ ζούσαν ο Ντέλφαντορ "
+"καί ο νεαρός Κόνραντ. Αναρωτιέμαι άν πρόλαβαν νά φύγουν έγκαιρα..."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:205
 msgid "More elves! Attack them and leave no one alive!"
-msgstr ""
+msgstr "Κι άλλα ξωτικά! Επιτεθείτε τους καί μην αφήσετε κανέναν ζωντανό!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:210
 msgid ""
 "Orcs, you have set foot on our forest for the last time! Prepare to die!"
 msgstr ""
+"Όρκς, πατήσατε τό πόδι σας στό δάσος μας γιά τελευταία φορά! Ετοιμαστείτε νά "
+"πεθάνετε!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:215
 msgid ""
 "Ha!  This will be your end. The humans are no longer on your side. And with "
 "the Queen's gold, we can get many who will fight for us!"
 msgstr ""
+" Χά! Αυτό θά είναι τό τέλος σας. Οι άνθρωποι δέν είναι πιά μέ τό μέρος σας. "
+"Καί μέ το χρυσάφι της βασίλισσας, θά βρούμε πολλούς νά πολεμήσουν γιά μας!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:224
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:242
 msgid "No! it's all over!"
-msgstr ""
+msgstr "Όχι! 'Ολα τέλειωσαν!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:251
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:248
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:211
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:254
 msgid "No! More orcs are coming, we are doomed..."
-msgstr ""
+msgstr "Όχι! Έρχονται κι άλλοι όρκ, είμαστε χαμένοι..."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:268
 msgid ""
 "Speak the truth and die quickly: Where is the human mage and the prince? "
 "What have you done to them?"
 msgstr ""
+"Πές την αλήθεια καί πέθανε γρήγορα: Πού είναι ο μάγος των ανθρώπων καί ο "
+"πρίγκηπας; Τί τους κάνατε;"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:273
 msgid "They are dead. We burned them."
-msgstr ""
+msgstr " Είναι νεκροί. Τούς κάψαμε."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:278
 msgid ""
 "If this were true, you'd either display them or have sent their bodies to "
 "the queen. Make sure this lying worm dies slow."
 msgstr ""
+"Αν αυτό ήταν αλήθεια είτε θά τούς είχατε καί θά τούς επιδεικνύατε, είτε θά "
+"είχατε στείλει τά πτώματά τους στή βασίλισσα. Σιγουρευτείτε ότι αυτό τό "
+"ψευδόμενο σκουλήκι θά πεθάνει αργά."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:288
 msgid "Victory!"
-msgstr ""
+msgstr "Νίκη!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:314
 msgid ""
 "My Lord Kalenz, you are urgently needed at a council meeting at the K'alian. "
 "Delfador will also be there among the human rebells!"
 msgstr ""
+" Αρχοντά μου Κάλεντς η παρουσία σας είναι απαραίτητη γιά έα συμβούλιο στό "
+"Κάλιαν. Ο Ντέλφαντορ θά είναι εκεί ανάμεσα στούς επαναστάτες ανθρώπους."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:361
-#, fuzzy
 msgid "Ha! More of us are coming! You elves are lost!"
-msgstr "Όλα χάθηκαν!"
+msgstr "Χά!  Ερχονται καί άλλοι δικοί μας ! Ξωτικά, είστε χαμένοι!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:372
 msgid "Athburil"
-msgstr ""
+msgstr "Αθμπουρίλ"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:373
 msgid "Panorea"
-msgstr ""
+msgstr "Πανορέα"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:377
 msgid "Good thing you came! More of us are hiding in the forest."
-msgstr ""
+msgstr "Καλά πού ήρθατε. Κι άλλοι από μας κρύβονται στό δάσος."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:388
 msgid "Ithoras"
-msgstr ""
+msgstr "'Ιθορας"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:389
 msgid "Kletskis"
-msgstr ""
+msgstr "Κλέτσκις"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:398
 msgid "Pribol"
-msgstr ""
+msgstr "Πρίμπολ"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:399
 msgid "Ilendal"
-msgstr ""
+msgstr "Ίλενταλ"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:408
 msgid "Gliglus"
-msgstr ""
+msgstr "Γκλίγκλους"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:409
 msgid "Arthanar"
-msgstr ""
+msgstr "Αρθανάρ"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:4
 msgid "Hostile Mountains"
-msgstr ""
+msgstr "Εχθρικά Βουνά"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:20
 msgid ""
@@ -1566,11 +1791,14 @@ msgid ""
 "that the main routes were already swarming with orcs. They had to take a "
 "detour through territory they'd rather avoid..."
 msgstr ""
+"Ο Κάλεντς καί η ομάδα του κατάφεραν να σπάσουν την περικύκλωσή τους, αλλά "
+"βρήκαν ότι οι βασικοί δρόμοι είχαν ήδη γεμίσει μέ όρκ. Ετσι έπρεπε να κάνουν "
+"μια παράκαμψη μέσα από περιοχές πού θα προτιμούσαν να αποφύγουν...."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:223
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:112
 msgid "Reach the signpost"
-msgstr ""
+msgstr "Φτάσε στήν πινακίδα"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:147
 msgid ""
@@ -1578,18 +1806,25 @@ msgid ""
 "shorter. I hope the dwarves grant us safe passage, since the other path is "
 "troll territory..."
 msgstr ""
+"Είχα την ελπίδα ότι θά αποφεύγαμε αυτούς τους δρόμους. Τό ανατολικό μονοπάτι "
+"είναι περιοχή των νάνων καί ο γρηγορότερος δρόμος. Ελπίζω ότι οι νάνοι θα "
+"μάς αφήσουν να περάσουμε, μιά καί τό άλλο μονοπάτι είναι περιοχή των Τρόλ.."
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:152
 msgid ""
 "Not in your dreams, elf! These are dwarven lands. We don't want you and your "
 "likes here! Take a hike!"
 msgstr ""
+" Ούτε στά όνειρά σου, ξωτικό! Αυτή είναι περιοχή των νάνων. Δέν θέλουμε "
+"εσένα καί τούς όμοιούς σου εδώ! Στρίβε!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:157
 msgid ""
 "Look, the orcs have landed. They will be attacking you too any minute now. "
 "This is no time to fight among ourselves!"
 msgstr ""
+"Ακου, έχουν φτάσει εδώ όρκ. Θα σας επιτεθούν καί σας όπου νάναι. Δέν είναι "
+"ώρα να τσακωνόμαστε μεταξύ μας!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:162
 msgid ""
@@ -1598,72 +1833,81 @@ msgid ""
 "who enters dwarven territory. We are afraid of no one. Anyone who sets foot "
 "on the eastern bank of the river will be very sorry!"
 msgstr ""
+"Κι' άλλο από αυτά τά κόλπα τών ξωτικών, έτσι; Σας ξέρουμε καλά τό είδος σας. "
+"Καί ποιός χρειάζεται τή βοήθειά σας, έτσι κι αλλιώς, αδύναμα πλάσματα; "
+"Φύγετε τώρα, η νιώστε το τσεκούρι μου. Κι αυτό ισχύει καί γι΄όποιον άλλο "
+"μπεί σέ περιοχή των νάνων. Δεν φοβόμαστε κανέναν. Όποιος πατήσει πόδι στην "
+"ανατολική πλευρά του ποταμού θά τό μετανιώσει πικρά!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:167
 msgid "I guess the trolls cannot be any less friendly"
-msgstr ""
+msgstr "Φαντάζομαι ότι οι Τρόλ δέν θά μπορούσαν νάναι λιγώτερο φιλικοί."
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:172
 msgid ""
 "Hmm... Maybe the dwarves CAN still be of help. Onwards and no matter what "
 "you do, do NOT step on the east band of the river!"
 msgstr ""
+"Χμμ... Ισως οι νάνοι να είναι χρήσιμοι παρόλα αυτά. Πάμε κα΄ότι κι άν γίνει "
+"μήν πατήσετε τήν ανατολική ακτή του ποταμού!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:332
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:199
 msgid "No! without  his bow we have no chance!"
-msgstr ""
+msgstr "Όχι! Χωρίς τό τόξο του δέν έχουμε ελπίδα!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:212
 msgid "Oh, no! More trolls are coming, we are doomed..."
-msgstr ""
+msgstr "Όχι! Ερχονατι κι άλλοι Τρόλ, είμαστε χαμένοι..."
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:264
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:225
 msgid "payback time!"
-msgstr ""
+msgstr "Ώρα να πληρώσετε!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:241
 msgid "We made it! Now onward to Wesmere! Hurry!"
-msgstr ""
+msgstr "Τά καταφέραμε! Τώρα εμπρός γιά τό Γουέσμηρ! Ας βιαστούμε!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:259
 msgid "These darn trolls stepped on OUR land! Attack!"
-msgstr ""
+msgstr "Αυτοί οι καταραμένοι Τρόλ πάτησαν τή γή μας! Επίθεση!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:282
 msgid "These darn elves stepped on OUR land! Attack!"
-msgstr ""
+msgstr "Αυτά τά καταραμένα ξωτικά πάτησαν τή γή μας! Επίθεση!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:303
 msgid "We made it. Onwards to Wesmere!"
-msgstr ""
+msgstr "Τά καταφέραμε. Εμπρός γιά τό Γουέσμηρ!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:308
 msgid "Crazy Elves! But at least they helped us with the trolls"
-msgstr ""
+msgstr "Τρελλο-ξωτικά! Αλλά τουλάχιστο μας βοήθησαν με τους Τρόλ."
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:324
 msgid "No! we need the dwarves on our side!"
-msgstr ""
+msgstr "Όχι! Χρειαζόμαστε τούς νάνους νάναι μαζί μας!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:4
 msgid "Ka'lian under attack"
-msgstr ""
+msgstr "Τό Κάλιαν δέχεται επίθεση"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:20
 msgid ""
 "Kalenz and his band finally made it to the Ka'lian, but things were not as "
 "they had hoped..."
 msgstr ""
+" Ο Κάλεντς καί η ομάδα του έφτασαν τελικά στό Κάλιαν, αλλά τά πράγματα δέν "
+"ήταν όπως περίμεναν..."
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:179
 msgid "Oh no! The Ka'lian is under attack! We must help them!"
-msgstr ""
+msgstr "Όχι! Τό Κάλιαν δέχεται επίθεση! Πρέπει να τους βοηθήσουμε!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:184
 msgid "Are you our army's vanguard? Hurry, we are under attack!"
-msgstr ""
+msgstr "Είστε η εμπροσθοφυλακή του στρατού μας; Γρήγορα, δεχόμαστε επίθεση!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:189
 msgid ""
@@ -1671,135 +1915,160 @@ msgid ""
 "drive these foul orcs out of our forest! Then surely the allied elvish and "
 "human armies will defeat the orcs"
 msgstr ""
+" Όχι, κι εμείς δεχτήκαμε επίθεση στό βορρά. Θά τα πούμε αργότερα. Τώρα ας "
+"διώξουμε τους ελεεινούς όρκ από τό δάσος μας. Μετά σίγουρα ο συμμαχικός "
+"στρατός ξωτικών καί ανθρώπων θά νικήσει τούς όρκ."
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:194
 msgid ""
 "Then you have not heard. King Haldric has broken the treaty. The humans will "
 "not come to our help!"
 msgstr ""
+" Τότε δέν άκουσες τά νέα. Ο βασιλιάς Χάλντριτς έσπασε την συνθήκη. Οι "
+"άνθρωποι δέν θά έρθουν να μας βοηθήσουν!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:199
 msgid "What's that? More meat for my troops? Get them!"
-msgstr ""
+msgstr "Κι 'αλλη τροφή γιά τό στρατό μου; Επάνω τους!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:238
 msgid "With Landar gone, it's hopeless!"
-msgstr ""
+msgstr "Χωρίς τόν Λάνταρ, δέν υπάρχει ελπίδα!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:275
 msgid "How can this be?  Anyway, we have more surprises for you, elves!"
-msgstr ""
+msgstr "Πώς έγινε αυτό; Πάντως σας έχουμε κι' άλλες εκπλήξεις, ξωτικά!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:285
 msgid "We won! The K'alian is safe!"
-msgstr ""
+msgstr "Νικήσαμε! Τό Κάλιαν είναι ασφαλές!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:319
 msgid "The elvish treasury is under attack! They desparately need help!"
-msgstr ""
+msgstr "Τό θησαυροφυλάκιό μας δέχεται επίθεση! Χρειάζονται βοήθεια επειγόντως!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:324
 msgid ""
 "Galtrid, the orcs have been beaten, but you should remain here, for there "
 "may be a few more around. I'll go "
 msgstr ""
+" Γκάλτριντ, οι όρκ νικήθηκαν, αλλά πρέπει να μείνεις εδώ σε περίπτωση πού "
+"έχουν μείνει μερικοί. Θά πάω εγώ."
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:330
 msgid "Please hurry! The situation was desperate as I was leaving."
-msgstr ""
+msgstr "Βιαστείτε! Η κατάσταση ήταν απελπιστική καθώς έφευγα."
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:336
 msgid "Go Kalenz, I'll guard the Ka'lian till our army returns from the front."
 msgstr ""
+" Πήγαινε Κάλεντς, θά φυλάξω τό Κάλιαν μέχρι να γυρίσει ο στρατός μας από τό "
+"μέτωπο."
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:3
 msgid "Mountain_Lake"
-msgstr ""
+msgstr "Λίμνη στά Βουνά"
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:26
 msgid ""
 "The elves moved in to recapture the Mountain lake, an area until now noted "
 "for its peacefulness and tranquility..."
 msgstr ""
+"Τά ξωτικά κινήθηκαν να ανακαταλάβουν τήν Λίμνη στά Βουνά, μιά περιοχή πού "
+"μέχρι τώρα ήταν ονομαστή γιά την ησυχία καί την ηρεμία της..."
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:145
 msgid "Here we are.  This mountain mist looks dangerous!."
-msgstr ""
+msgstr "Εδώ είμαστε. Η ομίχλη του βουνού φαίνεται επικίνδυνη!"
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:158
 msgid ""
 "That coward leader of them was not here! It seems he has moved against the "
 "humans."
 msgstr ""
+" Ο δειλός αρχηγός τους δέν ήταν εδώ! Φαίνεται ότι έχει επιτεθεί στούς "
+"ανθρώπους."
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:163
 msgid ""
 "Then let them fight it out. The human kings have reverted back to the days "
 "of the Haldric traitor."
 msgstr ""
+" Τότε αφήστε τους να λύσουν τις διαφορές τους. Οι βασιλιάδες των ανθρώπων "
+"ξαναγύρισαν στήν εποχή αυτού τού προδότη του Χάλντριτς."
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:168
 msgid ""
 "Yes, but I cannot understand this. Before we thought it was that ruby of "
 "fire, but we told Haldric II and he was going to solve this problem."
 msgstr ""
+" Ναί, μα δέν το καταλαβαίνω. Πρίν νομίζαμε ότι ήταν το ρουμπίνι της φωτιάς, "
+"μα τό είπαμε στόν Χάλτριτς Β' καί θά τό κανόνιζε."
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:235
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:186
 msgid "The elves will now fall!"
-msgstr ""
+msgstr "Τά ξωτικά είναι τώρα χαμένα!"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:6
 msgid "News from the front"
-msgstr ""
+msgstr "Νέα από τό Μέτωπο"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:24
 msgid ""
 "With Crelanu's book and magic filters in hand, Kalenz and his band were on "
 "their way back home..."
 msgstr ""
+" Με το βιβλίο καί τα μαγικά φίλτρα του Κρελάνου στό χέρι, ο Κάλεντς καί οι "
+"ομάδα του πήραν τό δρόμο της επιστροφής..."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:96
 msgid ""
 "Oh, no, I forgot Crelanu's magic potion. I'll go back and get it. I'll catch "
 "up with you later!"
 msgstr ""
+"Όχι, ξέχασα το μαγικό φίλτρο του Κρελάνου. Θά πάω πίσω να τό πάρω. Θά σας "
+"βρώ σέ λίγο."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:101
 msgid "Maybe some of my dwarves can escort you... "
-msgstr ""
+msgstr "Ισως μερικοί νάνοι μου μπορούν να σε συνοδεύσουν..."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:106
 msgid "Ok, Landar, but be careful. We need you."
-msgstr ""
+msgstr "Εντάξει Λάνταρ, μόνο πρόσεχε. Σέ χρειαζόμαστε."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:142
 msgid ""
 "At last I found you alive and well! We need you back at once! The orcs have "
 "attacked the humans."
 msgstr ""
+" Επιτέλους σας βρήκα ζωνατνούς καί υγιείς! Σας χρειαζόμαστε πίσω αμέσως! Οι "
+"όρκ επιτέθηκαν στούς ανθρώπους!"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:147
 msgid "This means we  are safe for the time being, no?"
-msgstr ""
+msgstr "Αυτό σημαίνει ότι πρός το παρόν είμαστε ασφαλείς, έτσι δέν είναι;"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:152
 msgid ""
 "What's more, King Haldric is dead. His successor wants to renew our ancient "
 "alliance and has asked for our help."
 msgstr ""
+" Επιπλέον, ο βασιλιάς Χάλντριτς αίναι νεκρός. Ο διάδοχός του θέλει να "
+"ανανεώσει την παλιά μας συμμαχία καί ζητάει τή βοήθειά μας."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:190
 msgid "How convenient! Now they need our help!"
-msgstr ""
+msgstr "Τί βολικά! Τώρα θέλουν τή βοήθειά μας!"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:195
 msgid "Landar! You're back! Everything's ok?"
-msgstr ""
+msgstr "Λάνταρ, γύρισες! Όλα εντάξει;"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:200
 msgid "Yes, I have the potion. "
-msgstr ""
+msgstr "Ναί, έχω τό φίλτρο."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:205
 msgid ""
@@ -1807,6 +2076,9 @@ msgid ""
 "attacked, but the orcs are everybody's enemy. When humans fall, we'll be "
 "next."
 msgstr ""
+"Αυτή είναι μιά δύσκολη απόφαση. Ξέρω ότι οι άνθρωποι δέν βοήθησαν όταν οι "
+"όρκ μας επιτέθηκαν, αλλά οι όρκ είναι εχθροί όλων. Αν χαθούν οι άνθρωποι, "
+"έρχεται καί η σειρά μας."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:210
 msgid ""
@@ -1814,54 +2086,66 @@ msgid ""
 "surrounded the city of  Weslath. The humans are sending all their forces "
 "there. We need to decide if we'll help them or not. "
 msgstr ""
+" Οι δυνάμεις των όρκ έχουν στρατοπεδεύσει νότια του μεγάλου ποταμού καί "
+"περικύκλωσαν τήν πόλη της Γουέσλαθ. Οι άνθρωποι στέλνουν εκεί όλες τις "
+"δυνάμεις τους. Πρέπει να αποφασίσουμε αν θα τους βοηθήσουμε ή όχι."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:215
 msgid ""
 "Go tell the council and the human king that we'll be there! Now let's hurry!"
 msgstr ""
+"Πήγαινε πές στό Συμβούλιο καί στόν βασιλιά των ανθρώπων ότι θά είμαστε εκεί. "
+"Τώρα ας βιαστούμε!"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:4
 msgid "Northern Battle"
-msgstr ""
+msgstr "Μάχη στό βορρά "
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:20
 msgid ""
 "Kalenz managed to reach the North Elves to ask for help. Very soon, Landar's "
 "army appeared..."
 msgstr ""
+"Ο Κάλεντς κατάφερε να φτάσει στά ξωτικά του Βορρά καί να ζητήσει βοήθεια. "
+"Πολύ σύντομα έφτασε ο στρατός του Λάνταρ..."
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:137
 msgid "Survive for six days"
-msgstr ""
+msgstr "Επέζησε γιά έξη μέρες"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:217
 msgid ""
 "Landar, listen to me! It does not have to come to this. I know about the "
 "potion. Let us help!"
 msgstr ""
+" Λάνταρ, άκουσέ με! Δέν χρειάζεται να φτάσουμε ως εδώ! Ξέρουμε γιά το "
+"φίλτρο. Ασε μας να βοηθήσουμε!"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:222
 msgid "Here is Kalenz. There is no talk with traitors! Let none of them alive!"
 msgstr ""
+"Να ο Κάλεντς! Δέν μιλάμε με προδότες! Μην αφήσετε κανέναν τους ζωντανό!"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:236
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:258
 msgid "Things are not going well! Retreat! We will meet again, traitors!"
-msgstr ""
+msgstr "Τά πράγματα δέν πάνε καλά! Υποχώρηση! Θα τα ξαναπούμε προδότες!"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:307
 msgid "With Uradredia gone, the North Elves will no longer fight!"
-msgstr ""
+msgstr "Με τόν Ουραρέντια νεκρό, τα ξωτικά του Βορρά δέν θα πολεμήσουν άλλο!"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:318
 msgid ""
 "We have yet to breakk their defences! While we are getting weaker the enemy "
 "is getting stronger! Retreat!"
 msgstr ""
+" Ακόμα να σπάσουμε τις γραμμές τους! Ενώ εμείς αδυνατίζουμε, οι εχθροί "
+"ισχυροποιούνται. Υποχώρηση!"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:329
 msgid "We won!"
-msgstr ""
+msgstr "Νικήσαμε!"
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:4
 msgid "Prince of Wesnoth"
@@ -1873,12 +2157,17 @@ msgid ""
 "The elves knew that with Delfador close to the King, Wesnoth would be a "
 "reliable ally...."
 msgstr ""
+" Μετά τη νίκη της συμμαχίας καί το σύμφωνο ειρήνης, υπήρξε μιά περίοδος "
+"ηρεμίας. Τα ξωτικά ήξεραν ότι με τον Ντέλφαντορ κοντά στόν βασιλιά, τό "
+"Γουέσνοθ θά ήταν ένας αξιόπιστος σύμμαχος..."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:30
 msgid ""
 "But Delfador was not running everything in Wesnoth. The Queen's power was "
 "rising..."
 msgstr ""
+" Ομως ο Ντέλφαντορ δέν έκανε κουμάντο σέ όλα στό Γουέσνοθ. Η δύναμη της "
+"βασίλισσας μεγάλωνε..."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:35
 msgid ""
@@ -1886,10 +2175,13 @@ msgid ""
 "border with Wesnoth. Kalenz gathered a small force and  hurried to the "
 "disputed land."
 msgstr ""
+"Μιά μέρα ήρθαν αναφορές ότι δυνάμεις του Γουέσνοθ κατέλαβαν με τη βία γή των "
+"ξωτικών στά σύνορα με τό Γουέσνοθ. Ο Κάλεντς μάζεψε μιά μικρή δύναμη καί "
+"έφτασε γρήγορα στη διαφιλονικούμενη περιοχή."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:86
 msgid "Defeat Eldred"
-msgstr ""
+msgstr "Νίκησε τόν 'Ελντρεντ"
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:132
 msgid ""
@@ -1897,6 +2189,9 @@ msgid ""
 "immediately. I am Kalenz, lord of the elfs. You can ask the great Delfador "
 "to confirm my words."
 msgstr ""
+"Στρατηγοί του Γουέσνοθ, επιτεθήκατε σε ανυπεράσπιστη γή των ξωτικών. Πρέπει "
+"να φύγετε αμέσως. Είμαι ο Κάλεντς, άρχοντας των ξωτικών. Μπορείτε να "
+"ρωτήσετε τόν μεγάλο Ντέλφαντορ να επιβεβαιώσει τά λόγια μου."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:137
 msgid ""
@@ -1904,10 +2199,13 @@ msgid ""
 "throne claim it for Wesnoth and Queen Asheviere. Delfador does not rule "
 "Wesnoth!"
 msgstr ""
+"Δέν είναι πιά γή των ξωτικών. Εγώ, ο Έλντρεντ, πρίγκηπας του Γουέσνοθ καί "
+"διάδοχος του θρόνου κατακτώ αυτή τη γή γιά λογαριασμό του Γουέσνοθ καί της "
+"βασίλισσας Ασεβίρ. Ο Ντέλφαντορ δέν κάνει κουμάντο στό Γουέσνοθ!"
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:142
 msgid "I did not want to spill human blood, but there is no other choice."
-msgstr ""
+msgstr "Δέν ήθελα να χύσω ανθρώπινο αίμα, αλλά δέν υπάρχει επιλογή."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:202
 msgid ""
@@ -1917,6 +2215,11 @@ msgid ""
 "offers his deepest apologies for these events and promises to do anything in "
 "his power to make amends."
 msgstr ""
+"Ειρήνη, φίλοι! Καλπάζω γιά μέρες προσπαθώντας να εμποδίσω αυτή την τρέλλα. "
+"Ελντρεντ, έχω διαταγές απευθείας από τόν βασιλιά νά σε οδηγήσω στό παλάτι, "
+"όπου θά πρέπει να τιμωρηθείς γιά τις αδικιολόγητες πράξεις σου. Κάλεντς, ο "
+"βασιλιάς εκφράζει την ειλικρινή συγνώμη του γιά τά γεγονότα αυτά καί "
+"υπόσχεται νά κάνει ότι μπορεί γιά να επανορθώσει."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:207
 msgid ""
@@ -1924,27 +2227,32 @@ msgid ""
 "believe he should be very careful, for he does not seem to be the only one "
 "ruling Wesnoth!"
 msgstr ""
+" Ντέλφαντορ! Είμαι πολύ χαρούμενος πού σέ βλέπω. Δέν ζητάμε τίποτε από τον "
+"βασιλιά, αλλά πιστεύω ότι πρέπει νά είναι πολύ προσεχτικός, γιατί φαίνεται "
+"να μήν είναι ο μόνος πού κάνει κουμάντο στό Γουέσνοθ..."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:213
 msgid ""
 "Kalenz, I am very worried. I can see great evil in the palace and it is not "
 "just the prince. I see dark days ahead..."
 msgstr ""
+" Κάλεντς ανησυχώ πολύ. Βλέπω ένα μεγάλο κακό στό παλάτι καί δέν είναι μόνο ο "
+"πρίγκηπας. Βλέπω νά έρχονται σκοτεινοί καιροί..."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:287
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:390
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:234
 msgid "No, the elves will fall!"
-msgstr ""
+msgstr "Όχι, τά ξωτικά τώρα θά χαθούν!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:299
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:246
 msgid "We are too late! All is lost!"
-msgstr ""
+msgstr "Φτάσαμε πολύ αργά! Όλα χάθηκαν!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:3
 msgid "Revelations"
-msgstr ""
+msgstr "Αποκαλύψεις"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:71
 msgid ""
@@ -1953,12 +2261,19 @@ msgid ""
 "come to Thoria. Yet these are no ordinary times for this land. I know it "
 "all. I have foreseen this would happen."
 msgstr ""
+" Ωστε εσείς είστε αυτοί πού νίκησαν τόν Ακουαγκάρ καί τα δρακοειδή του. Εσύ "
+"πρέπει να είσαι ο Όλουρφ, καί έχεις ξανάρθει εδώ όταν καί οι δύο είμασταν "
+"πολύ νεώτεροι. Αλλά τά ξωτικά ποτέ δέν έρχονται στή Θόρια. Όμως αυτοί δέν "
+"είναι συνηθισμένοι καιροί γι' αυτή τη χώρα. Τά ξέρω όλα. Τό είχα προβλέψει "
+"ότι αυτό θά γινόταν."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:76
 msgid ""
 "This is Kalenz, leader of the elves. I have brought him here so he can ask "
 "for your advice and your help to deal with the orcs."
 msgstr ""
+"Αυτός είναι ο Κάλεντς, αρχηγός των ξωτικών. Τόν έφερα εδώ γιά να ζητήσει τη "
+"συμβουλή σου καί τη βοήθειά σου γιά να αντιμετωπίσει τούς όρκ."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:81
 msgid ""
@@ -1967,24 +2282,32 @@ msgid ""
 "they are growing stronger every day. You are fighting destiny. But for the "
 "moment you have managed to divert their attention."
 msgstr ""
+" Ξωτικά, πολεμήσατε γενναία καί κεδίσατε μιά μεγάλη νίκη συό δάσος του "
+"Γουέσμηρ. Όμως οι δυνάμεις πού είναι εναντίον σας δέν έχουν ακόμα ηττηθεί. "
+"Αντίθετα, δυναμώνουν κάθε μέρα. Πολεμάτε ενάντια στό πεπρωμένο. Αλλά πρός τό "
+"παρόν καταφέρατε να στρέψετε αλλού την προσοχή τους."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:86
 msgid "What do you mean  divert their attention?"
-msgstr ""
+msgstr "Τί εννοείς νά στρέψουμε αλλού την προσοχή τους;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:91
 msgid ""
 "You cannot even imagine it. Why do you think orcs came all the way here  to "
 "attack you?"
 msgstr ""
+"Δέν μπορείτε ούτε να το φανταστείτε. Γιατί νομίζετε ότι οι όρκ ήρθαν τόσο "
+"δρόμο εδώ γιά να σας επιτεθούν;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:96
 msgid "Because they are orcs! Look old man, can you help us beat them or not?"
 msgstr ""
+"Γιατί είναι όρκ! Ακου, γέρο, μπορείς να μας βοηθήσεις να τούς νικήσουμε ή "
+"όχι;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:101
 msgid "You must be Landar, very brave, but also very brash. "
-msgstr ""
+msgstr "Πρέπει νά είσαι ο Λάνταρ, πολύ γενναίος, αλλά επίσης πολύ αυθάδης."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:107
 msgid ""
@@ -1992,28 +2315,34 @@ msgid ""
 "you are talking about. Olurf tells me you are very wise, but only help for a "
 "price. If that's what you want, just name it."
 msgstr ""
+" Ο Λάνταρ είναι αυθάδης, αλλά αυτός είναι ο λόγος πού ήρθαμε εδώ. Ούτε κι "
+"εγώ καταλαβαίνω γιά τι πράμα μιλάς. Ο Όλουρφ μου λέει ότι είσαι πολύ σοφός, "
+"αλλά βοηθάς μόνο επ' αμοιβή. Αν είναι έτσι, πές τι ζητάς."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:112
 msgid "Are you saying the Orcs attacked us looking for something?"
-msgstr ""
+msgstr "Λές ότι οι όρκ μας επιτέθηκαν γυρεύοντας κάτι;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:117
 msgid "Yes, that is what I am saying"
-msgstr ""
+msgstr "Ναί, αυτό λέω."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:122
 msgid ""
 "It makes sense now: The Saurians were asking about a dastone and also after "
 "we won in Wesmere there was an Orc mumbling something about a dastone.."
 msgstr ""
+" Τώρα βγάζω άκρη: Οι Σαυράνθρωποι ρώταγαν γιά ένα τόπετρα καί επίσης όταν "
+"νικήσαμε στό Γουέσμηρ ήταν εκεί έναν όρκ πού κάτιμουρμούριζε γιά ένα "
+"τόπετρα..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:127
 msgid "It's not a dastone, it's the stone: The mean the ruby of fire..."
-msgstr ""
+msgstr "Δέν είναι τόπετρα, είναι η πέτρα: Εννοούν τό ρουμπίνι της φωτιάς..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:132
 msgid "What's that and what does it have to do with us?"
-msgstr ""
+msgstr " Τι είναι αυτό καί τί δουλειά έχει μέ εμάς;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:137
 msgid ""
@@ -2022,12 +2351,18 @@ msgid ""
 "it. But now they suspect they have been fooled. Haldric is going to pay for "
 "his arrogance."
 msgstr ""
+" Είναι η πηγή των προβλημάτων σας: Είναι ένα πολύ δυνατό μαγικό αντικείμενο "
+"καί αυτός ο τύραννος ο Χάλντριτς τό έχει. Κορόιδεψε τους όρκ ότι τά ξωτικά "
+"τό έχουν. Αλλά τώρα υποπτεύονται ότι τους κοροιδέψανε. Ο Χάλντριτς θά "
+"πληρώσει γιά την αλλαζονεία του."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:142
 msgid ""
 "Hmm... You seem to like king Haldric even less than elves...How do you know "
 "all these?"
 msgstr ""
+"Χμμ... Φαίνεται να συμπαθείς τόν βασιλιά Χάλντριτς ακόμα λιγώτερο από τά "
+"ξωτικά... Πώς τά ξέρεις όλα αυτά;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:147
 msgid ""
@@ -2037,36 +2372,50 @@ msgid ""
 "master can handle it outside of battle. Unshielded, its magical radiance "
 "changes Haldric everytime he comes close to it."
 msgstr ""
+" Αυτός ήταν πού με εξόρισε από το Γουέσνοθ. Λένε ότι προσπάθησα να κλέψω τό "
+"ρουμπίνι καί νά παραγίνω ισχυρός... Η αλήθεια είναι ότι αυτό τό ρουμπίνι "
+"κάνει τόν Χάλντριτς κάθε μέρα καί πιό αλλαζονικό. Οποιοσδήποτε μπορεί να το "
+"χειριστεί στήν μάχη, αλλά μόνο ένας πραγματικός γνώστης μπορεί να το "
+"χειριστεί εκτός μάχης. Ακάλυπτο, η μαγική του ακτινοβολία αλλάζει τόν "
+"Χάλντριτς κάθε φορά πού τό πλησιάζει."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:152
 msgid "So the orcs will now attack the humans?"
-msgstr ""
+msgstr "Αρα οι όρκ θά επιτεθούν τώρα στούς ανθρώπους;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:157
 msgid "Yes, but after they win you're next and so are dwarves"
-msgstr ""
+msgstr "Ναί, αλλά αφού νικήσουν, έρχεται η σειρά σας καί των νάνων."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:162
 msgid "Don't worry about us. You seem to have some problems of your own."
 msgstr ""
+"Μην ανησυχείς γιά μας. Απότι φαίνεται, έχεις κι εσύ τά δικά σου προβλήματα."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:167
 msgid ""
 "You obviously know a lot. But can you help us? Is there a way to stop the "
 "orcs?"
 msgstr ""
+" Σίγουρα ξέρεις πολλά. Όμως, μπορείς να μας βοηθήσεις; Υπάρχει τρόπος να "
+"σταματήσουμε τους όρκ;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:172
 msgid ""
 "You cannot defeat them with the forces you have now. You can only gain time, "
 "maybe this will be enough for you to grow strong enough again."
 msgstr ""
+" Δεν μπορείτε να τους νικήσετε με τις δυνάμεις πού έχετε τώρα. Μπορείτε μόνο "
+"να κερίσετε χρόνο, ίσως αυτό νά είναι αρκετό γιά να ξαναγίνετε δυνατοί."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:177
 msgid ""
 "How? Don't tell me we had to fight the Saurians, cross Arkan-Thoria with all "
 "its sea monsters and fight trolls and yetis to come here for nothing!"
 msgstr ""
+" Πώς; Μή μου πείς ότι έπρεπε να πολεμήσουμε τους Σαυράνθρωπους, να περάσουμε "
+"τόν Αρκάν-Θόρια με τά τέρατά του καί να πολεμήσουμε τρόλ καί Γιέτι γιά να "
+"φτάσουμε εδώ γιά τό τίποτε!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:182
 msgid ""
@@ -2075,14 +2424,20 @@ msgid ""
 "take their king's place, and you will be safe until they have a new strong "
 "leader to unite them."
 msgstr ""
+" Πρέπει να σκοτώσετε τον βασιλιά τους καί να το κάνετε να φαίνεται σάν να "
+"σκοτώθηκε απο΄όρκς. Ετσι οι όρκς θα ξεκινήσουν εμφύλιο πόλεμο γιά τη "
+"διαδοχή, γιατί πολλοί θά ήθελαν νά πάρουν τη θέση του βασιλιά τους καί θά "
+"είστε ασφαλείς μέχρι νά έχουν έναν νέο ισχυρό αρχηγό πού θά τους ενώσει"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:187
 msgid "Kill an orcish King? But he's guarded  better than  a Troll hole!"
 msgstr ""
+"Νά σκοτώσουμε τόν βασιλιά των όρκ; Μα τόν φυλάνε καλύτερα κι' από τρύπα των "
+"Τρόλ!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:192
 msgid "Indeed it will be very hard, but maybe I can help you..."
-msgstr ""
+msgstr "Πράγματι θά είναι πολύ δύσκολο, αλλά ίσως μπορώ να σας βοηθήσω..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:197
 msgid "But you want something in return..."
@@ -2097,6 +2452,13 @@ msgid ""
 "Although Aquagar is slain, more will come. One of my associates has betrayed "
 "me. Now too many know of this book"
 msgstr ""
+" Είναι πράγματι όπως τό λές. Αυτά τα δρακοειδή ήθελαν τό βιβλιο μου. Αυτό το "
+"βιβλίο έχει όλα τα μαγικά κόλπα, φίλτρα, ευχές καί κατάρες πού ξέρω. Είναι "
+"πολύ ισχυρά, αλλά δέν με βοηθάνε να πολεμήσω τά γηρατειά. Τό μόνο πού κάνουν "
+"είναι να με προκαλούν να παρατείνω τη ζωή μου με σκοτεινούς τρόπους... Από "
+"τήν άλλη, είναι τό έργο της ζωής μου καί δέν τολμώ να τό καταστρέψω. Αν καί "
+"ο Αουαγκάρ πέθανε, θά ακολουθήσουν άλλοι. Ενας συνεργάτης μου με πρόδωσε. "
+"Τώρα υπερβολικά πολλοί ξέρουν γιά τό βιβλίο."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:207
 msgid "If you come with us, we will protect you..."
@@ -2107,11 +2469,16 @@ msgid ""
 "No, my time is up... But you can make sure my book ends up in worthy hands. "
 "Someone who will not be corrupted by its power..."
 msgstr ""
+"Όχι, ο χρόνος μου τελειώνει... Αυτό πού μπορείτε να κάνετε είναι να "
+"εξασφαλίσετε ότι τό βιβλίο θά καταλήξει σέ άξια χέρια. Σε κάποιον πού δέν θά "
+"διαφθαρεί από τη δύναμή του..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:217
 msgid ""
 "If your book is as powerful as you say, why not use it against the orcs?"
 msgstr ""
+"Αν τό βιβλίο σου είναι όσο ισχυρό λές, γιατί να μήν τό χρησιμοποιήσουμε "
+"εναντίον των όρκ;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:222
 msgid ""
@@ -2119,27 +2486,37 @@ msgid ""
 "control the lust for power. If not, you will turn into something like "
 "Haldric or worse..."
 msgstr ""
+" Ο κάθε βλάκας μπορεί να χρησιμοποιήσει τη μαγεάι από τό βιβλίο, αλλα μόνο "
+"ένας πραγματικός γνώστης μπορεί να το χρησιμοποιήσει καί ταυτόχρονα να "
+"κρατάει υπό έλεγχο την δίψα γιά δύναμη. Αλλιώς θα καταλήξετε σάν τόν "
+"Χάλντριτς η καί χειρότερα..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:227
 msgid ""
 "Maybe Cleodil can guard your book without being corrupted by its secrets..."
 msgstr ""
+" Ισως η Κλεοντίλ μπορεί να φυλάξει τό βιβλίο σου χωρίς να διαφθαρεί από τά "
+"μυστικά του..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:232
 msgid ""
 "I am sure all these secrets are way beyond my art. My art is the healing "
 "kind and I..."
 msgstr ""
+" Είμαι σίγουρη ότι αυτά τα μυστικά είναι πολύ πέρα από την τέχνη μου. Η "
+"τέχνη μου είναι τέχνη της θεραπείας καί εγώ..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:237
 msgid "There is no other option."
-msgstr ""
+msgstr " Δέν υπάρχει άλλη επιλογή."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:242
 msgid ""
 "Ok, suppose Cleodil accepts to guard your book. How will you help us then "
 "slay the orcish king?"
 msgstr ""
+"Εντάξει, ας πούμε ότι η Κλεοντίλ δέχεται να φυλάξει τό βιβλίο σου. Πώς θα "
+"μας βοηθήσεις τότε να σκοτώσουμε τόν βασιλιά των όρκ;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:247
 msgid ""
@@ -2147,12 +2524,17 @@ msgid ""
 "camp by stealth and kill their king. There is  a potion that will make you "
 "invisible for  some time."
 msgstr ""
+"Υπάρχει τρόπος, αλλά είναι πολύ επικίνδυνος: Δύο από σας μπορείτε να μπείτε "
+"αόρατοι στό στρατόπεδο των όρκ καί να σκοτώσετε τόν βασιλιά τους. Υπάρχει "
+"ένα φίλτρο πού θά σας κάνει αόρατους γιά κάποιο χρονικό διάστημα."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:252
 msgid ""
 "I have never heard of something like that. I suppose you have this potion "
 "then?"
 msgstr ""
+" Ποτέ μου δέν έχω ακούσει κάτι τέτοιο. Υποθέτω λοιπόν ότι έχεις αυτό τό "
+"φίλτρο;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:257
 msgid ""
@@ -2160,14 +2542,17 @@ msgid ""
 "powerful undead lich. It will make you invisible, but it may also have other "
 "undesirable effects, some temporary, some permament!"
 msgstr ""
+"Πράγματι τό έχω, αλλά είναι πολύ επικίνδυνο: Είναι φτιαγμένο από τά μάτια "
+"ενός Ζωντανού-Νεκρού Λίτς. Θά σας κάνει αόρατους, αλλά μπορεί νά έχει καί "
+"παρενέργειες, μερικές προσωρινές, άλλες μόνιμες!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:262
 msgid "No! this is too dark and dangerous!"
-msgstr ""
+msgstr "Οχι, αυτό παραείναι σκοτεινό καί επικίνδυνο! "
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:267
 msgid "What undesirable effects?"
-msgstr ""
+msgstr "Τί παρενέργειες; "
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:272
 msgid ""
@@ -2177,6 +2562,12 @@ msgid ""
 "need to take a small dose and finish the job quickly. Delay and you will not "
 "only fail in your mission, but also get caught!"
 msgstr ""
+"Η φυσική σου δύναμη θά μειωθεί, αλλά σαν αντιστάθμισμα θα μπορείς να "
+"χρησιμοποιείς εύκολα μαγεία. Η Κλεοντίλ θά σου δείξει. Αλλά ο πραγματικός "
+"κίνδυνος θά είναι το κακό πού θα κυλάει στίς φλέβες σου. Θά πρέπει να τό "
+"πολεμήσεις καί να το νικήσεις. Γι' αυτό πρέπει να πάρεις μικρή δόση καί να "
+"τελειώσεις την αποστολή γρήγορα. Αν αργήσεις όχι μόνο θά αποτύχεις στήν "
+"αποστολή, αλλά καί θά σέ πιάσουν!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:277
 msgid ""
@@ -2185,14 +2576,18 @@ msgid ""
 "I cannot make anyone else come with me, since this will be too dangerous. "
 "Does anyone volunteer?"
 msgstr ""
+"Ούτε κι εμένα μου αρέσει, αλλά δέν βλέπω άλλο δρόμο: Πρέπει να σταματήσουμε "
+"τους όρκ. Συνεπώς, αφού είμαι ο αρχηγός, θά είμαι ο ένας από τους δύο πού θά "
+"πάμε να σκοτώσουμε τον βασιλιά. Αλλά δέν μπορώ να αναγκάσω κανέναν να έρθει "
+"μαζί μου, αφού θά είναι εξαιρετικά επικίνδυνο. Κανείς εθελοντής;"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:282
 msgid "I will come with you. We will not fail!"
-msgstr ""
+msgstr "Εγώ θά έρθω μαζί σου. Δέν θά αποτύχουμε!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:287
 msgid "This does not seem a wise choice."
-msgstr ""
+msgstr "Αυτό δέν φαίνεται σωστή απόφαση."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:292
 msgid ""
@@ -2200,56 +2595,66 @@ msgid ""
 "should be going now, I guess. Crelanu, your book will be safe with us. We "
 "will guard it until  someone worthy of it comes along."
 msgstr ""
+" Ο Λάνταρ μπορεί να είναι αυθάδης, αλλά είναι ένας σπουδαίος πολεμιστής καί "
+"έμπιστος φίλος. Πρέπει να φύγουμε τώρα, υποθέτω. Κρελάνου, το βιβλίο σου θά "
+"είναι ασφαλές μαζί μας. Θά τό φυλάξουμε μέχρι να εμφανιστεί κάποιος πού να "
+"τό αξίζει."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:297
 msgid ""
 "Come, I will give you and Landar a potion and show you a safe point to cross "
 "the river."
 msgstr ""
+"Ελάτε, θά δώσω σε σένα καί τόν Λάνταρ από ένα φίλτρο στόν καθένα καί θά σας "
+"δείξω ένα ασφαλές σημείο να περάσετε το ποτάμι."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:4
 msgid "River crossing"
-msgstr ""
+msgstr "Τό πέρασμα του ποταμού"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:20
 msgid "Kalenz  moved North to take the fight to Black Eye Karun..."
-msgstr ""
+msgstr "Ο Κάλεντς κινήθηκε βόρεια γιά να επιτεθεί στό Μαύρο Μάτι Καρούν..."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:128
 msgid ""
 "We need to cross the river. This is probably the best chance we'll get, but "
 "we will have to fight them."
 msgstr ""
+" Πρέπει να περάσουμε το ποτάμι. Αυτή είναι μάλλον η καλύτερη ευκαιρία πού θά "
+"έχουμε, αλλά θά πρέπει να τους πολεμήσουμε."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:133
 msgid "Elfs! They must not cross!"
-msgstr ""
+msgstr "Ξωτικά! Δέν πρέπει να περάσουν!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:159
 msgid "No!"
-msgstr ""
+msgstr "Όχι! "
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:174
 msgid "Now we can cross!"
-msgstr ""
+msgstr "Τώρα μπορούμε να περάσουμε!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:196
 msgid "At last, the orcs are in this land no more!"
-msgstr ""
+msgstr "Επιτέλους, οι όρκ δέν είναι πιά σ' αυτή τη γή!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:201
 msgid "Who is this? A speaking tree?"
-msgstr ""
+msgstr "Τί είναι αυτό; Ενα δέντρο πού μιλάει;"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:206
 msgid ""
 "Not a tree, I am Ur-Thorodor, protector of this place. I have not been able "
 "to prevent the orcs from desecrating this holy place."
 msgstr ""
+" Όχι δέντρο, είμαι ο Ούρ-Θόροντορ, προστάτης αυτού του μέρους. Δέν κατάφερα "
+"να εμποδίσω τους όρκ να βεβηλώσουν αυτό τό ιερό μέρος"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:211
 msgid "What is holy about this place?"
-msgstr ""
+msgstr "Τί το ιερό έχει αυτό τό μέρος;"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:216
 msgid ""
@@ -2260,63 +2665,85 @@ msgid ""
 "human this worthy. He risked his life and sent his troops back to make peace "
 "with me. His name was Delfador."
 msgstr ""
+"Είναι ένα μέρος πού ο κόσμος των πνευμάτων έρχεται κοντά στόν κόσμο αυτό. "
+"Λένε ότι αυτοί πού έχουν μαγικές δυνάμεις μπορούν να επικοινωνήσουν με τά "
+"πνεύματα των νεκρών. Πρόσφατα ένας μάγος άνθρωπος ό δοκίμασε. Δυστυχώς, "
+"ήρθαν οι όρκ και διατάραξαν την αυτοσυγκέντωσή του. Τώρα είναι παγιδευμένος "
+"στήν χώρα των νεκρών... Δέν έχω δεί ποτέ έναν τόσο άξιο άνθρωπο. Ρισκάρισε "
+"τη ζωή του καί έστειλε τό στρατό του πίσω γιά να κάνει ειρήνη μαζί μου. Τό "
+"όνομά του ήταν Ντέλφαντορ."
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:221
 msgid ""
 "We are only seeking to attack the orcs and put a stop to their attacks. We "
 "will neither stay, nor desecrate this place."
 msgstr ""
+" Θέλουμε μόνο να επιτεθούμε στούς όρκ καί να σταματήσουμε τις επιθέσεις "
+"τους. Ούτε θά μείνουμε, ούτε θα βεβηλώσουμε αυτό τό μέρος. "
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:226
 msgid ""
 "Then you will proceed north. But be careful, for the orcs have a large force "
 "and I also feel something is very wrong in the spirit world..."
 msgstr ""
+"Τότε πηγαίντε βόρεια. Αλλά να είστε προσεκτικοί, γιατί οι όρκ έχουν μιά "
+"μεγάλη δύναμη καί επίσης αισθάνομαι ότι κάτι είναι πολύ στραβό στόν κόσμο "
+"των πνευμάτων..."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:4
 msgid "The Saurian Treasury"
-msgstr ""
+msgstr "Τό θησαυροφυλάκιο των Σαυρανθρώπων."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:19
 msgid "You retrieve {AMOUNT} pieces of gold."
-msgstr ""
+msgstr "Ανακτάς {AMOUNT} χρυσά νομίσματα."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:35
 msgid ""
 "Elvish scouts quickly picked up the trails of the Saurian war party and soon "
 "Kalenz's force moved in ..."
 msgstr ""
+"Οι ανιχνευτές των ξωτικών βρήκαν τά ίχνη των Σαυράνθρωπων καί γρήγορα η "
+"δύναμη του Κάλεντς έφτασε γιά να επιτεθεί."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:123
 msgid "Enter the Saurian Treasury and leave with the gold"
-msgstr ""
+msgstr "Μπές στό θησαυροφυλάκιο των Σαυράνθρωπων καί βγές μέ τό χρυσάφι. "
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:183
 msgid ""
 "There they are. They have transferred our gold to their treasury. We must "
 "strike quickly and leave with the gold before they bring in reinforcements"
 msgstr ""
+"Εδώ είναι. Μετέφεραν τό χρυσάφι μας στό θησαυροφυλάκιό τους. Πρέπει να τους "
+"χτυπήσουμε γρήγορα καίνα φύγουμε με τό χρυσάφι, πρίν έρθουν ενισχύσεις."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:188
 msgid ""
 "The elves have followed us! We must hold the gold until reinforcements "
 "arrive."
 msgstr ""
+"Τά ξωτικά μας ακολούθησαν. Πρέπει να υπερασπιστούμε τό θησαυροφυλάκιο μέχρι "
+"να έρθουν ενισχύσεις."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:226
 msgid "More Saurians are coming, we are defeated..."
-msgstr ""
+msgstr "'Ερχονται κι άλλοι Σαυράνθρωποι, είμαστε χαμένοι..."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:256
 msgid ""
 "We got to the treasury. It was much easier than we thought...What's this?"
 msgstr ""
+"Φτάσαμε στό θησαυροφυλάκιο. 'Ηταν πολύ ευκολώτερο από ότι νομίζαμε... Τί "
+"είναι αυτό; "
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:276
 msgid ""
 "Stupid elves thought the treasury was unguarded! Guards, slay these "
 "intruders!"
 msgstr ""
+"Τά χαζά ξωτικά νόμιζαν ότι τό θησαυροφυλάκιό μας ήταν αφρούρητο. Φρουροί, "
+"σκοτώστε τούς εισβολείς."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:308
 msgid "We have recovered our gold. "
@@ -2327,12 +2754,17 @@ msgid ""
 "No, we have recovered much more than our gold. Seems like the Saurians had "
 "robbed much more than our gold!"
 msgstr ""
+"Όχι, πήραμε πολύ περισσότερο από τό κλεμμένο χρυσάφι μας. Φαίνεται ότι ο "
+"Σαυράνθρωποι είχαν ληστέψει κι άλλους γι' αυτό έιχαν πολύ περισσότερο από τό "
+"δικό μας χρυσό."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:319
 msgid ""
 "They took all our gold! Quickly, set up garrisons everywhere. I will give "
 "500 gold to whoever kills their leader. They must not escape."
 msgstr ""
+" Πήραν όλο μας τό χρυσάφι. Γρήγορα, βάλτε φρουρές παντού. Θά δώσω 500 χρυσά "
+"νομίσματα σέ όποιον σκοτώσει τόν αρχηγό τους. Δέν πρέπει να ξεφύγουν. "
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:325
 msgid ""
@@ -2340,96 +2772,109 @@ msgid ""
 "But by now all Saurians will be looking for us, so we will take a route to "
 "the north. "
 msgstr ""
+"Tάθελαν καί τ'απαθαν. Τώρα ας παίρνουμε όλο τό χρυσάφι καί γυρνάμε στό "
+"Γουέσμηρ. Στό εξής όλοι οι Σαυράνθρωποι θά μας ψάχνουν, γι' αυτό θά πάρουμε "
+"ένα δρόμο από βορρά."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:4
 msgid "Save the King"
-msgstr ""
+msgstr "Σώστε τόν Βασιλιά"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:20
 msgid ""
 "Following Delfador, the elves moved to unite with the Wesnoth forces and "
 "meet Black Eye Karun head-on..."
 msgstr ""
+" Ακολουθώντας τόν Ντέλφαντορ, τά ξωτικά κινήθηκαν γιά να ενωθούν μέ τις "
+"δυνάμεις του Γουέσνοθ καί να συγκρουστούν μέ τόν στρατό τού Μαύρου Ματιού "
+"Καρούν..."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:30
 msgid "but the King was in an unenviable position..."
-msgstr ""
+msgstr "αλλά ο βασιλιά ήταν σέ μιά άσχημη κατάσταση..."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:161
 msgid "Defeat Black Eye Karun"
-msgstr ""
+msgstr "Θάνατος του Μαύρου Ματιού Καρούν."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:173
-#, fuzzy
 msgid "Death of Delfador"
-msgstr "Οχι την Κλεοντίλ!"
+msgstr "Θάνατος του Ντέλφαντορ "
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:177
-#, fuzzy
 msgid "Death of Garard"
-msgstr "Οχι την Κλεοντίλ!"
+msgstr "Θάνατος του  Γκαράρντ"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:240
 msgid ""
 "It looks like we have arrived just in time! King Garard stands surrounded by "
 "the enemy."
 msgstr ""
+"Φαίνεται ότι φτάσαμε πάνω στήν ώρα! Ο βασιλιάς Γκαράρντ είναι περικυκλωμένος "
+"από τόν εχθρό!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:245
 msgid ""
 "It seems that we are too late. This new warlord has managed to unite the "
 "orcish tribes. Look at their army, it's huge!"
 msgstr ""
+"Φαίνεται ότι αργήσαμε πολύ. Ο νέος πολέμαρχος κατάφερε να ενώσει τις φυλές "
+"των όρκ. Κοιτάξτε τόν στρατό τους, είναι τεράστιος!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:250
 msgid ""
 "Elves! I heard you have been looking for me! But you will save neither the "
 "human King, nor yourselves."
 msgstr ""
+"Ξωτικά! 'Εμαθα ότι μέ ψάχνετε. Αλλά δέν θά σώσετε ούτε τόν βασιλιά των "
+"ανθρώπων, ούτε τόν εαυτό σας!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:255
 msgid ""
 "This must be their leader. We must destroy him now, before his power grows!"
 msgstr ""
+" Αυτός πρέπει νά είναι ο αρχηγός τους. Πρέπει νά τον καταστρέψουμε, πρίν "
+"αυξήσει την δύναμή του!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:267
 msgid "Invincible Black Eye Karun is dead? Quick, run for your lives!"
-msgstr ""
+msgstr "Πέθανε ο ανίκητος Μαύρο Μάτι Καρούν; Γρήγορα, τρέξτε να σωθείτε!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:272
 msgid "You will terrorize Wesnoth no more!"
-msgstr ""
+msgstr "Δέν θά τρομοκρατείς πιά τό Γουέσνοθ!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:324
 msgid "There goes Wesnoth's only hope!"
-msgstr ""
+msgstr "Πάει η μόνη ελπίδα του Γουέσνοθ!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:339
 msgid "The King has fallen! Now Wesnoth will fail!"
-msgstr ""
+msgstr "Ο βασιλιάς έπεσε! Τώρα καί τό Γουέσνοθ θά πέσει!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:350
-#, fuzzy
 msgid "Victory! "
-msgstr "Η νίκη είναι δική μας."
+msgstr "Νίκη! "
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:355
 msgid ""
 "Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
 "today!"
 msgstr ""
+" Ντέλφαντορ! Κι εσείς φίλοι, ξωτικά. Τό βασίλειο του Γουέσνοθ σας χρωστάει "
+"χάρη σήμερα."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:361
 msgid "My King, this is Kalenz, Lord of the Elves."
-msgstr ""
+msgstr "Βασιλιά μου, από δώ ο Κάλεντς, 'Αρχοντας των ξωτικών."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:367
 msgid "You will be forever welcome in the court of Wesnoth."
-msgstr ""
+msgstr "Θά είστε πάντα ευπρόσδεκτοι στήν αυλή του Γουέσνοθ."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:372
 msgid "We are happy to have fought by your side."
-msgstr ""
+msgstr "Χαρά μας πού πολεμήσαμε στό πλευρό σας."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:377
 msgid ""
@@ -2438,6 +2883,10 @@ msgid ""
 "to the land of the dead. This must be closed at all costs  and I am afraid "
 "my skills are insufficient for that task."
 msgstr ""
+"Βασιλιά Γκαράρντ, έχουμε πιό επείγοντα θέματα. Ο Λέολλυν μέ έστειλε σε "
+"αποστολή νά μάθω γιατί οι νεκροί είναι ανήσυχοι. ένας ελεεινός νεκρομάντης "
+"άνοιξε μιά Πύλη γιά τήν χώρα των νεκρών. Πρέπει νά την κλείσουμε πάσει θυσία "
+"καί φοβάμαι ότι οι ικανότητές μου δέν είναι αρκετές γι' αυτή την δουλειά."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:382
 msgid ""
@@ -2445,6 +2894,9 @@ msgid ""
 "the book. I believe the book will help him close that portal and eliminate "
 "the undead menace."
 msgstr ""
+" Κάλεντς, αισθάνομαι ότι ο Ντέλφαντορ είναι ο εκλεκτός. Αυτός πού μπορούμε "
+"να εμπιστευτούμε μέ τό βιβλίο. Πιστέυω ότι τό βιβλίο θά τόν βοηθήσει νά "
+"κλείσει τήν Πύλη καί να εξουδετερώσει τήν απειλή των Ζωντανών"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:388
 msgid ""
@@ -2452,12 +2904,18 @@ msgid ""
 "the book is cursed. It may bring lots of suffering to his holder and his "
 "people..."
 msgstr ""
+" Συμφωνώ. Ποτέ στή ζωή μου δέν ξανασυνάντησα άνθρωπο με τόσες αρετές. Αλλά "
+"φοβάμαι ότι τό βιβλίο είναι καταραμένο. Μπορεί νά φέρει πολλές συμφορές στόν "
+"ιδιοκτήτη του καί τό λαό του...."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:393
 msgid ""
 "Yes, that may be. But I feel if anyone can be trusted with the book, it's "
 "him. It should be his decision if he accepts it or not."
 msgstr ""
+"'Ισως. Αλλά αισθάνομαι ότι αν μπορούμε να εμπιστευτούμε τό βιβλίο σέ "
+"κάποιον, αυτός είναι ο Ντέλφαντορ. Πρέπει νά είναι δική του επιλογή άν θά το "
+"αποδεχτεί ή όχι."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:400
 msgid ""
@@ -2466,6 +2924,11 @@ msgid ""
 "entrusted his book of magic to Cleodil. It contains a lot of knowledge, "
 "knowledge that it took Crelanu all his life to gather."
 msgstr ""
+"Ντέλφαντορ, τά όπλα μας είναι αδύναμα απέναντι στούς Ζωντανούς-Νεκρούς αλλά "
+"ίσως πάρ'ολα αυτά μπορούμε να βοηθήσουμε. Τά δάση των ξωτικών έχουν δεί "
+"πολλά φθινόπωρα από τότε πού ο Κρελάνου εμπιστεύτηκε τό βιβλίο της μαγείας "
+"του στήν Κλεοντίλ. Περιέχει πολλή γνώση, γνώση πού ο Κρελάνου χρειάστηκε όλη "
+"του τη ζωή νά μαζέψει."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:405
 msgid ""
@@ -2473,12 +2936,18 @@ msgid ""
 "believe you are that one, Delfador. The book may help you find a way to "
 "close that portal."
 msgstr ""
+"Ο Κρελάνου εμπιστεύτηκε τό βιβλίο στήν Κλεοντίλ νά τό φυλάξει μέχρι νά "
+"εμφανιστεί κάποιος πού νά τό αξίζει. Πιστεύουμε ότι εσύ είσαι αυτός, "
+"Ντέλφαντορ. Τό βιβλίο μπορεί νά σε βοηθήσει να βρείς τρόπο νά κλείσεις τήν "
+"Πύλη."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:411
 msgid ""
 "Friends, your words flatter me. I am not sure I am worthy of such a valuable "
 "possesion."
 msgstr ""
+" Φίλοι, τά λόγια σας μέ κολακεύουν. Δέν είμαι σίγουρος άν αξίζω ένα "
+"αντικείμενο τέτοιας αξίας"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:416
 msgid ""
@@ -2486,12 +2955,17 @@ msgid ""
 "book. Crelanu's advice brought a lot of destruction upon us, even though at "
 "the time we had no other choice..."
 msgstr ""
+"Γι' αυτό είμαστε σίγουροι. Αλλά έχε υπόψη σου ότι υπάρχει τό βιβλίο είναι "
+"καταραμένο. Οι συμβουλές του Κρελάνου μας έφεραν μεγάλες καταστροφές, παρόλο "
+"πού εκείνη την εποχή δέν είχαμε άλλη επιλογή."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:421
 msgid ""
 "I do not know if there is a curse to the book or not. All I know is that we "
 "must close that portal soon, or else we are all doomed."
 msgstr ""
+"Δέν ξέρω αν τό βιβλίο είναι καταραμένο ή όχι. Τό μόνο πού ξέρω είναι ότι "
+"πρέπει νά κλείσουμε τήν Πύλη σύντομα, αλλιώς είμαστε όλοι χαμένοι."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:427
 msgid ""
@@ -2499,18 +2973,26 @@ msgid ""
 "without the book's help, it will be an honor to fight by your side, no "
 "matter what the outcome."
 msgstr ""
+"Αυτή είναι δική σου απόφαση. Αν αποφασίσεις να πολεμήσεις τους Ζωντανούς-"
+"Νεκρούς χωρίς τη βοήθεια του βιβλίου, θά είναι τιμή νά πολεμήσουμε στό πλάι "
+"σου, όποιο κι άν είναι τό αποτέλεσμα."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:433
 msgid ""
 "The way you put it I have no choice but to accept the book, for I cannot "
 "bring sure death to many humans and elves for fear of the book..."
 msgstr ""
+"Όπως τό θέτεις δέν έχω επιλογή, γιατί δέν μπορώ νά φέρω τόν θάνατο σέ "
+"πολλούς ακόμα ανθρώπους καί ξωτικά από φόβο του βιβλίου."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:439
 msgid ""
 "Here it is, Delfador. May it help you bring a swift end to the undead menace "
 "and may its aquisiton lead you to happier times than it lead us..."
 msgstr ""
+"Πάρτο, Ντέλφαντορ. Μακάρι να σέ βοηθήσει νά δώσεις ένα γρήγορο τέλος στήν "
+"απειλή των Ζωντανών-Νεκρών καί μακάρι η κατοχή του νά σού φέρει ευτυχέστερες "
+"μέρες από αυτές πού έφερε σέ μας."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:446
 msgid ""
@@ -2518,6 +3000,10 @@ msgid ""
 "I need to study the book and prepare for the battle with the undead. Then, I "
 "will talk the King into shielding the sceptre properly."
 msgstr ""
+"Ευχαριστώ φίλοι. Μακάρι νά ξανασυναντηθούμε σέ πιό χαρούμενους καιρούς. Τώρα "
+"πρέπει νά βιαστώ, γιατί πρέπει να διαβάσω τό βιβλίο γιά να προετοιμαστώ γιά "
+"τήν μάχη μέ τους Ζωντανούς-Νεκρούς. Μετά, θά πείσω τόν βασιλιά να φτιάξει "
+"μιά σωστή επένδυση γιά τό σκήπτρο."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:4
 msgid "Shadows in the dark"
@@ -2528,15 +3014,20 @@ msgid ""
 "Following Ur-Thorodor's directions the elfs moved north to meet the forces "
 "of the orcs..."
 msgstr ""
+"Ακολουθώντας τις οδηγίες του Ούρ-Θόροντορ, τά ξωτικά προχώρησαν βόρεια γιά "
+"νά συνατήσουν τις δυνάμεις τού Μαύρου Ματιού Καρούν... "
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:157
 msgid ""
 "This forest looks too quiet. Proceed carefully, I don't like this at all."
 msgstr ""
+"Αυτό τό δάσος παραείναι ήσυχο. Προχωρήστε προσεκτικά, δέν μου αρέσει καθόλου "
+"αυτό..."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:165
 msgid "Living... Soon, you'll be more troops for my master!"
 msgstr ""
+" Ζωντανοί....Σύντομα θά είστε κι' 'αλλα στρατεύματα γιά τόν αφέντη μου! "
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:170
 msgid "Undead! Where did they come from?"
@@ -2545,31 +3036,35 @@ msgstr "Ζωντανοί Νεκροί! Από πού ήρθαν;"
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:175
 msgid "We should try to go West. I feel things are worse on the Eastern front."
 msgstr ""
+"Πρέπει νά πάμε δυτικά. Νομίζω ότι τά πράγματα είμαι χειρότερα στό ανατολικό "
+"μέτωπο."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:225
 msgid "We have more help!"
-msgstr ""
+msgstr "Έχουμε βοήθεια!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:277
 msgid "And now even more help!"
-msgstr ""
+msgstr "Καί τώρα ακόμα περισσότερη βοήθεια!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:372
 msgid ""
 "I am Delfador the great! Foul creatures, time to  be put to your final rest!"
 msgstr ""
+"Είμαι ο μέγας Ντέλφαντορ! Ελεεινά πλάσματα, ήρθε η ώρα να ησυχάσετε γιά "
+"πάντα! "
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:377
 msgid "We have help now! Let's take the fight to them!"
-msgstr ""
+msgstr "'Εχουμε βοήθεια τώρα! Απάνω τους!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:405
 msgid "We are lost without the great mage!"
-msgstr ""
+msgstr "Είμαστε χαμένοι χωρίς τόν μεγάλο μάγο!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:417
 msgid "More undead are coming! All is lost!"
-msgstr "Όλα χάθηκαν!"
+msgstr "Ερχονται κι άλλοιΖωντανοί Νεκροί! Όλα χάθηκαν!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:441
 msgid ""
@@ -2577,18 +3072,25 @@ msgid ""
 "dead or trapped in the Land of the Dead...I am Kalenz, lord of the elfs. We "
 "are in your debt today. "
 msgstr ""
+"'Ωστε εσύ είσαι ο Ντέλφαντορ... Ο Ούρ-Θόροντορ μας μίλησε γιά σένα. Αλλά "
+"νομίζαμε ότι είχες παγιδευτεί στή χώρα τών Νεκρών. Είμαι ο Κάλεντς, άρχοντας "
+"τών ξωτικών. Σου χρωστάμε χάρη σήμερα. "
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:446
 msgid ""
 "It is an honor to meet you. I escaped from  the Land of the Dead. I am "
 "chasing Iliah-Malal, the leader of the undead. "
 msgstr ""
+"Τιμή μου πού σέ γνωρίζω. Δραπέτευσα από τη χώρα των Νεκρών. Κυνηγώ τόν Ιλάια-"
+"Μαλάλ, αρχηγό των Ζωντανών-Νεκρών."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:451
 msgid ""
 "We were going to attack the orcs. Looks like we are not doing too well "
 "against the undead."
 msgstr ""
+"Πηγαίναμε νά επιτεθούμε στούς όρκ. Φαίνεται ότι δέν τά καταφέρνουμε πολύ "
+"καλά εναντίων τών Ζωντανών-Νεκρών."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:456
 msgid ""
@@ -2596,6 +3098,10 @@ msgid ""
 "all the help he can get. We will need your help to fend them off. I will "
 "deal with the undead later."
 msgstr ""
+"Οι όρκ φαίνεται ότι πέρασαν τό μεγάλο ποτάμι μέ πολλές δυνάμεις. Ο βασιλιάς "
+"μας θά χρειαστεί ότι βοήθεια μπορεί νά βρεί. Θά χρειαστούμε τη βοήθειά σας "
+"γιά να τους απωθήσουμε. Θά ασχοληθώ προσωπικά μέ τους Ζωντανούς-Νεκρούς "
+"αργότερα. ."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:462
 msgid ""
@@ -2604,16 +3110,23 @@ msgid ""
 "it was shielded with  ultrapure gold, they still remain arrogant. But we are "
 "indebted to you, Delfador and we will join you."
 msgstr ""
+"Η εμπειρία μας μέ τους βασιλιάδες των ανθρώπων δέν ήταν ιδιαίτερα θετική. "
+"Στήν αρχή νομίζαμε ότι έφταιγε αυτό τό ρουμπίνι της φωτιάς, αλλά ακόμα καί "
+"όταν τό είπαμε στόν Χάλντριτς Β' καί τό  έβαλε σέ ένα περίβλημα από καθαρό "
+"χρυσάφι γιά νά προστατευτεί από την ακτινοβολία του, παραμένουν αλλαζόνες. "
+"Αλλά σού χρωστάμε χάρη, Ντέλφαντορ καί θά έρθουμε μαζί σου."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:467
 msgid ""
 "What? The gold in sceptre is not at all pure! I must advise the King. But "
 "first we need to save him, so let's go."
 msgstr ""
+"Τί; Τό χρυσάφι στό σκήπτρο δέν είναι καθόλου καθαρό! Πρέπει να ειδοποιήσω "
+"τόν βασιλιά. Αλλά πρώτα πρέπει να τον σώσουμε, οπότε πάμε!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:7
 msgid "The King must die"
-msgstr ""
+msgstr "Ο βασιλιάς πρέπει νά πεθάνει"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:34
 msgid ""
@@ -2621,80 +3134,97 @@ msgid ""
 "out Crelanu's most dangerous plan. Meanwhile Cleodil has been training "
 "Kalenz into some of the secrets of Crelanu's book ..."
 msgstr ""
+"Μέ τό τέλος της μάχης της Γουέσλαθ ο Κάλεντς καί ο Λάνταρ ήξεραν ότι έπρεπε "
+"νά εκτελέσουν τό εξαιρετικά επικίνδυνο σχέδιο του Κρελάνου. Στό μεταξύ η "
+"Κλεοντίλ είχε αρχίσει νά εκπαιδεύει τόν Κάλεντς σέ ορισμένα από τά μυστικά "
+"του βιβλίου τού Κρελάνου...."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:237
 msgid ""
 "Kill the Orcish King and Kalenz reaches the forest near his starting position"
 msgstr ""
+"Θάνατος του βασιλιά τών όρκ καί επιστροφή του Κάλεντς στό δάσος κοντά στήν "
+"αρχική του θέση."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:523
 msgid ""
 "Here we are at last. Landar, are you sure you want to go through with this?"
-msgstr ""
+msgstr "Επιτέλους φτάσαμε. Λάνταρ είσαι σίγουρος ότι θές να τό κάνεις αυτό;"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:528
 msgid "Absolutely. Let's do it!"
-msgstr ""
+msgstr "Οπωσδήποτε! Ας τό κάνουμε!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:533
 msgid ""
 "We need to kill the king and get out before the effect of the potion runs "
 "out. Let's drink our potions then!"
 msgstr ""
+"Πρέπει νά σκοτώσουμε τόν βασιλιά τους καί να εξαφανιστούμε πρίν τά "
+"αποτελέσματα τού φίλτρου περάσουν! Ας πιούμε λοιπόν τά φίλτρα μας!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:592
 msgid ""
 "This feels strange! Landar, remember to stay far from the wolves-they may be "
 "able to smell us."
 msgstr ""
+"Νοιώθω περίεργα! Λάνταρ θυμήσου νά μείνεις μακριά από τούς λύκους-ίσως "
+"μπορούν νά μας μυρίσουν!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:603
 msgid "It's all over"
-msgstr ""
+msgstr "'Ολα τέλειωσαν!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:617
 msgid "No! We have failed!"
-msgstr ""
+msgstr "Όχι! Αποτύχαμε!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:632
 msgid ""
 "The orcish king is dead! Now let's make it look like he was slain by an "
 "orcish hand!"
 msgstr ""
+"Ο βασιλιάς τώ όρκ είναι νεκρός! Τώρα ας τό κάνουμε νά φαίνεται πώς σκοτώθηκε "
+"από χέρι όρκ!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:647
 msgid "We are too late, the potion effects have worn off and we are visible! "
 msgstr ""
+"Αργήσαμε υπερβολικά, τά αποτελέσματα του φίλτρου εξαφανίστηκαν καί δέν "
+"είμαστε πιά αόρατοι! "
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:667
 msgid "Done!"
-msgstr ""
+msgstr "Αποστολή εξετελέσθη!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:689
 msgid ""
 "The King has been murdered! Whoever did it will only get da throne over my "
 "dead stinking body!"
 msgstr ""
+"Ο βασιλιάς δολοφονήθηκε! Όποιος καί αν τό έκανε θά πάρει τό θρόνο μόνο πάνω "
+"από τό πτώμα μου!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:694
 msgid "I am the strongest warlord! I will be king!"
-msgstr ""
+msgstr "Είμαι ο ισχυρότερος πολέμαρχος! Εγώ θά γίνω βασιλιάς!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:699
 msgid "No way anyone will steal my throne!"
-msgstr ""
+msgstr "Κανείς δέν θά κλέψει τό θρόνο μου!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:704
 msgid "This is my time and no one will be in my way!"
 msgstr ""
+"Αυτή είναι η δική μου ώρα καί κανείς δέν θά σταθεί εμπόδιο στό δρόμο μου!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:709
 msgid "The plan is working! Now we take back what's ours!"
-msgstr ""
+msgstr "Τό σχέδιο δουλεύει. Τώρα θά πάρουμε πίσω ότι μας ανήκει!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:4
 msgid "The return of trouble"
-msgstr ""
+msgstr "Η επιστροφή τών μπελάδων"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:20
 msgid ""
@@ -2705,26 +3235,39 @@ msgid ""
 "attacking the outskirts of elvish forests. Kalenz gathered quickly a small "
 "force. War had returned to the land of the elves."
 msgstr ""
+"Η περίοδος της ειρήνης ήταν μιά ευτυχισμένη εποχή γιά τό Γουέσνοθ. Ξωτικά "
+"καί άνθρωποι κατάφεραν νά ανοικοδομήσουν τις χώρες τους καί να "
+"αναδιοργανωθούν. Ο ίδιος ο Κάλεντς μπόρεσε νά επικεντωθεί στό πρόβλημά του. "
+"Τελικά κατάφερε να επιβληθεί στά αποτελέσματα του μαγικού φίλτρου του "
+"Κρελάνου. Αλλά τότε ένα βράδυ ήρθαν αναφορές ότι μιά μεγάλη δύναμη των όρκ "
+"είχε επιτεθεί στά όρια των δασών τών ξωτικών. Ο Κάλεντς γρήγορα μάζεψε μιά "
+"μικρή δύναμη. Ο πόλεμος είχε ξαναγυρίσει στή γή των ξωτικών."
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:218
 msgid ""
 "Kill these filthy elves! All warlords will then accept our leader, Black eye "
 "Karun as king and he will reward you all!"
 msgstr ""
+"Σκοτώστε τά βρωμερά ξωτικά. 'Ολοι οι πολέμαρχοι τότε θά δεχτούν τόν αρχηγό "
+"μας, Μαυρο Μάτι Καρούν σάν βασιλιά καί θά σας ανταμείψει όλους!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:223
 msgid "This is what we have been training for! Now we drive these beasts back!"
 msgstr ""
+"Γι' αυτό τό σκοπό έχουμε εκπαιδευτεί! Τώρα θά κάνουμε αυτά τά κτήνη νά "
+"υποχωρήσουν!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:259
 msgid "The orcs are retreating! "
-msgstr ""
+msgstr "Οι όρκ υποχωρούν!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:284
 msgid ""
 "We have just received word that a large orcish force has attacked  in Lake "
 "Glirfindol. Galtrid is already on his way there."
 msgstr ""
+"Μόλις πληροφορηθήκαμε ότι μιά μεγάλη δύναμη των όρκ επιτέθηκε στήν Λίμνη "
+"Γκλιρφίντολ. Ο Γκάλτριντ έχει ήδη ξεκινήσει γιά εκεί."
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:290
 msgid ""
@@ -2732,16 +3275,21 @@ msgid ""
 "If he is successful in Lake Glirfindol, I fear he will be able to unite the "
 "orcs. There is no time to waste."
 msgstr ""
+"Φαίνεται ότι κάποιος πολέμαρχος των όρκ αρχίζει νά γίνεται πολύ ισχυρότερος "
+"από όλους τους άλλους. Αν πετύχει στή Λίμνη Γκλιρφίντολ, φοβάμαι ότι θά "
+"καταφέρει νά ενώσει τους όρκ. Δέν υπάρχει χρόνος γιά χάσιμο. "
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:3
 msgid "The Treaty"
-msgstr ""
+msgstr "Η Συνθήκη"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:61
 msgid ""
 "Friends, today we have won a great victory at the expense of many good men. "
 "Let this be the beginning of a new alliance between our people."
 msgstr ""
+"Φίλοι σήμερα είχαμε μιά μεγάλη νίκη μέ κόστος πολλών καλών αντρών. Ας είναι "
+"αυτό τό ξελινημα μιάς νέας συμμαχίας μεταξύ των λαών μας."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:66
 msgid ""
@@ -2749,16 +3297,21 @@ msgid ""
 "dangerous adversaries. We plan to put an end to this threat and we will need "
 "your help."
 msgstr ""
+"Βασιλιά Χάλντριτς Β', με χαροποιεί ιδιαίτερα πού ακούω αυτά τά λόγια. "
+"Αντιμετωπίζουμε πολύ επικίνδυνους αντιπάλους. Σκοπεύουμε νά δώσουμε ένα "
+"τέλος σ' αυτή την απειλή καί θά χρειαστούμε τή βοήθειά σας. "
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:71
 msgid ""
 "What? We cannot trust these humans! Where were they when we were fighting "
 "the orcs alone? He will betray us like his father did!"
 msgstr ""
+"Τί; Δέν μπορούμε νά εμπιστευτούμε τούς ανθρώπους! Πού ήταν όταν πολεμούσαμε "
+"μόνοι μας τούς όρκ; Θά μας προδώσει σάν τόν πατέρα του! "
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:76
 msgid "Silence! How dare you talk this way to the King!"
-msgstr ""
+msgstr "Σιωπή! Πώς τολμάς να μιλάς έτσι στόν βασιλιά; "
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:81
 msgid ""
@@ -2768,21 +3321,29 @@ msgid ""
 "is my intention to renew our ancient alliance by signing a new treaty here, "
 "with you."
 msgstr ""
+"Ήρεμα 'Αλνταρ! 'Εχει δίκιο. Ο πατέρας μου δέν βοήθησε όταν σας επιτέθηκαν οι "
+"όρκ. Αλλά ο πατέρας μου έχει πεθάνει. Υπάρχουν πολλά πού έκανε ο πατέρας μου "
+"καί δέν καταλαβαίνω. Αλλά εγώ είμαι τώρα ο Βασιλιάς του Γουέσνοθ, όχι ο "
+"πατέρας μου! Καί σκοπός μου είναι νά ανανεώσω την παλιά μας συμμαχία "
+"υπογράφοντας μιά νέα συνθήκη εδώ, μαζί σας!"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:86
 msgid ""
 "The King is right. We cannot undo the past. But we need each other to fight "
 "the orcs. We will sign the treaty."
 msgstr ""
+"Ο βασιλιάς έχει δίκιο. Δέν μπορούμε νά ανακαλέσουμε τό παρελθόν. Αλλά "
+"χρειαζόμαστε ο ένας τόν άλλον γιά να αντιμετωπίσουμε τούς όρκ. Θά "
+"υπογράψουμε τη συνθήκη."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:91
 msgid ""
 "Your father had a certain stone, the ruby of fire. Do you still have it?"
-msgstr ""
+msgstr "Ο πατέρας σας είχε έναν λίθο, τό ρουμπίνι της φωτιάς. Τό έχετε ακόμα; "
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:97
 msgid "How do you know about the ruby of fire?"
-msgstr ""
+msgstr "Πώς ξέρετε γιά του ρουμπίνι της φωτιάς;"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:102
 msgid ""
@@ -2790,11 +3351,15 @@ msgid ""
 "shield its radiation by placing it in a pure gold  encasement. Maybe this is "
 "the reason for your father's strange behavior."
 msgstr ""
+"Μάθαμε ότι έχει περίεργα αποτελέσματα στόν ιδιοκτήτη του. Πρέπει να "
+"προστατευτείτε από την ακτινοβολία του βάζοντάς στό σέ ένα περίβλημα από "
+"καθαρό χρυσάφι. Ισως αυτός νά είναι ο λόγος γιά την περίεργη συμπεριφορά του "
+"πατέρα σας. "
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:107
 msgid ""
 "Yes, this would explain many things...I will take care of it, thank you."
-msgstr ""
+msgstr "Ναί, αυτό θά εξηγούσε πολλά.... Θά τό φροντίσω, ευχαριστώ."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:112
 msgid ""
@@ -2802,12 +3367,17 @@ msgid ""
 "fight to the orcs before winter falls and we need you to create a diversion. "
 "Can we count on you?"
 msgstr ""
+"Τώρα πού υπογράψαμε τη συνθήκη, χρειαζόμαστε τη βοήθειά σας. Θά επιτεθούμε "
+"στούς όρκ πρίν πέσει ο χειμώνας καί χρειαζόμαστε τη βοήθειά σας γιά έναν "
+"αντιπερισπασμό..Μπορούμε να βασιστούμε σέ σένα;."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:117
 msgid ""
 "Well, I am not sure... My late father did not pay too much attention to army "
 "matters and we have already lost too many men..."
 msgstr ""
+"Δέν είμαι σίγουρος. Ο πατέρας μου τόν τελευταίο καιρό δέν έδινε μεγάλη "
+"σημασία στό στρατό καί ήδη έχουμε χάσει πάρα πολλούς άντρες... "
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:122
 msgid "I knew it! I always told you we stand alone!"
@@ -2831,6 +3401,10 @@ msgid ""
 "Although not of noble heritage, he was already respected for his skills.. "
 "These were the times humans came to Wesnoth in large numbers..."
 msgstr ""
+" Τά πράγματα ήταν ειρηνικά καί ο Κάλεντς εξελισσόταν σέ ένα νεαρό ξωτικό με "
+"πολλές ικανότητες. Παρόλο πού δέν είχε ευγενική καταγωγή, είχε ήδη τόν "
+"γενικό σεβασμό γιά τις ικανότητές του... Αυτή ήταν η εποχή πού οι άνθρωποι "
+"ήρθαν μαζικά στό Γουέσνοθ...."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:34
 msgid ""
@@ -2839,32 +3413,42 @@ msgid ""
 "The local leadership was old and weak... This is the story of Kalenz. It is "
 "also the story of the Elves in the days of the humans in Wesnoth.     "
 msgstr ""
+"Δυστυχώς, μαζί μέ τους ανθρώπους ήρθαν καί οι όρκ. Τά ξωτικά ποτέ δέν "
+"χαίρονταν τόν πόλεμο καί ήταν εντελώς απροετοίμαστα γιά τό τί θά "
+"επακολουθούσε. Η τοπική ηγεσία ήταν γερασμένη καί αδύναμη... Αυτή είναι η "
+"ιστορία του Κάλεντς. Είναι επίσης η ιστορία των ξωτικών στίς μέρες των "
+"ανθρώπων στό Γουέσνοθ...."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:246
 msgid "Look, there are many Orcs coming from all directions! To arms!"
-msgstr ""
+msgstr "Κοιτάχτε, έρχονται πολ΄λοί όρκ από όλες τις διευθύνσεις. Στά όπλα!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:251
 msgid ""
 "Hold it Kalenz. The council should discuss the matter. Maybe we can reach an "
 "agreement with them!"
-msgstr "Ηρεμα Κάλεντς"
+msgstr ""
+"Ηρεμα Κάλεντς Τό συμβούλιο θά συζητήσει τό θέμα. Ισως μπορέσουμε νά έρθουμε "
+"σέ κάποια συννενόηση μαζί τους."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:256
 msgid "Surrender or die, filthy elves!"
-msgstr ""
+msgstr "Παραδοθείτε η πεθάνετε, βρωμερά ξωτικά!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:261
 msgid "They are too many. I am afraid we have no choice but to surrender!"
 msgstr ""
+"Είναι πάρα πολλοί. Φοβάμαι ότι δέν έχουμε άλλη επιλογή από τό νά παραδοθούμε!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:266
 msgid "Elves will never surrender to these foul beasts! Who's with me?"
 msgstr ""
+"Τά ξωτικά δέν θά παραδοθούν ποτέ σ'αυτά τά ελεεινά κτήνη! Ποιός είναι μαζί "
+"μου; "
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:284
 msgid "We will follow you-but where do we go? We are surrounded!"
-msgstr ""
+msgstr "Θά σέ ακολουθήσουμε αλλά πού νά πάμε; Είμαστε περικυκλωμένοι!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:290
 msgid ""
@@ -2872,6 +3456,10 @@ msgid ""
 "our home. We need to go southwest to reunite with our brothers. Let's storm "
 "their southern outpost before more of them arrive!"
 msgstr ""
+"Πρέπει νά φτάσουμε στό Συμβούλιο τών ξωτικών στό Κάλιαν καί να τους "
+"ζητήσουμε βοήθεια γιά να απελευθερώσουμε την πατρίδα μας. Πρέπει νά πάμε "
+"νοτιοδυτικά γιά νά ενωθούμε με τα αδέρφια μας. Να επιτεθούμε γρήγορα στήν "
+"νότια βάση τους πρίν έλθουν κι άλλοι"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:306
 msgid "Ok Kalenz, you lead us!"
@@ -2879,7 +3467,7 @@ msgstr "Εντάξει Κάλεντς,οδήγησέ μας!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:344
 msgid "Oh, no! More of them are pouring in, we are too late..."
-msgstr ""
+msgstr "Οχι, αργήσαμε πολύ καί έρχονται πάρα πολλοί από αυτούς..."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:357
 msgid "You messed with the wrong elf!"
@@ -2902,6 +3490,8 @@ msgid ""
 "Kalenz was right and I was wrong. Let a few of us hold them for a while "
 "while the rest go join Kalenz while you still can!"
 msgstr ""
+"Ο Κάλεντς είχε δίκιο κι εγώ άδικο. Μερικοί από μας ας τούς κρατήσουμε, όσο "
+"οι υπόλοιποι πάτε νά ενωθείτε μέ τόν Κάλεντς όσο ακόμα μπορείτε!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:419
 msgid "We must leave now, but we will not forget. We will return!"
@@ -2913,11 +3503,11 @@ msgstr "Δέν θά πάτε μακριά. Κυνηγήστε τους!"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:21
 msgid "staff"
-msgstr ""
+msgstr "ραβδί"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:22
 msgid "impact"
-msgstr ""
+msgstr "κρούση"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:38
 msgid "fire breath"
@@ -2927,25 +3517,25 @@ msgstr "Ανάσα φωτιάς"
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:38
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:44
 msgid "fire"
-msgstr ""
+msgstr "φωτιά"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:65
 msgid "ice shot"
-msgstr ""
+msgstr "βολή πάγου"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:66
 msgid "cold"
-msgstr ""
+msgstr "κρύο"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:70
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:39
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:45
 msgid "magical"
-msgstr ""
+msgstr "μαγική"
 
 #: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:4
 msgid "Elvish Archer Invisible"
-msgstr ""
+msgstr "Αόρατο ξωτικό-τοξότης "
 
 #: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:20
 msgid ""
@@ -2954,6 +3544,11 @@ msgid ""
 "make up a large portion of the Elvish military. Invisible units are "
 "especially hard to hit."
 msgstr ""
+"Οι τοξότες των ξωτικών εκπαιδεύονται από μικρό στήν τοξοβολία καί έτσι είναι "
+"ιδιαίτερα ικανοί σέ μάχη από απόσταση. Ικανοί να εξαπολύουν πολλά βέλη "
+"γρήγορα καί μέ ακρίβεια, αυτοί οι τοξότες αποτελούν ένα μεγάλο τμήμα του "
+"στρατού των ξωτικών. Οι αόρατες μονάδες έχουν μιά εξαιρετικά μειωμένη "
+"πιθανότητα να χτυπηθούν."
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:22
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:101
@@ -2971,7 +3566,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:99
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:22
 msgid "sword"
-msgstr ""
+msgstr "σπαθί"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:23
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:102
@@ -2989,7 +3584,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:100
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:23
 msgid "blade"
-msgstr ""
+msgstr "κοφτερό αντικείμενο"
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:53
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:40
@@ -3001,7 +3596,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:39
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:116
 msgid "bow"
-msgstr ""
+msgstr "τόξο"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:40
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:119
@@ -3029,6 +3624,10 @@ msgid ""
 "range combat. Able to fire many arrows quickly and accurately, these Archers "
 "make up a large portion of the Elvish military."
 msgstr ""
+" Οι τοξότες των ξωτικών εκπαιδεύονται από μικρό στήν τοξοβολία καί έτσι "
+"είναι ιδιαίτερα ικανοί σέ μάχη από απόσταση. Ικανοί να εξαπολύουν πολλά βέλη "
+"γρήγορα καί μέ ακρίβεια, αυτοί οι τοξότες αποτελούν ένα μεγάλο τμήμα του "
+"στρατού των ξωτικών."
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
@@ -3049,6 +3648,11 @@ msgid ""
 "seen in the woods until just after they have attacked. Invisible units have "
 "a vastly reduced probability of being hit."
 msgstr ""
+" Τά ξωτικά-εκδικητές είναι εξαιρετικά ικανοί καί εξαιρετικά γρήγοροι καί "
+"ισχυροί σέ κάθε μορφή μάχης. Οι εκδικητές θεωρούνατι οι καλύτεροι στά δάση "
+"καί μπορούν να στήσουν ενέδρα στό δάσος, γιατί δέν φαίνονται μέχρι αφού "
+"έχουν επιτεθεί. Οι αόρατες μονάδες έχουν μιά εξαιρετικά μειωμένη πιθανότητα "
+"να χτυπηθούν."
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:77
 msgid "female^Elvish Avenger Invisible"
@@ -3061,14 +3665,18 @@ msgid ""
 "Wesnoth, and can ambush their foes in the forest, because they cannot be "
 "seen in the woods until just after they have attacked."
 msgstr ""
+" Τά ξωτικά-εκδικητές είναι εξαιρετικά ικανοί καί εξαιρετικά γρήγοροι καί "
+"ισχυροί σέ κάθε μορφή μάχης. Οι εκδικητές θεωρούνατι οι καλύτεροι στά δάση "
+"καί μπορούν να στήσουν ενέδρα στό δάσος, γιατί δέν φαίνονται μέχρι αφού "
+"έχουν επιτεθεί."
 
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:17
 msgid "leadership"
-msgstr ""
+msgstr "ηγεσία"
 
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:4
 msgid "Elvish High Lord Invisible"
-msgstr ""
+msgstr "Αόρατος Μέγας Αρχοντας των Ξωτικών"
 
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:19
 msgid ""
@@ -3076,15 +3684,18 @@ msgid ""
 "devastating balls of fire at long range. Invisible units are especially hard "
 "to hit."
 msgstr ""
+" Οι μεγάλοι Αρχοντες των ξωτικών είναι φοβεροί στήν μάχη, χρησιμοποιώντας τό "
+"σπαθί σε μάχη σώμα μέ σώμα και καταστροφικές μπάλλες φωτιάς από μακριά. "
+"Όντας αόρατοι γιά τόν εχθρό, είναι πολύ δύσκολο να χτυπηθούν."
 
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:37
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:43
 msgid "fireball"
-msgstr ""
+msgstr "Μπάλλα φωτιάς"
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:4
 msgid "Elvish Horse Archer"
-msgstr ""
+msgstr "Ξωτικό-Έφιππος Τοξότης "
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:29
 msgid ""
@@ -3093,10 +3704,14 @@ msgid ""
 "both horsemanship and archery, and the Elves are the only race that practice "
 "the two in concert."
 msgstr ""
+"Όχι όσο γρήγοροι όσο οι ιππείς, οι έφιπποι τοξότες των ξωτικών είναι παρόλα "
+"αυτά ιχυροί εξαιτίας της πολύ ισχυρότερης επίθεσης τουα πό απόσταση. Λίγα "
+"από τά ξωτικά είναι καλοί καί στην ιππσία καί στήν τοξοβολία καί τά ξωτικά "
+"είναι η μόνη ράτσα πού μπορούν να συνδυάσουν καί τά δύο."
 
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:4
 msgid "Elvish Lord Invisible"
-msgstr ""
+msgstr "Αόρατος Αρχοντας των Ξωτικών"
 
 #: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:18
 msgid ""
@@ -3104,10 +3719,13 @@ msgid ""
 "devastating balls of fire at long range. Being invisible to the enemy makes "
 "them very hard to hit"
 msgstr ""
+" Οι Αρχοντες των ξωτικών είναι φοβεροί στήν μάχη, χρησιμοποιώντας τό σπαθί "
+"σε μάχη σώμα μέ σώμα και καταστροφικές μπάλλες φωτιάς από μακριά. Όντας "
+"αόρατοι γιά τόν εχθρό, είναι πολύ δύσκολο να χτυπηθούν."
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:4
 msgid "Elvish Marksman Invisible"
-msgstr ""
+msgstr "Αόρατοι τοξότες ακριβείας των ξωτικών"
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:19
 msgid ""
@@ -3116,24 +3734,30 @@ msgid ""
 "great skill with the bow compensates for their lack of skill in melee combat "
 "and lesser speed. Invisible units are especially hard to hit."
 msgstr ""
+"Οι τοξότες ακριβείας των ξωτικών είναι ειδικοί στή χρήση του τόξου. Η "
+"ικανότητά του εγγυάται μιά πιθανότητα επιτυχίας 60% να χτυπήσουν τόν εχθρό, "
+"ακόμα κι αν αυτός είναι κρυμμένος σε δύσβατο έδαφος. Αυτή η μεγάλη ικανότητά "
+"τους μέ τό τόξο αντισταθμίζει την μειωμένη ικανότητά τους σε μάχη σώμα με "
+"σώμα καί μικρότερη ταχύτητα. Οι αόρατες μονάδες έχουν μιά εξαιρετικά "
+"μειωμένη πιθανότητα να χτυπηθούν."
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:39
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:118
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:38
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:115
 msgid "longbow"
-msgstr ""
+msgstr "Μακρύ τόξο"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:41
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:120
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:40
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:117
 msgid "marksman"
-msgstr ""
+msgstr " τοξοβολία ακριβείας"
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:81
 msgid "female^Elvish Marksman"
-msgstr ""
+msgstr "θηλυκή τοξότρια ακριβείας των ξωτικών"
 
 #: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:96
 msgid ""
@@ -3142,10 +3766,15 @@ msgid ""
 "great skill with the bow compensates for their lack of skill in melee combat "
 "and lesser speed."
 msgstr ""
+" Οι τοξότες ακριβείας των ξωτικών είναι ειδικοί στή χρήση του τόξου. Η "
+"ικανότητά του εγγυάται μιά πιθανότητα επιτυχίας 60% να χτυπήσουν τόν εχθρό, "
+"ακόμα κι αν αυτός είναι κρυμμένος σε δύσβατο έδαφος. Αυτή η μεγάλη ικανότητά "
+"τους μέ τό τόξο αντισταθμίζει την μειωμένη ικανότητά τους σε μάχη σώμα με "
+"σώμα καί μικρότερη ταχύτητα."
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
-msgid "Elvish Range Invisibler"
-msgstr ""
+msgid "Elvish Ranger Invisible"
+msgstr "Αόρατο ξωτικό-ρέιντζερ"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:19
 msgid ""
@@ -3155,10 +3784,16 @@ msgid ""
 "just made an attack, or there are enemies adjacent to them. Invisible units "
 "are especially hard to hit."
 msgstr ""
+" Τά ξωτικά-ρέιντζερ είναι γρήγορα καί δυνατά. Ικανά σέ μάχη τόσο σώμα με "
+"σώμα, όσο καί από μακριά, οι Ρέιντζερ είναι πραγματικά μαχητές γιά όλες τις "
+"αποστολές. Οι καλυτεροι στό δάσος, οι Ρέιντζερ δεν μπορούν να εντοπιστούν "
+"από τους εχθρούς στό δάσος, εκτός αν μόλις επιτέθηκαν η υπάρχουν εχθροί "
+"δίπλα τους. Οι αόρατες μονάδες έχουν μιά εξαιρετικά μειωμένη πιθανότητα να "
+"χτυπηθούν."
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:80
 msgid "female^Elvish Ranger"
-msgstr ""
+msgstr "Θηλυκό ξωτικό-ρέιντζερ"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:96
 msgid ""
@@ -3167,20 +3802,28 @@ msgid ""
 "Rangers cannot be seen by enemies while they are in forest, unless they have "
 "just made an attack, or there are enemies adjacent to them."
 msgstr ""
+"Τά ξωτικά-ρέιντζερ είναι γρήγορα καί δυνατά. Ικανά σέ μάχη τόσο σώμα με "
+"σώμα, όσο καί από μακριά, οι Ρέιντζερ είναι πραγματικά μαχητές γιά όλες τις "
+"αποστολές. Οι καλυτεροι στό δάσος, οι Ρέιντζερ δεν μπορούν να εντοπιστούν "
+"από τους εχθρούς στό δάσος, εκτός αν μόλις επιτέθηκαν η υπάρχουν εχθροί "
+"δίπλα τους."
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:4
 msgid "Elvish Scout"
-msgstr ""
+msgstr "Ξωτικό-Ανιχνευτής"
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:30
 msgid ""
 "Elvish Scouts move swiftly through forest and grassland alike. Their skill "
 "on horseback is virtually unmatched, although they do lack power in combat."
 msgstr ""
+" Τά ξωτικά-ανιχνευτές κινούνται τό ίδιο γρήγορα στό δάσος καί τό χορτάρι. Οι "
+"ικανότητές τους σάν ιππείς είναι απαράμιλλες, άν καί δέν είναι πολύ ισχυροί "
+"στή μάχη."
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:4
 msgid "Elvish Sharpshooter Invisible"
-msgstr ""
+msgstr "Αόρατο Ξωτικό-Ελεύθερος σκοπευτής"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:19
 msgid ""
@@ -3189,10 +3832,15 @@ msgid ""
 "when firing very quickly. Sharpshooters are excellent at picking off "
 "entrenched enemies. Invisible units are very hard to hit"
 msgstr ""
+"Οι πιό επίλεκτοι τοξότες σέ όλο τό Γουέσνοθ, τα ξωτικά-ελεύθεροι σκοπευτές "
+"είναι απίστευτα ακριβείς, με εγγυημένη 60% πιθανότητα επιτυχίας όταν "
+"επιτίθενται, ακόμα καί όταν ρίχνουν πολύ γρήγορα. Οι ελεύθεροι σκοπευτές "
+"είναι εξαιρετικοί γιά να εξοντώνουν ακίνητους εχθρούς Οι αόρατες μονάδες "
+"είναι εξαιρετικά δύσκολο να χτυπηθούν "
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:83
 msgid "female^Elvish Sharpshooter"
-msgstr ""
+msgstr "Θηλυκό ξωτικό-ελεύθερος σκοπευτής"
 
 #: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:98
 msgid ""
@@ -3201,6 +3849,10 @@ msgid ""
 "when firing very quickly. Sharpshooters are excellent at picking off "
 "entrenched enemies."
 msgstr ""
+"Οι πιό επίλεκτοι τοξότες σέ όλο τό Γουέσνοθ, τα ξωτικά-ελεύθεροι σκοπευτές "
+"είναι απίστευτα ακριβείς, με εγγυημένη 60% πιθανότητα επιτυχίας όταν "
+"επιτίθενται, ακόμα καί όταν ρίχνουν πολύ γρήγορα. Οι ελεύθεροι σκοπευτές "
+"είναι εξαιρετικοί γιά να εξοντώνουν ακίνητους εχθρούς"
 
 #~ msgid "Soldier"
 #~ msgstr "Στρατιώτης"
