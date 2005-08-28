@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesmere\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-21 20:48+0200\n"
+"POT-Creation-Date: 2005-08-27 11:11+0200\n"
 "PO-Revision-Date: 2005-06-17 20:36+0200\n"
 "Last-Translator: \n"
 "Language-Team:  <fr@li.org>\n"
@@ -3581,8 +3581,9 @@ msgid ""
 msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
-msgid "Elvish Range Invisibler"
-msgstr ""
+#, fuzzy
+msgid "Elvish Ranger Invisible"
+msgstr "Elfse boogschutter onzichtbaar"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:19
 msgid ""

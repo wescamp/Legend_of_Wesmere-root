@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-21 20:48+0200\n"
+"POT-Creation-Date: 2005-08-27 11:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2281,7 +2281,7 @@ msgid "Elvish Marksman are expert in use of the bow. Their skill guarantees them
 msgstr ""
 
 #: ./Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
-msgid "Elvish Range Invisibler"
+msgid "Elvish Ranger Invisible"
 msgstr ""
 
 #: ./Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:19
