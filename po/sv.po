@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-27 11:11+0200\n"
+"POT-Creation-Date: 2005-08-31 19:54+0200\n"
 "PO-Revision-Date: 2005-08-18 22:15+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -11,6 +11,44 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.10.2\n"
+
+#: Legend_of_Wesmere.cfg:14
+msgid "Legend of Wesmere"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:16
+msgid "Soldier"
+msgstr "Soldat"
+
+#: Legend_of_Wesmere.cfg:16
+msgid "(Easy)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:17
+#, fuzzy
+msgid "(Normal)"
+msgstr "(normal)"
+
+#: Legend_of_Wesmere.cfg:17
+msgid "Lord"
+msgstr "Furste"
+
+#: Legend_of_Wesmere.cfg:18
+#, fuzzy
+msgid "(Hard)"
+msgstr "(svårast)"
+
+#: Legend_of_Wesmere.cfg:18
+msgid "High Lord"
+msgstr "Storfurste"
+
+#: Legend_of_Wesmere.cfg:23
+msgid ""
+"Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
+"survival from the second orcish invasion to the times of Konrad and Delfador"
+msgstr ""
+"Följ Kalenz och alverna i Wesnoth och deras kamp för överlevnad mellan "
+"orchernas andra invasion fram till Konrad och Delfadors dagar"
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:3
 msgid "Hour of Glory"
@@ -3695,28 +3733,5 @@ msgstr ""
 "träffsäkra, och träffar i 60% av fallen även då de skjuter mycket snabbt. "
 "Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender."
 
-#~ msgid "Soldier"
-#~ msgstr "Soldat"
-
 #~ msgid "(easiest)"
 #~ msgstr "(lättast)"
-
-#~ msgid "(normal)"
-#~ msgstr "(normal)"
-
-#~ msgid "Lord"
-#~ msgstr "Furste"
-
-#~ msgid "(hardest)"
-#~ msgstr "(svårast)"
-
-#~ msgid "High Lord"
-#~ msgstr "Storfurste"
-
-#~ msgid ""
-#~ "Follow the story of the Kalenz and the Elves in Wesnoth and their fight "
-#~ "for survival from the second orcish invasion to the times of Konrad and "
-#~ "Delfador"
-#~ msgstr ""
-#~ "Följ Kalenz och alverna i Wesnoth och deras kamp för överlevnad mellan "
-#~ "orchernas andra invasion fram till Konrad och Delfadors dagar"

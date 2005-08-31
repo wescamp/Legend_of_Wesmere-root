@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesmere\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-27 11:11+0200\n"
+"POT-Creation-Date: 2005-08-31 19:54+0200\n"
 "PO-Revision-Date: 2005-06-17 20:36+0200\n"
 "Last-Translator: \n"
 "Language-Team:  <fr@li.org>\n"
@@ -12,6 +12,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.0.2\n"
+
+#: Legend_of_Wesmere.cfg:14
+msgid "Legend of Wesmere"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:16
+msgid "Soldier"
+msgstr "Soldaat"
+
+#: Legend_of_Wesmere.cfg:16
+msgid "(Easy)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:17
+msgid "(Normal)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:17
+msgid "Lord"
+msgstr "Heer"
+
+#: Legend_of_Wesmere.cfg:18
+#, fuzzy
+msgid "(Hard)"
+msgstr "(moeilijkste)"
+
+#: Legend_of_Wesmere.cfg:18
+#, fuzzy
+msgid "High Lord"
+msgstr ""
+"\n"
+"Grote Heer"
+
+#: Legend_of_Wesmere.cfg:23
+msgid ""
+"Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
+"survival from the second orcish invasion to the times of Konrad and Delfador"
+msgstr ""
+"Beleef het verhaal van Kalenz en de elfen van Wesnoth en hun gevecht om het "
+"tweede orkinvasie te overleven."
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:3
 msgid "Hour of Glory"
@@ -3640,31 +3680,8 @@ msgid ""
 "entrenched enemies."
 msgstr ""
 
-#~ msgid "Soldier"
-#~ msgstr "Soldaat"
-
 #~ msgid "(easiest)"
 #~ msgstr "(makkelijkste)"
-
-#~ msgid "Lord"
-#~ msgstr "Heer"
-
-#~ msgid "(hardest)"
-#~ msgstr "(moeilijkste)"
-
-#, fuzzy
-#~ msgid "High Lord"
-#~ msgstr ""
-#~ "\n"
-#~ "Grote Heer"
-
-#~ msgid ""
-#~ "Follow the story of the Kalenz and the Elves in Wesnoth and their fight "
-#~ "for survival from the second orcish invasion to the times of Konrad and "
-#~ "Delfador"
-#~ msgstr ""
-#~ "Beleef het verhaal van Kalenz en de elfen van Wesnoth en hun gevecht om "
-#~ "het tweede orkinvasie te overleven."
 
 #~ msgid ""
 #~ "After assembling all the army he could, Kalenz marched against his old "

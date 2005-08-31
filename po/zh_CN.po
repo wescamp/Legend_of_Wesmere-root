@@ -2,13 +2,47 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-27 11:11+0200\n"
+"POT-Creation-Date: 2005-08-31 19:54+0200\n"
 "PO-Revision-Date: 2005-05-05 00:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: Legend_of_Wesmere.cfg:14
+msgid "Legend of Wesmere"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:16
+msgid "Soldier"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:16
+msgid "(Easy)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:17
+msgid "(Normal)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:17
+msgid "Lord"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:18
+msgid "(Hard)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:18
+msgid "High Lord"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:23
+msgid ""
+"Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
+"survival from the second orcish invasion to the times of Konrad and Delfador"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:3
 msgid "Hour of Glory"

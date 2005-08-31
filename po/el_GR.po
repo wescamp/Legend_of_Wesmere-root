@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el_gr\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-27 11:11+0200\n"
+"POT-Creation-Date: 2005-08-31 19:54+0200\n"
 "PO-Revision-Date: 2005-08-27 11:12+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team:  <en@li.org>\n"
@@ -18,6 +18,45 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 0.9.6\n"
+
+#: Legend_of_Wesmere.cfg:14
+msgid "Legend of Wesmere"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:16
+msgid "Soldier"
+msgstr "Στρατιώτης"
+
+#: Legend_of_Wesmere.cfg:16
+msgid "(Easy)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:17
+msgid "(Normal)"
+msgstr ""
+
+#: Legend_of_Wesmere.cfg:17
+msgid "Lord"
+msgstr "Αρχοντας"
+
+#: Legend_of_Wesmere.cfg:18
+#, fuzzy
+msgid "(Hard)"
+msgstr "(δύσκολο)"
+
+#: Legend_of_Wesmere.cfg:18
+#, fuzzy
+msgid "High Lord"
+msgstr "Ηγεμόνας"
+
+#: Legend_of_Wesmere.cfg:23
+msgid ""
+"Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
+"survival from the second orcish invasion to the times of Konrad and Delfador"
+msgstr ""
+"Ακολούθησε την ιστορία του Κάλεντς καί των ξωτικών στό Γουέσνοθ καί τον "
+"αγώνα τουςγιά επιβίωση από την δεύτερη εισβολή των όρκ μέχρι την εποχή του "
+"Κόνραντ καί του Ντέλφαντορ."
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:3
 msgid "Hour of Glory"
@@ -3854,27 +3893,5 @@ msgstr ""
 "επιτίθενται, ακόμα καί όταν ρίχνουν πολύ γρήγορα. Οι ελεύθεροι σκοπευτές "
 "είναι εξαιρετικοί γιά να εξοντώνουν ακίνητους εχθρούς"
 
-#~ msgid "Soldier"
-#~ msgstr "Στρατιώτης"
-
 #~ msgid "(easiest)"
 #~ msgstr "(εύκολο)"
-
-#~ msgid "Lord"
-#~ msgstr "Αρχοντας"
-
-#~ msgid "(hardest)"
-#~ msgstr "(δύσκολο)"
-
-#, fuzzy
-#~ msgid "High Lord"
-#~ msgstr "Ηγεμόνας"
-
-#~ msgid ""
-#~ "Follow the story of the Kalenz and the Elves in Wesnoth and their fight "
-#~ "for survival from the second orcish invasion to the times of Konrad and "
-#~ "Delfador"
-#~ msgstr ""
-#~ "Ακολούθησε την ιστορία του Κάλεντς καί των ξωτικών στό Γουέσνοθ καί τον "
-#~ "αγώνα τουςγιά επιβίωση από την δεύτερη εισβολή των όρκ μέχρι την εποχή "
-#~ "του Κόνραντ καί του Ντέλφαντορ."
