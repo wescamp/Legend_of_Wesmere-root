@@ -2411,7 +2411,8 @@ msgstr "A więc orki zaatakują teraz ludzi?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:157
 msgid "Yes, but after they win you're next and so are dwarves"
-msgstr "Tak, ale gdy wygrają, następni w kolejce jesteście wy, a potem krasnoludy."
+msgstr ""
+"Tak, ale gdy wygrają, następni w kolejce jesteście wy, a potem krasnoludy."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:162
 msgid "Don't worry about us. You seem to have some problems of your own."
@@ -3030,7 +3031,8 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:157
 msgid ""
 "This forest looks too quiet. Proceed carefully, I don't like this at all."
-msgstr "Ten las wygląda ZBYT cicho. Ruszajcie powoli, nie podoba mi się to wszystko."
+msgstr ""
+"Ten las wygląda ZBYT cicho. Ruszajcie powoli, nie podoba mi się to wszystko."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:165
 msgid "Living... Soon, you'll be more troops for my master!"
