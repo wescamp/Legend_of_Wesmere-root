@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-07 15:27+0200\n"
-"PO-Revision-Date: 2005-10-18 10:16+0100\n"
+"PO-Revision-Date: 2005-10-18 14:49+0100\n"
 "Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1455,7 +1455,7 @@ msgstr "Ktokolwiek zadrze z moimi ludźmi, zginie!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:226
 msgid "Aargh! I'm gone!"
-msgstr ""
+msgstr "Aargh! Już po mnie!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:231
 msgid "I told you so!"
@@ -1546,7 +1546,7 @@ msgstr "Nie! Wszystko kończy się tutaj!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:172
 msgid "I'm done. Now I can rest!"
-msgstr ""
+msgstr "Skończyłem. Teraz mogę spocząć."
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:177
 msgid ""
@@ -1740,7 +1740,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:273
 msgid "They are dead. We burned them."
-msgstr ""
+msgstr "Zginęli. Spaliliśmy ich."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:278
 msgid ""
@@ -1768,11 +1768,11 @@ msgstr "Ha! Nadchodzi więcej naszych! Elfy, jesteście zgubione!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:372
 msgid "Athburil"
-msgstr ""
+msgstr "Athburil"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:373
 msgid "Panorea"
-msgstr ""
+msgstr "Panorea"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:377
 msgid "Good thing you came! More of us are hiding in the forest."
@@ -1780,31 +1780,31 @@ msgstr "Dobrze, żeście przybyli! Więcej nas tutaj kryje się w lesie."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:388
 msgid "Ithoras"
-msgstr ""
+msgstr "Ithoras"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:389
 msgid "Kletskis"
-msgstr ""
+msgstr "Kletskis"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:398
 msgid "Pribol"
-msgstr ""
+msgstr "Pribol"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:399
 msgid "Ilendal"
-msgstr ""
+msgstr "Ilendal"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:408
 msgid "Gliglus"
-msgstr ""
+msgstr "Gliglus"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:409
 msgid "Arthanar"
-msgstr ""
+msgstr "Arthanar"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:4
 msgid "Hostile Mountains"
-msgstr ""
+msgstr "Wrogie góry"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:20
 msgid ""
@@ -1819,7 +1819,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:223
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:112
 msgid "Reach the signpost"
-msgstr ""
+msgstr "Dotrzyj do drogowskazu"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:147
 msgid ""
@@ -1875,7 +1875,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:332
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:199
 msgid "No! without  his bow we have no chance!"
-msgstr ""
+msgstr "Nie! Bez jego łuku nie mamy szans!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:212
 msgid "Oh, no! More trolls are coming, we are doomed..."
@@ -1884,7 +1884,7 @@ msgstr "Och nie! Więcej trolli nadchodzi, już po nas..."
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:264
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:225
 msgid "payback time!"
-msgstr ""
+msgstr "Czas zapłaty!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:241
 msgid "We made it! Now onward to Wesmere! Hurry!"
@@ -1892,15 +1892,15 @@ msgstr "Udało się! A teraz naprzód do Wesmere! Prędko!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:259
 msgid "These darn trolls stepped on OUR land! Attack!"
-msgstr ""
+msgstr "Te przeklęte trolle wkroczyły na NASZĄ ziemię! Atak!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:282
 msgid "These darn elves stepped on OUR land! Attack!"
-msgstr ""
+msgstr "Te przeklęte elfy wkroczyły na NASZĄ ziemię! Atak!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:303
 msgid "We made it. Onwards to Wesmere!"
-msgstr ""
+msgstr "Udało się. Naprzód, do Wesmere!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:308
 msgid "Crazy Elves! But at least they helped us with the trolls"
@@ -1908,11 +1908,11 @@ msgstr "Szalone elfy! Ale przynajmniej nam pomogły z trollami."
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:324
 msgid "No! we need the dwarves on our side!"
-msgstr ""
+msgstr "Nie! Potrzebujemy krasnoludów po naszej stronie!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:4
 msgid "Ka'lian under attack"
-msgstr ""
+msgstr "K'alian atakowany"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:20
 msgid ""
@@ -1991,7 +1991,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:3
 msgid "Mountain_Lake"
-msgstr ""
+msgstr "Jezioro Górskie"
 
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:26
 msgid ""
@@ -2033,11 +2033,11 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:235
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:186
 msgid "The elves will now fall!"
-msgstr ""
+msgstr "Teraz elfy upadną!"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:6
 msgid "News from the front"
-msgstr ""
+msgstr "Wiadomości z frontu"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:24
 msgid ""
@@ -2057,11 +2057,11 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:101
 msgid "Maybe some of my dwarves can escort you... "
-msgstr ""
+msgstr "Może parę moich krasnoludów mogłoby się eskortować..."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:106
 msgid "Ok, Landar, but be careful. We need you."
-msgstr ""
+msgstr "Dobrze, Landarze, ale bądź ostrożny. Potrzebujemy ciebie."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:142
 msgid ""
@@ -2073,7 +2073,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:147
 msgid "This means we  are safe for the time being, no?"
-msgstr ""
+msgstr "To oznacza, że na razie jesteśmy bezpieczni, tak?"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:152
 msgid ""
@@ -2085,15 +2085,15 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:190
 msgid "How convenient! Now they need our help!"
-msgstr ""
+msgstr "Jakie to dla nich wygodne! Teraz to potrzebują naszej pomocy!"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:195
 msgid "Landar! You're back! Everything's ok?"
-msgstr ""
+msgstr "Landarze! Wróciłeś! Wszystko w porządku?"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:200
 msgid "Yes, I have the potion. "
-msgstr ""
+msgstr "Tak, mam miksturę."
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:205
 msgid ""
@@ -2124,7 +2124,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:4
 msgid "Northern Battle"
-msgstr ""
+msgstr "Bitwa na północy"
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:20
 msgid ""
@@ -2171,11 +2171,11 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:329
 msgid "We won!"
-msgstr ""
+msgstr "Wygraliśmy!"
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:4
 msgid "Prince of Wesnoth"
-msgstr ""
+msgstr "Książę Wesnoth"
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:20
 msgid ""
@@ -2269,16 +2269,16 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:390
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:234
 msgid "No, the elves will fall!"
-msgstr ""
+msgstr "Nie, elfy upadną!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:299
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:246
 msgid "We are too late! All is lost!"
-msgstr ""
+msgstr "Spóźniliśmy się! Wszystko stracone!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:3
 msgid "Revelations"
-msgstr ""
+msgstr "Objawienia"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:71
 msgid ""
@@ -2314,7 +2314,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:86
 msgid "What do you mean  divert their attention?"
-msgstr ""
+msgstr "Co masz na myśli mówiąc o odwróceniu ich uwagi?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:91
 msgid ""
@@ -2407,11 +2407,11 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:152
 msgid "So the orcs will now attack the humans?"
-msgstr ""
+msgstr "A więc orki zaatakują teraz ludzi?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:157
 msgid "Yes, but after they win you're next and so are dwarves"
-msgstr ""
+msgstr "Tak, ale gdy wygrają, następni w kolejce jesteście wy, a potem krasnoludy."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:162
 msgid "Don't worry about us. You seem to have some problems of your own."
@@ -2460,11 +2460,11 @@ msgstr "Zabić króla orków? Ależ on jest strzeżony lepiej niż trolowa jama!
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:192
 msgid "Indeed it will be very hard, but maybe I can help you..."
-msgstr ""
+msgstr "Zaprawdę będzie bardzo ciężko, ale może mogę wam pomóc..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:197
 msgid "But you want something in return..."
-msgstr ""
+msgstr "Ale chcecie coś w zamian..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:202
 msgid ""
@@ -2484,7 +2484,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:207
 msgid "If you come with us, we will protect you..."
-msgstr ""
+msgstr "Jeżeli pójdziecie z nami, będziemy was chronić..."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:212
 msgid ""
@@ -2606,7 +2606,7 @@ msgstr "Pójdę z tobą. Nie zawiedziemy!"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:287
 msgid "This does not seem a wise choice."
-msgstr ""
+msgstr "To nie wygląda na mądry wybór."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:292
 msgid ""
@@ -2629,7 +2629,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:4
 msgid "River crossing"
-msgstr ""
+msgstr "Przeprawa przez rzekę"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:20
 msgid "Kalenz  moved North to take the fight to Black Eye Karun..."
@@ -2649,11 +2649,11 @@ msgstr "Elfy! Nie mogą się przeprawić!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:159
 msgid "No!"
-msgstr ""
+msgstr "Nie!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:174
 msgid "Now we can cross!"
-msgstr ""
+msgstr "Teraz możemy się przeprawić!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:196
 msgid "At last, the orcs are in this land no more!"
@@ -2709,11 +2709,11 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:4
 msgid "The Saurian Treasury"
-msgstr ""
+msgstr "Skarbiec jaszczurów"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:19
 msgid "You retrieve {AMOUNT} pieces of gold."
-msgstr ""
+msgstr "Otrzymałeś {AMOUNT} sztuk złota."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:35
 msgid ""
@@ -2725,7 +2725,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:123
 msgid "Enter the Saurian Treasury and leave with the gold"
-msgstr ""
+msgstr "Wkrocz do skarbca jaszczurów i wyjdź z złotem"
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:183
 msgid ""
@@ -2744,7 +2744,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:226
 msgid "More Saurians are coming, we are defeated..."
-msgstr ""
+msgstr "Więcej jaszczurów przybywa, zostaliśmy pokonani..."
 
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:256
 msgid ""
@@ -2803,19 +2803,19 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:30
 msgid "but the King was in an unenviable position..."
-msgstr ""
+msgstr "Sytuacja króla była jednakże nie do pozazdroszczenia..."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:161
 msgid "Defeat Black Eye Karun"
-msgstr ""
+msgstr "Pokonaj Karuna Czarne Oko"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:173
 msgid "Death of Delfador"
-msgstr ""
+msgstr "Śmierć Delfadora"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:177
 msgid "Death of Garard"
-msgstr ""
+msgstr "Śmierć Gararda"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:240
 msgid ""
@@ -2849,7 +2849,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:267
 msgid "Invincible Black Eye Karun is dead? Quick, run for your lives!"
-msgstr ""
+msgstr "Niezwyciężony Karun Czarne Oko nie żyje? Ratuj się kto może!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:272
 msgid "You will terrorize Wesnoth no more!"
@@ -2857,11 +2857,11 @@ msgstr "Więcej już nie będziecie terroryzować Wesnoth!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:324
 msgid "There goes Wesnoth's only hope!"
-msgstr ""
+msgstr "Jedyna nadzieja Wesnoth właśnie prysła!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:339
 msgid "The King has fallen! Now Wesnoth will fail!"
-msgstr ""
+msgstr "Król zginął! Teraz Wesnoth jest zgubione!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:350
 msgid "Victory! "
@@ -3017,7 +3017,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:4
 msgid "Shadows in the dark"
-msgstr ""
+msgstr "Cienie w ciemnościach"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:20
 msgid ""
@@ -3030,7 +3030,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:157
 msgid ""
 "This forest looks too quiet. Proceed carefully, I don't like this at all."
-msgstr ""
+msgstr "Ten las wygląda ZBYT cicho. Ruszajcie powoli, nie podoba mi się to wszystko."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:165
 msgid "Living... Soon, you'll be more troops for my master!"
@@ -3048,11 +3048,11 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:225
 msgid "We have more help!"
-msgstr ""
+msgstr "Dostaliśmy pomoc!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:277
 msgid "And now even more help!"
-msgstr ""
+msgstr "I jeszcze więcej pomocy!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:372
 msgid ""
@@ -3063,15 +3063,15 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:377
 msgid "We have help now! Let's take the fight to them!"
-msgstr ""
+msgstr "Dostaliśmy pomoc! Zaatakujmy ich!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:405
 msgid "We are lost without the great mage!"
-msgstr ""
+msgstr "Bez wielkiego maga nasza sprawa jest stracona!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:417
 msgid "More undead are coming! All is lost!"
-msgstr ""
+msgstr "Więcej nieumarłych nadchodzi! Wszystko stracone!"
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:441
 msgid ""
@@ -3157,7 +3157,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:528
 msgid "Absolutely. Let's do it!"
-msgstr ""
+msgstr "Zdecydowanie. Zróbmy to!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:533
 msgid ""
@@ -3177,11 +3177,11 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:603
 msgid "It's all over"
-msgstr ""
+msgstr "Już po wszystkim."
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:617
 msgid "No! We have failed!"
-msgstr ""
+msgstr "Nie! Zawiedliśmy!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:632
 msgid ""
@@ -3197,7 +3197,7 @@ msgstr "Spóźniliśmy się, efekty mikstury wygasły i jesteśmy widoczni!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:667
 msgid "Done!"
-msgstr ""
+msgstr "Zrobione!"
 
 #: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:689
 msgid ""
@@ -3257,7 +3257,7 @@ msgstr "Do tego właśnie trenowaliśmy! Wyprzeć z powrotem te bestie!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:259
 msgid "The orcs are retreating! "
-msgstr ""
+msgstr "Orki uciekają!"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:284
 msgid ""
@@ -3385,7 +3385,7 @@ msgstr "Wiedziałem! Zawsze mówiłem, że będziemy walczyć samotnie!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:4
 msgid "The Uprooting"
-msgstr ""
+msgstr "Wygnanie"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:20
 msgid ""
@@ -3468,11 +3468,11 @@ msgstr "Och nie! Więcej ich przybywa, spóżniliśmy się..."
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:357
 msgid "You messed with the wrong elf!"
-msgstr ""
+msgstr "Zadarłeś z niewłaściwym elfem!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:369
 msgid "Take that, you orcish scum!"
-msgstr ""
+msgstr "Spróbuj tego, orkowy psie!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:381
 msgid "We surrender!"
@@ -3501,15 +3501,15 @@ msgstr "Daleko nie ujdziecie! Za nimi!"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:67
 msgid "ice shot"
-msgstr ""
+msgstr "atak lodu"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:68
 msgid "cold"
-msgstr ""
+msgstr "chłód"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:72
 msgid "magical"
-msgstr ""
+msgstr "magiczna"
 
 #: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:4
 msgid "Elvish Archer Invisible"
