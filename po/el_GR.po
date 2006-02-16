@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el_GR\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-31 19:54+0200\n"
+"POT-Creation-Date: 2005-10-07 15:27+0200\n"
 "PO-Revision-Date: 2005-09-05 01:28+0300\n"
 "Last-Translator: \n"
 "Language-Team:  <el@li.org>\n"
@@ -3540,35 +3540,15 @@ msgstr "Πρέπει να φύγουμε τώρα αλλά δέν θά ξεχά�
 msgid "You won't get very far! After them!"
 msgstr "Δέν θά πάτε μακριά. Κυνηγήστε τους!"
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:21
-msgid "staff"
-msgstr "ραβδί"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:22
-msgid "impact"
-msgstr "κρούση"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:38
-msgid "fire breath"
-msgstr "Ανάσα φωτιάς"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:38
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:44
-msgid "fire"
-msgstr "φωτιά"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:65
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:67
 msgid "ice shot"
 msgstr "βολή πάγου"
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:66
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:68
 msgid "cold"
 msgstr "κρύο"
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:70
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:45
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:72
 msgid "magical"
 msgstr "μαγική"
 
@@ -3589,93 +3569,12 @@ msgstr ""
 "στρατού των ξωτικών. Οι αόρατες μονάδες έχουν μιά εξαιρετικά μειωμένη "
 "πιθανότητα να χτυπηθούν."
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:101
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:21
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:32
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:99
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:24
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:97
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:33
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:102
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:27
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:99
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:22
-msgid "sword"
-msgstr "σπαθί"
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:102
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:33
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:100
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:25
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:98
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:34
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:24
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:103
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:28
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:100
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:23
-msgid "blade"
-msgstr "κοφτερό αντικείμενο"
-
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:53
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:113
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:54
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:119
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:43
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:116
-msgid "bow"
-msgstr "τόξο"
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:119
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:54
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:116
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:114
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:55
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:120
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:44
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:117
-msgid "pierce"
-msgstr "Τρύπημα"
-
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:83
-msgid "female^Elvish Archer"
-msgstr "Ξωτικό-Τοξότρια"
-
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:99
-msgid ""
-"Elvish Archers are trained from youth in archery, and so skilled in long-"
-"range combat. Able to fire many arrows quickly and accurately, these Archers "
-"make up a large portion of the Elvish military."
-msgstr ""
-" Οι τοξότες των ξωτικών εκπαιδεύονται από μικρό στήν τοξοβολία καί έτσι "
-"είναι ιδιαίτερα ικανοί σέ μάχη από απόσταση. Ικανοί να εξαπολύουν πολλά βέλη "
-"γρήγορα καί μέ ακρίβεια, αυτοί οι τοξότες αποτελούν ένα μεγάλο τμήμα του "
-"στρατού των ξωτικών."
-
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
 msgstr "Αόρατο Ξωτικό-Εκδικητής"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:92
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:18
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:95
 msgid "ambush"
 msgstr "ενέδρα"
 
@@ -3692,22 +3591,6 @@ msgstr ""
 "καί μπορούν να στήσουν ενέδρα στό δάσος, γιατί δέν φαίνονται μέχρι αφού "
 "έχουν επιτεθεί. Οι αόρατες μονάδες έχουν μιά εξαιρετικά μειωμένη πιθανότητα "
 "να χτυπηθούν."
-
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:77
-msgid "female^Elvish Avenger Invisible"
-msgstr "Αόρατο Ξωτικό-Εκδικήτρια"
-
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:94
-msgid ""
-"Elvish Avengers are extremely skillful and extremely quick, powerful in all "
-"forms of combat. Avengers are considered the best of all woodsmen in "
-"Wesnoth, and can ambush their foes in the forest, because they cannot be "
-"seen in the woods until just after they have attacked."
-msgstr ""
-" Τά ξωτικά-εκδικητές είναι εξαιρετικά ικανοί καί εξαιρετικά γρήγοροι καί "
-"ισχυροί σέ κάθε μορφή μάχης. Οι εκδικητές θεωρούνατι οι καλύτεροι στά δάση "
-"καί μπορούν να στήσουν ενέδρα στό δάσος, γιατί δέν φαίνονται μέχρι αφού "
-"έχουν επιτεθεί."
 
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:17
 msgid "leadership"
@@ -3726,11 +3609,6 @@ msgstr ""
 " Οι μεγάλοι Αρχοντες των ξωτικών είναι φοβεροί στήν μάχη, χρησιμοποιώντας τό "
 "σπαθί σε μάχη σώμα μέ σώμα και καταστροφικές μπάλλες φωτιάς από μακριά. "
 "Όντας αόρατοι γιά τόν εχθρό, είναι πολύ δύσκολο να χτυπηθούν."
-
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:37
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:43
-msgid "fireball"
-msgstr "Μπάλλα φωτιάς"
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:4
 msgid "Elvish Horse Archer"
@@ -3780,37 +3658,6 @@ msgstr ""
 "σώμα καί μικρότερη ταχύτητα. Οι αόρατες μονάδες έχουν μιά εξαιρετικά "
 "μειωμένη πιθανότητα να χτυπηθούν."
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:118
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:38
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:115
-msgid "longbow"
-msgstr "Μακρύ τόξο"
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:120
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:117
-msgid "marksman"
-msgstr " τοξοβολία ακριβείας"
-
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:81
-msgid "female^Elvish Marksman"
-msgstr "θηλυκή τοξότρια ακριβείας των ξωτικών"
-
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:96
-msgid ""
-"Elvish Marksman are expert in use of the bow. Their skill guarantees them a "
-"60% chance to hit enemies, even those hidden in difficult terrain. This "
-"great skill with the bow compensates for their lack of skill in melee combat "
-"and lesser speed."
-msgstr ""
-" Οι τοξότες ακριβείας των ξωτικών είναι ειδικοί στή χρήση του τόξου. Η "
-"ικανότητά του εγγυάται μιά πιθανότητα επιτυχίας 60% να χτυπήσουν τόν εχθρό, "
-"ακόμα κι αν αυτός είναι κρυμμένος σε δύσβατο έδαφος. Αυτή η μεγάλη ικανότητά "
-"τους μέ τό τόξο αντισταθμίζει την μειωμένη ικανότητά τους σε μάχη σώμα με "
-"σώμα καί μικρότερη ταχύτητα."
-
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
 msgid "Elvish Ranger Invisible"
 msgstr "Αόρατο ξωτικό-ρέιντζερ"
@@ -3829,23 +3676,6 @@ msgstr ""
 "από τους εχθρούς στό δάσος, εκτός αν μόλις επιτέθηκαν η υπάρχουν εχθροί "
 "δίπλα τους. Οι αόρατες μονάδες έχουν μιά εξαιρετικά μειωμένη πιθανότητα να "
 "χτυπηθούν."
-
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:80
-msgid "female^Elvish Ranger"
-msgstr "Θηλυκό ξωτικό-ρέιντζερ"
-
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:96
-msgid ""
-"Elvish Rangers are quick and powerful. Skilled in both short- and long-range "
-"combat, Rangers are truly all-round fighters. The best of all woodsmen, "
-"Rangers cannot be seen by enemies while they are in forest, unless they have "
-"just made an attack, or there are enemies adjacent to them."
-msgstr ""
-"Τά ξωτικά-ρέιντζερ είναι γρήγορα καί δυνατά. Ικανά σέ μάχη τόσο σώμα με "
-"σώμα, όσο καί από μακριά, οι Ρέιντζερ είναι πραγματικά μαχητές γιά όλες τις "
-"αποστολές. Οι καλυτεροι στό δάσος, οι Ρέιντζερ δεν μπορούν να εντοπιστούν "
-"από τους εχθρούς στό δάσος, εκτός αν μόλις επιτέθηκαν η υπάρχουν εχθροί "
-"δίπλα τους."
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:4
 msgid "Elvish Scout"
@@ -3877,21 +3707,110 @@ msgstr ""
 "είναι εξαιρετικοί γιά να εξοντώνουν ακίνητους εχθρούς Οι αόρατες μονάδες "
 "είναι εξαιρετικά δύσκολο να χτυπηθούν "
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:83
-msgid "female^Elvish Sharpshooter"
-msgstr "Θηλυκό ξωτικό-ελεύθερος σκοπευτής"
+#~ msgid "sword"
+#~ msgstr "σπαθί"
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:98
-msgid ""
-"The most elite archers in all of Wesnoth, Elvish Sharpshooters are "
-"incredibly accurate, guaranteed a 60% chance to hit when attacking, even "
-"when firing very quickly. Sharpshooters are excellent at picking off "
-"entrenched enemies."
-msgstr ""
-"Οι πιό επίλεκτοι τοξότες σέ όλο τό Γουέσνοθ, τα ξωτικά-ελεύθεροι σκοπευτές "
-"είναι απίστευτα ακριβείς, με εγγυημένη 60% πιθανότητα επιτυχίας όταν "
-"επιτίθενται, ακόμα καί όταν ρίχνουν πολύ γρήγορα. Οι ελεύθεροι σκοπευτές "
-"είναι εξαιρετικοί γιά να εξοντώνουν ακίνητους εχθρούς"
+#~ msgid "blade"
+#~ msgstr "κοφτερό αντικείμενο"
+
+#~ msgid "bow"
+#~ msgstr "τόξο"
+
+#~ msgid "pierce"
+#~ msgstr "Τρύπημα"
+
+#~ msgid "staff"
+#~ msgstr "ραβδί"
+
+#~ msgid "impact"
+#~ msgstr "κρούση"
+
+#~ msgid "fire breath"
+#~ msgstr "Ανάσα φωτιάς"
+
+#~ msgid "fire"
+#~ msgstr "φωτιά"
+
+#~ msgid "female^Elvish Avenger Invisible"
+#~ msgstr "Αόρατο Ξωτικό-Εκδικήτρια"
+
+#~ msgid ""
+#~ "Elvish Avengers are extremely skillful and extremely quick, powerful in "
+#~ "all forms of combat. Avengers are considered the best of all woodsmen in "
+#~ "Wesnoth, and can ambush their foes in the forest, because they cannot be "
+#~ "seen in the woods until just after they have attacked."
+#~ msgstr ""
+#~ " Τά ξωτικά-εκδικητές είναι εξαιρετικά ικανοί καί εξαιρετικά γρήγοροι καί "
+#~ "ισχυροί σέ κάθε μορφή μάχης. Οι εκδικητές θεωρούνατι οι καλύτεροι στά "
+#~ "δάση καί μπορούν να στήσουν ενέδρα στό δάσος, γιατί δέν φαίνονται μέχρι "
+#~ "αφού έχουν επιτεθεί."
+
+#~ msgid "female^Elvish Archer"
+#~ msgstr "Ξωτικό-Τοξότρια"
+
+#~ msgid ""
+#~ "Elvish Archers are trained from youth in archery, and so skilled in long-"
+#~ "range combat. Able to fire many arrows quickly and accurately, these "
+#~ "Archers make up a large portion of the Elvish military."
+#~ msgstr ""
+#~ " Οι τοξότες των ξωτικών εκπαιδεύονται από μικρό στήν τοξοβολία καί έτσι "
+#~ "είναι ιδιαίτερα ικανοί σέ μάχη από απόσταση. Ικανοί να εξαπολύουν πολλά "
+#~ "βέλη γρήγορα καί μέ ακρίβεια, αυτοί οι τοξότες αποτελούν ένα μεγάλο τμήμα "
+#~ "του στρατού των ξωτικών."
+
+#~ msgid "fireball"
+#~ msgstr "Μπάλλα φωτιάς"
+
+#~ msgid "longbow"
+#~ msgstr "Μακρύ τόξο"
+
+#~ msgid "marksman"
+#~ msgstr " τοξοβολία ακριβείας"
+
+#~ msgid "female^Elvish Marksman"
+#~ msgstr "θηλυκή τοξότρια ακριβείας των ξωτικών"
+
+#~ msgid ""
+#~ "Elvish Marksman are expert in use of the bow. Their skill guarantees them "
+#~ "a 60% chance to hit enemies, even those hidden in difficult terrain. This "
+#~ "great skill with the bow compensates for their lack of skill in melee "
+#~ "combat and lesser speed."
+#~ msgstr ""
+#~ " Οι τοξότες ακριβείας των ξωτικών είναι ειδικοί στή χρήση του τόξου. Η "
+#~ "ικανότητά του εγγυάται μιά πιθανότητα επιτυχίας 60% να χτυπήσουν τόν "
+#~ "εχθρό, ακόμα κι αν αυτός είναι κρυμμένος σε δύσβατο έδαφος. Αυτή η μεγάλη "
+#~ "ικανότητά τους μέ τό τόξο αντισταθμίζει την μειωμένη ικανότητά τους σε "
+#~ "μάχη σώμα με σώμα καί μικρότερη ταχύτητα."
+
+#~ msgid "female^Elvish Ranger"
+#~ msgstr "Θηλυκό ξωτικό-ρέιντζερ"
+
+#~ msgid ""
+#~ "Elvish Rangers are quick and powerful. Skilled in both short- and long-"
+#~ "range combat, Rangers are truly all-round fighters. The best of all "
+#~ "woodsmen, Rangers cannot be seen by enemies while they are in forest, "
+#~ "unless they have just made an attack, or there are enemies adjacent to "
+#~ "them."
+#~ msgstr ""
+#~ "Τά ξωτικά-ρέιντζερ είναι γρήγορα καί δυνατά. Ικανά σέ μάχη τόσο σώμα με "
+#~ "σώμα, όσο καί από μακριά, οι Ρέιντζερ είναι πραγματικά μαχητές γιά όλες "
+#~ "τις αποστολές. Οι καλυτεροι στό δάσος, οι Ρέιντζερ δεν μπορούν να "
+#~ "εντοπιστούν από τους εχθρούς στό δάσος, εκτός αν μόλις επιτέθηκαν η "
+#~ "υπάρχουν εχθροί δίπλα τους."
+
+#~ msgid "female^Elvish Sharpshooter"
+#~ msgstr "Θηλυκό ξωτικό-ελεύθερος σκοπευτής"
+
+#~ msgid ""
+#~ "The most elite archers in all of Wesnoth, Elvish Sharpshooters are "
+#~ "incredibly accurate, guaranteed a 60% chance to hit when attacking, even "
+#~ "when firing very quickly. Sharpshooters are excellent at picking off "
+#~ "entrenched enemies."
+#~ msgstr ""
+#~ "Οι πιό επίλεκτοι τοξότες σέ όλο τό Γουέσνοθ, τα ξωτικά-ελεύθεροι "
+#~ "σκοπευτές είναι απίστευτα ακριβείς, με εγγυημένη 60% πιθανότητα επιτυχίας "
+#~ "όταν επιτίθενται, ακόμα καί όταν ρίχνουν πολύ γρήγορα. Οι ελεύθεροι "
+#~ "σκοπευτές είναι εξαιρετικοί γιά να εξοντώνουν ακίνητους εχθρούς"
 
 #~ msgid "(easiest)"
 #~ msgstr "(εύκολο)"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-31 19:54+0200\n"
+"POT-Creation-Date: 2005-10-07 15:27+0200\n"
 "PO-Revision-Date: 2005-05-15 12:18+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2883,35 +2883,15 @@ msgstr ""
 msgid "You won't get very far! After them!"
 msgstr ""
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:21
-msgid "staff"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:22
-msgid "impact"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:38
-msgid "fire breath"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:38
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:44
-msgid "fire"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:65
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:67
 msgid "ice shot"
 msgstr ""
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:66
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:68
 msgid "cold"
 msgstr ""
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:70
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:45
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:72
 msgid "magical"
 msgstr ""
 
@@ -2927,89 +2907,12 @@ msgid ""
 "especially hard to hit."
 msgstr ""
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:101
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:21
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:32
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:99
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:24
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:97
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:33
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:102
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:27
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:99
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:22
-msgid "sword"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:102
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:33
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:100
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:25
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:98
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:34
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:24
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:103
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:28
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:100
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:23
-msgid "blade"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:53
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:113
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:54
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:119
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:43
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:116
-msgid "bow"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:119
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:54
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:116
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:114
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:55
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:120
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:44
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:117
-msgid "pierce"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:83
-msgid "female^Elvish Archer"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:99
-msgid ""
-"Elvish Archers are trained from youth in archery, and so skilled in long-"
-"range combat. Able to fire many arrows quickly and accurately, these Archers "
-"make up a large portion of the Elvish military."
-msgstr ""
-
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
 msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:92
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:18
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:95
 msgid "ambush"
 msgstr ""
 
@@ -3020,18 +2923,6 @@ msgid ""
 "Wesnoth, and can ambush their foes in the forest, because they cannot be "
 "seen in the woods until just after they have attacked. Invisible units have "
 "a vastly reduced probability of being hit."
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:77
-msgid "female^Elvish Avenger Invisible"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:94
-msgid ""
-"Elvish Avengers are extremely skillful and extremely quick, powerful in all "
-"forms of combat. Avengers are considered the best of all woodsmen in "
-"Wesnoth, and can ambush their foes in the forest, because they cannot be "
-"seen in the woods until just after they have attacked."
 msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:17
@@ -3047,11 +2938,6 @@ msgid ""
 "Elvish High Lords are fearsome in combat, using the sword at close range and "
 "devastating balls of fire at long range. Invisible units are especially hard "
 "to hit."
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:37
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:43
-msgid "fireball"
 msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:4
@@ -3089,32 +2975,6 @@ msgid ""
 "and lesser speed. Invisible units are especially hard to hit."
 msgstr ""
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:118
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:38
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:115
-msgid "longbow"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:120
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:117
-msgid "marksman"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:81
-msgid "female^Elvish Marksman"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:96
-msgid ""
-"Elvish Marksman are expert in use of the bow. Their skill guarantees them a "
-"60% chance to hit enemies, even those hidden in difficult terrain. This "
-"great skill with the bow compensates for their lack of skill in melee combat "
-"and lesser speed."
-msgstr ""
-
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
 msgid "Elvish Ranger Invisible"
 msgstr ""
@@ -3126,18 +2986,6 @@ msgid ""
 "Rangers cannot be seen by enemies while they are in forest, unless they have "
 "just made an attack, or there are enemies adjacent to them. Invisible units "
 "are especially hard to hit."
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:80
-msgid "female^Elvish Ranger"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:96
-msgid ""
-"Elvish Rangers are quick and powerful. Skilled in both short- and long-range "
-"combat, Rangers are truly all-round fighters. The best of all woodsmen, "
-"Rangers cannot be seen by enemies while they are in forest, unless they have "
-"just made an attack, or there are enemies adjacent to them."
 msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:4
@@ -3160,16 +3008,4 @@ msgid ""
 "incredibly accurate, guaranteed a 60% chance to hit when attacking, even "
 "when firing very quickly. Sharpshooters are excellent at picking off "
 "entrenched enemies. Invisible units are very hard to hit"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:83
-msgid "female^Elvish Sharpshooter"
-msgstr ""
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:98
-msgid ""
-"The most elite archers in all of Wesnoth, Elvish Sharpshooters are "
-"incredibly accurate, guaranteed a 60% chance to hit when attacking, even "
-"when firing very quickly. Sharpshooters are excellent at picking off "
-"entrenched enemies."
 msgstr ""

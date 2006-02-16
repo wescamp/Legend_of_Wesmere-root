@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-31 19:54+0200\n"
+"POT-Creation-Date: 2005-10-07 15:27+0200\n"
 "PO-Revision-Date: 2005-09-06 18:40+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -3481,35 +3481,15 @@ msgstr ""
 msgid "You won't get very far! After them!"
 msgstr "Ni skall inte komma långt! Efter dem!"
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:21
-msgid "staff"
-msgstr "stav"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:22
-msgid "impact"
-msgstr "kross"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:38
-msgid "fire breath"
-msgstr "spruta eld"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:38
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:44
-msgid "fire"
-msgstr "eld"
-
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:65
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:67
 msgid "ice shot"
 msgstr "isstöt"
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:66
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:68
 msgid "cold"
 msgstr "frost"
 
-#: Legend_of_Wesmere/units/Drake_Mage.cfg:70
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:45
+#: Legend_of_Wesmere/units/Drake_Mage.cfg:72
 msgid "magical"
 msgstr "magisk"
 
@@ -3528,92 +3508,12 @@ msgstr ""
 "skicklighet i distansstrid. Dessa träffsäkra och snabba bågskyttar utgör en "
 "stor del av alvernas militär. Osynliga trupper är särskilt svåra att träffa."
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:101
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:21
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:32
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:99
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:24
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:97
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:33
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:102
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:27
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:99
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:22
-msgid "sword"
-msgstr "svärd"
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:102
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:22
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:33
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:100
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:25
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:98
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:34
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:24
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:103
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:28
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:23
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:100
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:23
-msgid "blade"
-msgstr "hugg"
-
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:53
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:113
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:54
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:119
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:43
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:116
-msgid "bow"
-msgstr "pilbåge"
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:119
-#: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:54
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:116
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:114
-#: Legend_of_Wesmere/units/Elvish_Scout.cfg:55
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:120
-#: Legend_of_Wesmere/units/Elvish_Elder.cfg:44
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:117
-msgid "pierce"
-msgstr "stick"
-
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:83
-msgid "female^Elvish Archer"
-msgstr "Alvbågskytt"
-
-#: Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:99
-msgid ""
-"Elvish Archers are trained from youth in archery, and so skilled in long-"
-"range combat. Able to fire many arrows quickly and accurately, these Archers "
-"make up a large portion of the Elvish military."
-msgstr ""
-"Alvernas bågskyttar börjar träna redan i unga år, och uppnår stor "
-"skicklighet i distansstrid. Dessa träffsäkra och snabba bågskyttar utgör en "
-"stor del av alvernas militär."
-
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
 msgstr "Osynlig alvhämnare"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:92
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:18
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:95
 msgid "ambush"
 msgstr "bakhåll"
 
@@ -3629,21 +3529,6 @@ msgstr ""
 "de absolut bästa skogsmännen i Wesnoth. De kan enkelt ligga i bakhåll för "
 "sina fiender i skogen, då de inte kan upptäckas förrän efter de anfallit. "
 "Osynliga trupper är långt svårare att träffa."
-
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:77
-msgid "female^Elvish Avenger Invisible"
-msgstr "Osynlig alvhämnare"
-
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:94
-msgid ""
-"Elvish Avengers are extremely skillful and extremely quick, powerful in all "
-"forms of combat. Avengers are considered the best of all woodsmen in "
-"Wesnoth, and can ambush their foes in the forest, because they cannot be "
-"seen in the woods until just after they have attacked."
-msgstr ""
-"Alvjägarna är extremt snabba och skickliga i alla stridsformer. De anses som "
-"de absolut bästa skogsmännen i Wesnoth. De kan enkelt ligga i bakhåll för "
-"sina fiender i skogen, då de inte kan upptäckas förrän efter de anfallit."
 
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:17
 msgid "leadership"
@@ -3661,11 +3546,6 @@ msgid ""
 msgstr ""
 "Alvstorfurstarna är skräckinjagande i strid; där de använder svärd och "
 "förödande eldklot. Osynliga trupper är särskilt svåra att träffa."
-
-#: Legend_of_Wesmere/units/Elvish_Lord_Invisible.cfg:37
-#: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:43
-msgid "fireball"
-msgstr "eldklot"
 
 #: Legend_of_Wesmere/units/Elvish_Horse_Archer.cfg:4
 msgid "Elvish Horse Archer"
@@ -3713,36 +3593,6 @@ msgstr ""
 "stora skicklighet med bågen kompenserar deras något mindre färdigheter i "
 "närstrid och lägre hastighet. Osynliga trupper är särskilt svåra att träffa."
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:39
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:118
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:38
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:115
-msgid "longbow"
-msgstr "långbåge"
-
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:41
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:120
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:40
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:117
-msgid "marksman"
-msgstr "prickskytt"
-
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:81
-msgid "female^Elvish Marksman"
-msgstr "Alvprickskytt"
-
-#: Legend_of_Wesmere/units/Elvish_Marksman_Invisible.cfg:96
-msgid ""
-"Elvish Marksman are expert in use of the bow. Their skill guarantees them a "
-"60% chance to hit enemies, even those hidden in difficult terrain. This "
-"great skill with the bow compensates for their lack of skill in melee combat "
-"and lesser speed."
-msgstr ""
-"Alvprickskyttarna är experter på bågskytte. Deras skicklighet garanterar en "
-"träffsäkerhet på 60%, även då fienden har gömt sig i svår terräng. Denna "
-"stora skicklighet med bågen kompenserar deras något mindre färdigheter i "
-"närstrid och lägre hastighet."
-
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
 msgid "Elvish Ranger Invisible"
 msgstr "Osynlig alvjägare"
@@ -3760,22 +3610,6 @@ msgstr ""
 "inte upptäckas av fienden medan de är i skogen förrän de har gått till "
 "attack, eller då fienden står alldeles inpå dem. Osynliga trupper är "
 "särskilt svåra att träffa."
-
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:80
-msgid "female^Elvish Ranger"
-msgstr "Alvjägare"
-
-#: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:96
-msgid ""
-"Elvish Rangers are quick and powerful. Skilled in both short- and long-range "
-"combat, Rangers are truly all-round fighters. The best of all woodsmen, "
-"Rangers cannot be seen by enemies while they are in forest, unless they have "
-"just made an attack, or there are enemies adjacent to them."
-msgstr ""
-"Alvjägarna är både starka och snabba. Då de är skickliga i både när- och "
-"distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan de "
-"inte upptäckas av fienden medan de är i skogen förrän de har gått till "
-"attack, eller då fienden står alldeles inpå dem."
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:4
 msgid "Elvish Scout"
@@ -3806,17 +3640,103 @@ msgstr ""
 "Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender. Osynliga "
 "trupper är mycket svåra att träffa."
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:83
-msgid "female^Elvish Sharpshooter"
-msgstr "Osynlig alvskarpskytt"
+#~ msgid "sword"
+#~ msgstr "svärd"
 
-#: Legend_of_Wesmere/units/Elvish_Sharpshooter_Invisible.cfg:98
-msgid ""
-"The most elite archers in all of Wesnoth, Elvish Sharpshooters are "
-"incredibly accurate, guaranteed a 60% chance to hit when attacking, even "
-"when firing very quickly. Sharpshooters are excellent at picking off "
-"entrenched enemies."
-msgstr ""
-"Som den allra skickligaste eliten i Wesnoth är alvskarpskyttarna otroligt "
-"träffsäkra, och träffar i 60% av fallen även då de skjuter mycket snabbt. "
-"Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender."
+#~ msgid "blade"
+#~ msgstr "hugg"
+
+#~ msgid "bow"
+#~ msgstr "pilbåge"
+
+#~ msgid "pierce"
+#~ msgstr "stick"
+
+#~ msgid "staff"
+#~ msgstr "stav"
+
+#~ msgid "impact"
+#~ msgstr "kross"
+
+#~ msgid "fire breath"
+#~ msgstr "spruta eld"
+
+#~ msgid "fire"
+#~ msgstr "eld"
+
+#~ msgid "female^Elvish Avenger Invisible"
+#~ msgstr "Osynlig alvhämnare"
+
+#~ msgid ""
+#~ "Elvish Avengers are extremely skillful and extremely quick, powerful in "
+#~ "all forms of combat. Avengers are considered the best of all woodsmen in "
+#~ "Wesnoth, and can ambush their foes in the forest, because they cannot be "
+#~ "seen in the woods until just after they have attacked."
+#~ msgstr ""
+#~ "Alvjägarna är extremt snabba och skickliga i alla stridsformer. De anses "
+#~ "som de absolut bästa skogsmännen i Wesnoth. De kan enkelt ligga i bakhåll "
+#~ "för sina fiender i skogen, då de inte kan upptäckas förrän efter de "
+#~ "anfallit."
+
+#~ msgid "female^Elvish Archer"
+#~ msgstr "Alvbågskytt"
+
+#~ msgid ""
+#~ "Elvish Archers are trained from youth in archery, and so skilled in long-"
+#~ "range combat. Able to fire many arrows quickly and accurately, these "
+#~ "Archers make up a large portion of the Elvish military."
+#~ msgstr ""
+#~ "Alvernas bågskyttar börjar träna redan i unga år, och uppnår stor "
+#~ "skicklighet i distansstrid. Dessa träffsäkra och snabba bågskyttar utgör "
+#~ "en stor del av alvernas militär."
+
+#~ msgid "fireball"
+#~ msgstr "eldklot"
+
+#~ msgid "longbow"
+#~ msgstr "långbåge"
+
+#~ msgid "marksman"
+#~ msgstr "prickskytt"
+
+#~ msgid "female^Elvish Marksman"
+#~ msgstr "Alvprickskytt"
+
+#~ msgid ""
+#~ "Elvish Marksman are expert in use of the bow. Their skill guarantees them "
+#~ "a 60% chance to hit enemies, even those hidden in difficult terrain. This "
+#~ "great skill with the bow compensates for their lack of skill in melee "
+#~ "combat and lesser speed."
+#~ msgstr ""
+#~ "Alvprickskyttarna är experter på bågskytte. Deras skicklighet garanterar "
+#~ "en träffsäkerhet på 60%, även då fienden har gömt sig i svår terräng. "
+#~ "Denna stora skicklighet med bågen kompenserar deras något mindre "
+#~ "färdigheter i närstrid och lägre hastighet."
+
+#~ msgid "female^Elvish Ranger"
+#~ msgstr "Alvjägare"
+
+#~ msgid ""
+#~ "Elvish Rangers are quick and powerful. Skilled in both short- and long-"
+#~ "range combat, Rangers are truly all-round fighters. The best of all "
+#~ "woodsmen, Rangers cannot be seen by enemies while they are in forest, "
+#~ "unless they have just made an attack, or there are enemies adjacent to "
+#~ "them."
+#~ msgstr ""
+#~ "Alvjägarna är både starka och snabba. Då de är skickliga i både när- och "
+#~ "distansstrid, så är de mycket användbara. Som de bästa av skogsmän kan de "
+#~ "inte upptäckas av fienden medan de är i skogen förrän de har gått till "
+#~ "attack, eller då fienden står alldeles inpå dem."
+
+#~ msgid "female^Elvish Sharpshooter"
+#~ msgstr "Osynlig alvskarpskytt"
+
+#~ msgid ""
+#~ "The most elite archers in all of Wesnoth, Elvish Sharpshooters are "
+#~ "incredibly accurate, guaranteed a 60% chance to hit when attacking, even "
+#~ "when firing very quickly. Sharpshooters are excellent at picking off "
+#~ "entrenched enemies."
+#~ msgstr ""
+#~ "Som den allra skickligaste eliten i Wesnoth är alvskarpskyttarna otroligt "
+#~ "träffsäkra, och träffar i 60% av fallen även då de skjuter mycket snabbt. "
+#~ "Skarpskyttarna är utmärkta till att rensa ut svåråtkomliga fiender."
