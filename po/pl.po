@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-07 15:27+0200\n"
+"POT-Creation-Date: 2006-03-13 13:46+0100\n"
 "PO-Revision-Date: 2005-10-18 14:49+0100\n"
 "Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
@@ -135,21 +135,21 @@ msgstr ""
 "Po odnowieniu starożytnego przymierza, nasi bohaterzy pośpieszyli na pole "
 "bitwy..."
 
+#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:113
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:87
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:157
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:100
+#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:109
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:144
 #: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:119
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:172
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:157
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:120
-#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:133
-#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:109
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:177
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:202
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:87
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:110
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:100
-#: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:113
-#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:162
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:372
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:202
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:162
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:110
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:133
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:177
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:172
 msgid "Defeat all enemies"
 msgstr "Pokonaj wszystkich wrogów"
 
@@ -157,80 +157,80 @@ msgstr "Pokonaj wszystkich wrogów"
 msgid "Last for 25 turns"
 msgstr "Przetrwaj 25 kolejek"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:148
-#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:92
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:128
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:176
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:241
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:165
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:157
-#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:124
-#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:141
-#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:113
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:181
-#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:136
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:227
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:210
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:116
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:91
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:92
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:114
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:104
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:117
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:164
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:91
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:165
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:104
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:90
-#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:166
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:241
+#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:113
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:92
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:148
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:128
+#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:124
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:227
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:376
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:210
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:166
+#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:92
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:114
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:141
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:181
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:164
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:157
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:176
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:116
+#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:136
 msgid "Death of Kalenz"
 msgstr "Śmierć Kalenza"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:152
-#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:96
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:132
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:180
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:245
-#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:128
-#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:117
-#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:140
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:231
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:214
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:120
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:121
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:168
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:245
+#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:117
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:152
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:132
+#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:128
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:231
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:380
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:214
+#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:96
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:168
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:180
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:120
+#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:140
 msgid "Death of Landar"
 msgstr "Śmierć Landara"
 
-#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:100
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:136
-#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:148
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:218
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:124
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:172
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:388
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:218
+#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:100
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:172
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:124
+#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:148
 msgid "Death of Olurf"
 msgstr "Śmierć Olurfa"
 
-#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:104
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:136
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:184
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:169
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:161
-#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:132
-#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:145
-#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:121
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:185
-#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:144
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:222
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:95
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:96
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:118
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:108
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:125
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:176
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:95
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:169
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:108
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:94
-#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:170
+#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:121
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:96
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:136
+#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:132
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:384
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:222
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:170
+#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:104
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:118
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:145
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:185
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:176
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:161
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:184
+#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:144
 msgid "Death of Cleodil"
 msgstr "Śmierć Cleodila"
 
@@ -286,24 +286,24 @@ msgstr "T"
 msgid "More horses!! Run, let's get out of here!"
 msgstr "Więcej koni!! Uciekajcie, musimy się stąd wydostać!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:512
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:533
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:512
 msgid "I have failed!"
 msgstr "Zawiodłem!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:526
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:547
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:526
 msgid "No! It's hopeless without Landar!"
 msgstr "Nie! Bez Landara nie mamy nadziei!"
 
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:541
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:576
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:541
 msgid "We cannot continue without Olurf!"
 msgstr "Nie możemy kontynuować bez Olurfa!"
 
-#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:293
-#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:555
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:590
+#: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:555
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:293
 msgid "Not Cleodil!"
 msgstr "Nie, tylko nie Cleodil!"
 
@@ -344,28 +344,28 @@ msgstr ""
 msgid "Defeat enemy leaders"
 msgstr "Pokonaj wrogich przywódców"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:160
-#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:112
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:140
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:192
-#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:249
-#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:181
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:165
-#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:140
-#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:125
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:189
-#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:152
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:235
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:128
-#: Legend_of_Wesmere/scenarios/River_crossing.cfg:100
-#: Legend_of_Wesmere/scenarios/End_of_War.cfg:100
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:122
-#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:116
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:129
-#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:180
+#: Legend_of_Wesmere/scenarios/River_crossing.cfg:100
+#: Legend_of_Wesmere/scenarios/Save_the_King.cfg:181
+#: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:116
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:98
-#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:174
+#: Legend_of_Wesmere/scenarios/The_King_must_die.cfg:249
+#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:125
+#: Legend_of_Wesmere/scenarios/End_of_War.cfg:100
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:160
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:140
+#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:140
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:235
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:396
+#: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:174
+#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:112
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:122
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:189
+#: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:180
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:165
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:192
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:128
+#: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:152
 msgid "Turns run out"
 msgstr "Koniec czasu"
 
@@ -415,15 +415,15 @@ msgstr ""
 "Jak na elfa, myślisz zupełnie jak krasnolud! Zdaje się, że ciebie lubię "
 "(tak, jak można lubić elfa)."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:200
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:189
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:200
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:256
 msgid "I have failed! This is the end..."
 msgstr "Zawiodłem! To już koniec..."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:215
-#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:204
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:335
+#: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:204
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:215
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:271
 msgid "No!! It is hopeless without Landar..."
 msgstr "Nie!! Nie ma nadziei bez Landara..."
@@ -540,8 +540,8 @@ msgstr "Landarze, nie!! ..."
 msgid "Olurf, stay with me! "
 msgstr "Olurfie, zostań ze mną!"
 
-#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:219
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:258
+#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:219
 msgid ""
 "We still have not made it to safety. With all these creatures around we "
 "might as well give up!..."
@@ -549,12 +549,12 @@ msgstr ""
 "Wciąż nie dotarliśmy do bezpiecznego miejsca. Z tymi wszystkimi potworami "
 "wkoło nas możemy równie dobrze się już poddać!..."
 
-#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:230
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:293
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:310
-#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:269
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:428
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:257
+#: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:269
+#: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:230
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:428
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:293
 msgid "Cleodil, no!!"
 msgstr "Cleodil, nie!"
 
@@ -741,8 +741,8 @@ msgstr ""
 "północnych elfów wciąż opierającej się orkowym najeźdzcom. Szybko "
 "zadecydowano wysłać im pomoc. Ale zima zaskoczyła naszych bohaterów.."
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:188
 #: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:150
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:188
 msgid "Death of Uradredia"
 msgstr " Śmierć Uradredia"
 
@@ -765,13 +765,13 @@ msgstr ""
 msgid "The North Elves still stand. Prepare for battle!"
 msgstr "Północne elfy wciąż walczą. Przygotujcie się do bitwy!"
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:255
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:215
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:255
 msgid "All is lost!..."
 msgstr "Wszystko stracone!..."
 
-#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:270
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:230
+#: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:270
 msgid "No!! Not Landar! ..."
 msgstr "Nie!! Nie Landar! ..."
 
@@ -930,8 +930,8 @@ msgstr "Mamy szansę ich wykończyć..."
 msgid "We are too late! We will freeze in this cold..."
 msgstr "Spóźniliśmy się! Zamarzniemy w tym chłodzie..."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:240
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:229
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:240
 msgid "Aargh! I'm dying!"
 msgstr "Aargh! Ginę!"
 
@@ -939,8 +939,8 @@ msgstr "Aargh! Ginę!"
 msgid "Victory is ours. "
 msgstr "Zwycięstwo należy do nas."
 
-#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:338
 #: Legend_of_Wesmere/scenarios/Costly_Revenge.cfg:254
+#: Legend_of_Wesmere/scenarios/Saurian_Treasury.cfg:338
 msgid "No!! Not Cleodil!"
 msgstr "Nie!! Nie Cleodil!"
 
@@ -1167,8 +1167,8 @@ msgstr ""
 "Więcej przygód nie czekało już na Kalenza i jego oddział i dotarli do "
 "Wesmere w samą porę..."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:156
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:112
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:156
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:392
 msgid "Death of  Galtrid"
 msgstr "Śmierć Galtrida"
@@ -1379,19 +1379,19 @@ msgstr ""
 "odmówił przyłączenia się do Landara. Dodatkowo, mówi się, że ci spośród "
 "żołnierzy, którzy pozostali ci wierni, zmierzają w tamtą stronę."
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:210
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:253
-#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:279
-#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:318
-#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:185
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:145
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:158
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:210
+#: Legend_of_Wesmere/scenarios/The_uprooting.cfg:318
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:228
+#: Legend_of_Wesmere/scenarios/Northern_Battle.cfg:279
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:253
+#: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:185
 msgid "I...I think I'm done, it's all over"
 msgstr "Ja.. To już po mnie, to koniec."
 
-#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:268
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:200
+#: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:268
 msgid "Cleodil, no!"
 msgstr "Cleodilu, nie!"
 
@@ -1723,10 +1723,10 @@ msgstr ""
 msgid "No! it's all over!"
 msgstr "Nie! To koniec!"
 
-#: Legend_of_Wesmere/scenarios/Kalian.cfg:251
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:248
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:211
+#: Legend_of_Wesmere/scenarios/Kalian.cfg:251
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:254
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:248
 msgid "No! More orcs are coming, we are doomed..."
 msgstr "Nie! Więcej orków nadchodzi, to już koniec..."
 
@@ -2030,8 +2030,8 @@ msgstr ""
 "ognia, ale powiedzieliśmy o tym Haldricowi II-mu i miał coś zrobić z tym "
 "problemem."
 
-#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:235
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:186
+#: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:235
 msgid "The elves will now fall!"
 msgstr "Teraz elfy upadną!"
 
@@ -2266,8 +2266,8 @@ msgstr ""
 "nie chodzi tylko o księcia. Przed nami ciężkie czasy..."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:287
-#: Legend_of_Wesmere/scenarios/Shadows.cfg:390
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:234
+#: Legend_of_Wesmere/scenarios/Shadows.cfg:390
 msgid "No, the elves will fall!"
 msgstr "Nie, elfy upadną!"
 
@@ -3533,8 +3533,8 @@ msgstr ""
 msgid "Elvish Avenger Invisible"
 msgstr "Niewidzialny mściciel Elfów"
 
-#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:18
+#: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
 msgid "ambush"
 msgstr "zasadzka"
 
