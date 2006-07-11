@@ -1,17 +1,18 @@
 # translation of de.po to German
 # Stefan von Halenbach <vonHalenbach@users.sourceforge.net>, 2006.
+# 
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:46+0100\n"
-"PO-Revision-Date: 2006-06-20 22:51+0200\n"
+"PO-Revision-Date: 2006-07-11 11:25+0200\n"
 "Last-Translator: Stefan von Halenbach <vonHalenbach@users.sourceforge.net>\n"
-"Language-Team: Deutsch\n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10.2\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: Legend_of_Wesmere.cfg:14
@@ -2469,8 +2470,10 @@ msgid ""
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:187
+#, fuzzy
 msgid "Kill an orcish King? But he's guarded  better than  a Troll hole!"
 msgstr ""
+"Einen orkischen König töten? Aber er ist besser bewacht als ein  Trollloch"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:192
 msgid "Indeed it will be very hard, but maybe I can help you..."
@@ -2504,6 +2507,8 @@ msgstr ""
 msgid ""
 "If your book is as powerful as you say, why not use it against the orcs?"
 msgstr ""
+"Wenn dein Buc wirklich so kräftig ist wie du sagst, warum sollen wir es dann "
+"nicht gegen die Orks benutzen?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:222
 msgid ""
@@ -3221,7 +3226,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:107
 msgid ""
 "Yes, this would explain many things...I will take care of it, thank you."
-msgstr ""
+msgstr "Ja, das würde vieles erklähren... Ich werde vorsichtig sein, danke."
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:112
 msgid ""
@@ -3237,8 +3242,10 @@ msgid ""
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:122
+#, fuzzy
 msgid "I knew it! I always told you we stand alone!"
 msgstr ""
+"Ich weiss! Ich habe dir es immer erzählt, das wir hier aleine stehen würden!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:4
 msgid "The Uprooting"
@@ -3282,6 +3289,8 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:261
 msgid "They are too many. I am afraid we have no choice but to surrender!"
 msgstr ""
+"Es sind zu viele! Ich habe Angst, das wir keine Wahl haben, mit ausnahme vom "
+"aufgeben!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:266
 msgid "Elves will never surrender to these foul beasts! Who's with me?"
@@ -3329,8 +3338,11 @@ msgid ""
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:419
+#, fuzzy
 msgid "We must leave now, but we will not forget. We will return!"
 msgstr ""
+"Wir müssen jetzt gehen, aber wir werden das nicht vergessen! Wir kommen "
+"wieder!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:424
 msgid "You won't get very far! After them!"
@@ -3367,7 +3379,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:18
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
 msgid "ambush"
-msgstr ""
+msgstr "Hinterhalt"
 
 #: Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:21
 msgid ""
@@ -3380,7 +3392,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:17
 msgid "leadership"
-msgstr ""
+msgstr "Führungsqualität"
 
 #: Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:4
 msgid "Elvish High Lord Invisible"
