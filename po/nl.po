@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Wesmere\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:46+0100\n"
-"PO-Revision-Date: 2006-11-23 21:04+0100\n"
+"PO-Revision-Date: 2007-03-01 16:10+0100\n"
 "Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
 "Language-Team:  <fr@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -12,6 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.0.2\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
 
 #: Legend_of_Wesmere.cfg:14
 msgid "Legend of Wesmere"
@@ -46,7 +48,7 @@ msgid ""
 "Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
 "survival from the second orcish invasion to the times of Konrad and Delfador"
 msgstr ""
-"Beleef het verhaal van Kalenz en de elfen van Wesnoth en hun gevecht om het "
+"Beleef het verhaal van Kalenz en de elven van Wesnoth en hun gevecht om het "
 "tweede orkinvasie te overleven."
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:3
@@ -106,13 +108,12 @@ msgid "No way! Why do you say this?"
 msgstr "Dat kan niet! Waarom denkt u dat nou?"
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:82
-#, fuzzy
 msgid ""
 "Some dwarves have been found dead in our camp. Landar is extremely "
 "unfriendly with them. I think the dwarves will leave us soon."
 msgstr ""
-"Sommige dwergen werden dood gevonden in je kamp. Landar is heel erg "
-"onvriendelijk met hun. Ik denk dat Oluf niet meer heel lang met ons blijft."
+"Sommige dwergen werden dood gevonden in ons kamp. Landar is heel erg "
+"onvriendelijk tegen hun. Ik denk dat de dwergen ons snel zullen verlaten."
 
 #: Legend_of_Wesmere/scenarios/A_Warning.cfg:87
 msgid "I will try to patch things between them..."
@@ -263,7 +264,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:295
 msgid "Ok, but where are the elvish troops? We cannot hold without them!"
 msgstr ""
-"Ok, maar waara zijn de elfentroepen? We kunnen zonder hen niet stand houden!"
+"Ok, maar waara zijn de elventroepen? We kunnen zonder hen niet stand houden!"
 
 #: Legend_of_Wesmere/scenarios/Ancient_Alliance.cfg:399
 msgid "Kalenz is here!"
@@ -391,7 +392,7 @@ msgid ""
 "mentioned the orcs might attack us. We have been forced from our home and "
 "are now surrounded."
 msgstr ""
-"Het zijn die elfen nog. Misschien had je gelijk toen je zei dat de Orks ons "
+"Het zijn die elven nog. Misschien had je gelijk toen je zei dat de Orks ons "
 "misschien aan gingen vallen. We werden geforceerd om onze thuis te verlaten "
 "en nu zijn we omringd."
 
@@ -462,7 +463,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:334
 msgid "Join with the elves? I think you're pushing it boy!"
-msgstr "Met elfen meegaan? Ik denk dat je iets te ver gaat, joh!"
+msgstr "Met elven meegaan? Ik denk dat je iets te ver gaat, joh!"
 
 #: Legend_of_Wesmere/scenarios/Aquaintance_in_Need.cfg:340
 msgid ""
@@ -510,7 +511,7 @@ msgstr "Strijd om het Boek."
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:20
 msgid "Quickening their pace, Elves and Dwarves raced towards the smoke...."
-msgstr "Hun pas versnellend, Elfen en Dwergen reden richting de rook...."
+msgstr "Hun pas versnellend, Elven en Dwergen reden richting de rook...."
 
 #: Legend_of_Wesmere/scenarios/Battle_of_the_book.cfg:88
 msgid "Defeat the drakes and trolls"
@@ -607,7 +608,7 @@ msgstr "Kalenz steekt de rivier over"
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:207
 msgid "Yes! Its those elves who stole our gold! The bounty is mine!"
 msgstr ""
-"Ja! Het zijn die Elfen die ons goud gestolen hebben! Die premie is voor mij!"
+"Ja! Het zijn die Elven die ons goud gestolen hebben! Die premie is voor mij!"
 
 #: Legend_of_Wesmere/scenarios/Bounty_hunters.cfg:212
 msgid "You must be joking! The bounty is all mine."
@@ -742,7 +743,7 @@ msgid ""
 "with our heroes..."
 msgstr ""
 "Nu de Orks een burgeroorlog hebben, kon Kalenz terug naar zijn vaderland. "
-"Ondertussen zijn er berichten aangekomen over een Elfen bolwerk in het "
+"Ondertussen zijn er berichten aangekomen over een Elven bolwerk in het "
 "noorden dat de Orks nog weerstaat. Er werd snel beslist om hulp naar hun te "
 "sturen. Maar nu werd het winter..."
 
@@ -756,8 +757,8 @@ msgid ""
 "I see troops coming from the south! Surely our army has beaten these elves "
 "and humans and will now help us get rid of these remaining elves!"
 msgstr ""
-"Ik zie tropen uit het zuiden komen! Natuurlijk heeft ons leger die Elfen en "
-"Mensen verslagen en zal ons nu helpen van deze laatste Elfen af te komen!"
+"Ik zie tropen uit het zuiden komen! Natuurlijk heeft ons leger die Elven en "
+"Mensen verslagen en zal ons nu helpen van deze laatste Elven af te komen!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:238
 msgid ""
@@ -767,7 +768,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:243
 msgid "The North Elves still stand. Prepare for battle!"
 msgstr ""
-"De Noordelijke Elfen houden nog steeds stand! Maak je klaar voor de strijd!"
+"De Noordelijke Elven houden nog steeds stand! Maak je klaar voor de strijd!"
 
 #: Legend_of_Wesmere/scenarios/Cliffs_of_Thoria.cfg:215
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:255
@@ -780,9 +781,8 @@ msgid "No!! Not Landar! ..."
 msgstr "Nee!! Niet Landar!..."
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:282
-#, fuzzy
 msgid "We still have not broken the siege! We will freeze in this cold..."
-msgstr "We hebben de belegering niet kunnen breken! Nu is alles over..."
+msgstr "We hebben de belegering nog niet kunnen breken! Nu is alles over..."
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:308
 msgid ""
@@ -795,7 +795,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:317
 msgid "The North Elves are now free! "
-msgstr "De Noordelijke Elfen zijn nu vrij!"
+msgstr "De Noordelijke Elven zijn nu vrij!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:322
 msgid "Thanks to you Kalenz, son of Kliada. Our troops are at your command. "
@@ -803,7 +803,7 @@ msgstr "Dank u, Kalenz, Zoon van Kliada. Onze soldaten zijn nu onder je bevel."
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:335
 msgid "The elves are attacking us! Reserves!"
-msgstr "De Elfen vallen ons aan! Versterking!"
+msgstr "De Elven vallen ons aan! Versterking!"
 
 #: Legend_of_Wesmere/scenarios/Breaking_the_siege.cfg:344
 msgid "Zhuk"
@@ -967,7 +967,7 @@ msgstr ""
 "Mijn Heer. Dit is Olurf. Hij en zijn mannen hebben met ons meegevochten en "
 "ze hebben een plaats hier goed verdiendt, nu we moeten beslissen wat er nu "
 "gaat gebeuren. Wat er nu gaat gebeuren is belangrijk voor heel Wesnoth: "
-"Elfen, Dwergen en mensen."
+"Elven, Dwergen en mensen."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:81
 msgid ""
@@ -998,7 +998,7 @@ msgid ""
 "follow your suggestion. Besides, we are not as skilled in fighting outside "
 "our forests."
 msgstr ""
-"We hebben veel elfen verloren in dit oorlog, en ik ben bang dat het niet "
+"We hebben veel elven verloren in dit oorlog, en ik ben bang dat het niet "
 "verstandig is en ook niet voorzichtig om je raad te volgen. Trouwens, we "
 "zijn niet heel goed in gevecht eenmaal we uit het bos zijn gekomen."
 
@@ -1055,7 +1055,7 @@ msgid ""
 msgstr ""
 "Het zal niet makkelijk zijn. Hij leeft in de bergen van Toria en hij helpt "
 "nooit iemand zonder niets ervoor terug te krijgen. Thoria is heel "
-"gevaarlijk, zeker voor elfen. Zelfs dwergen en trollen blijven op afstand."
+"gevaarlijk, zeker voor elven. Zelfs dwergen en trollen blijven op afstand."
 
 #: Legend_of_Wesmere/scenarios/Council_of_hard_choices.cfg:169
 msgid ""
@@ -1089,7 +1089,7 @@ msgid ""
 msgstr ""
 "Nu het vroeger machtige en rijke Sauriaanse rijk vernietigd is, zullen de "
 "Saurianen nooit meer een georganizeerde staat kunnen hebben in Wesnoth. Maar "
-"Elfen hadden nog steeds problemen met zichzelf."
+"Elven hadden nog steeds problemen met zichzelf."
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:87
 msgid ""
@@ -1125,7 +1125,7 @@ msgid ""
 "behalf of the Elves."
 msgstr ""
 "Het hof is niet blind voor deze effecten. Maar je kunt niet beslissen namens "
-"de Elfen."
+"de Elven."
 
 #: Legend_of_Wesmere/scenarios/Council_ruling.cfg:102
 msgid "If it weren't for Kalenz and his men, none of us would be here today. "
@@ -1228,7 +1228,7 @@ msgid ""
 "The elves have beat us and they did not use da stone. Maybe they don't have "
 "it? King will not like bad news!"
 msgstr ""
-"De elfen hebben ons verslagen maar ze hebben de steen niet gebruikt. "
+"De elven hebben ons verslagen maar ze hebben de steen niet gebruikt. "
 "Misschien hebben ze hem ook helemaal niet! De Koning zal woedend zijn!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:644
@@ -1260,7 +1260,7 @@ msgid ""
 "carying elves!"
 msgstr ""
 "Geen groot leger! Dit zijn dwergen met zware bijlen, niet zomaar "
-"boogdragende elfen!"
+"boogdragende elven!"
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:755
 msgid ""
@@ -1276,7 +1276,7 @@ msgid ""
 "should join us in a few days."
 msgstr ""
 "Ze vechten niet voor goud, maar voor plezier. Ik had er veel meer kunnen "
-"vinden als mijn mannen niet erover hadden gehad om elfen te helpen! En "
+"vinden als mijn mannen niet erover hadden gehad om elven te helpen! En "
 "trouwens, mijn clan komt over een paar dagen."
 
 #: Legend_of_Wesmere/scenarios/Elves_last_stand.cfg:765
@@ -1321,7 +1321,6 @@ msgid "Elvish Assasins"
 msgstr "Elfse moordenaars"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:20
-#, fuzzy
 msgid ""
 "After the council's decision, Kalenz and Cleodil retired in the North ..."
 msgstr ""
@@ -1377,7 +1376,7 @@ msgid ""
 "join Landar. Plus, word is that some troops still loyal to you are heading "
 "there."
 msgstr ""
-"Je moet proberen Uraredia en de noordelijke Elfen te bereiken. Hij weigert "
+"Je moet proberen Uraredia en de noordelijke Elven te bereiken. Hij weigert "
 "ook om zich bij Landar te voegen. Plus, er wordt gezegd dat sommige aan jou "
 "loyale troepen daar heen gaan."
 
@@ -1403,7 +1402,7 @@ msgstr "O nee! We zitten tussen twee vuren!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Assasins.cfg:294
 msgid "Now we must head to the North Elves!"
-msgstr "We moeten naar de Noordelijke Elfen toe vluchten!"
+msgstr "We moeten naar de Noordelijke Elven toe vluchten!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:4
 msgid "The Elvish Treasury"
@@ -1505,7 +1504,6 @@ msgstr ""
 "hebben wij echt nodig!"
 
 #: Legend_of_Wesmere/scenarios/Elvish_Treasury.cfg:322
-#, fuzzy
 msgid ""
 "We will hunt down those Saurians and get back our gold. And, we must make "
 "them pay for messing with us! Let's hurry. "
@@ -1522,7 +1520,6 @@ msgid "End of War"
 msgstr "Einde van de Oorlog"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:20
-#, fuzzy
 msgid ""
 "They say the battle at the North Elves was the beginning of the end for "
 "Landar's revolt. The truth is that  the  civil war went on for many more "
@@ -1531,7 +1528,7 @@ msgid ""
 "assembling all the army he could, Kalenz marched against his old friend and "
 "now mortal enemy, Landar,  in the forest of Gitamoth... "
 msgstr ""
-"Ze zeggen dat de strijd in het noorden was het begin van het einde van "
+"Ze zeggen dat de strijd in het noorden het begin van het einde was van "
 "Landars opstand. De waarheid is dat de burgeroorlog door ging voor enkele "
 "jaren, beide partijen hebben niet de kracht om een beslissende slag te "
 "slaan... Maar uiteindelijk Landars manieren joegen zijn volgelingen weg. "
@@ -1544,7 +1541,7 @@ msgstr "Versla Landar"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:141
 msgid "Landar, let's not spill any more elvish blood.  Give up. We can help!"
-msgstr "Landar, verspil niet meer Elfen bloed. Geef op. We kunnen helpen!"
+msgstr "Landar, verspil niet meer Elven bloed. Geef op. We kunnen helpen!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:146
 msgid "No! It all ends here!"
@@ -1584,7 +1581,7 @@ msgid ""
 msgstr ""
 "Het was je eigen fout niet. Misschien was het de betovering van Aquagar, of "
 "misschien was het de prijs die we moesten betalen. Rust in vrede, mijn "
-"vriend. Rust in vrede, Landar, Held van de Elfen!"
+"vriend. Rust in vrede, Landar, Held van de Elven!"
 
 #: Legend_of_Wesmere/scenarios/End_of_War.cfg:206
 msgid "No! Not Cleodil!"
@@ -1595,16 +1592,15 @@ msgid "Epilogue"
 msgstr "Epiloog"
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:13
-#, fuzzy
 msgid "After the end of Asheviere, Kalenz returned to his home in the North."
-msgstr "Na de dood van Asheviere keerde Landar huiswaarts naar het noorden."
+msgstr "Na de dood van Asheviere keerde Kalenz huiswaarts naar het noorden."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:17
 msgid ""
 "Some say he lived happily there; The elves still recognized them as their "
 "leader."
 msgstr ""
-"Sommigen menen dat hij daar vrolijk leefde. De elfen beschouwden hem nog "
+"Sommigen menen dat hij daar vrolijk leefde. De elven beschouwden hem nog "
 "steeds als hun leider."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:21
@@ -1612,7 +1608,7 @@ msgid ""
 "The plains and forests of Wesnoth would see many more seasons for Elves and "
 "humans."
 msgstr ""
-"De vlaktes en wouden van Wesnoth zouden nog veel meer seizoenen voor elfen "
+"De vlaktes en wouden van Wesnoth zouden nog veel meer seizoenen voor elven "
 "en mensen zien."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:25
@@ -1620,7 +1616,6 @@ msgid "Kalenz's story  lived from mouth to mouth for the coming generations."
 msgstr "Het verhaal van Kalenz werd generaties na generaties doorverteld."
 
 #: Legend_of_Wesmere/scenarios/Epilogue.cfg:29
-#, fuzzy
 msgid ""
 "But even many years later many said he was still roaming the forests of "
 "Wesnoth, making sure they will be forever home to the elves of Wesnoth, for "
@@ -1628,9 +1623,9 @@ msgid ""
 "nothing in the world of  Wesnoth comes for free."
 msgstr ""
 "Maar nog veel jaren later, velen meenden dat hij nog steeds in de wouden "
-"leefde, om zeker te maken dat Wesnoth voor altijd het vaderland van de elfen "
-"van Wesnoth zal zijn, omdat elfen, net zoals de mensen, het feit te leren "
-"dat vrijheid niet gratis is met veel bloed hebben betaald."
+"leefde, om zeker te maken dat Wesnoth voor altijd het vaderland van de elven "
+"van Wesnoth zal zijn, omdat elven, net zoals de mensen, het feit te leren "
+"dat vrijheid niet gratis is als ze met veel bloed is betaald."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:3
 msgid "First Epilogue"
@@ -1656,7 +1651,7 @@ msgid ""
 "Lord of the Elves. North and South Elves swore allegiance to him."
 msgstr ""
 "Omdat Landar het Elfse Raad had verwijderd werd Kalenz door iedereen als "
-"Heerser van de Elfen gekozen: door de elfen van het Noorden en door die van "
+"Heerser van de Elven gekozen: door de elven van het Noorden en door die van "
 "het Zuiden."
 
 #: Legend_of_Wesmere/scenarios/Epilogue1.cfg:25
@@ -1673,7 +1668,7 @@ msgid ""
 "He knew that the orcish threat was not over, as the elves had lost a golden "
 "opportunity to end the threat and that trouble would  return..."
 msgstr ""
-"Maar voor hij dat deed, maakte hij zeker dat de elfen georganiseerd zijn "
+"Maar voor hij dat deed, maakte hij zeker dat de elven georganiseerd zijn "
 "voor als de Orks opnieuw aanvallen. Want het Orkse gevaar bestond nog steeds."
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:5
@@ -1698,7 +1693,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:205
 msgid "More elves! Attack them and leave no one alive!"
-msgstr "Meer Elfen! Val ze aan en zorg dat er geen een overleefd!"
+msgstr "Meer Elven! Val ze aan en zorg dat er geen een overleefd!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:210
 msgid ""
@@ -1759,7 +1754,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:361
 msgid "Ha! More of us are coming! You elves are lost!"
-msgstr "Er komen nog meer van ons aan! Jullie Elfen zijn verloren!"
+msgstr "Er komen nog meer van ons aan! Jullie Elven zijn verloren!"
 
 #: Legend_of_Wesmere/scenarios/Hero's_Return.cfg:372
 msgid "Athburil"
@@ -1833,7 +1828,7 @@ msgid ""
 "likes here! Take a hike!"
 msgstr ""
 "Droom er niet eens van, elf! Dit is dwergse land. En we willen niet dat er "
-"elfen doorgaan. Ga maar ergens anders wandelen!"
+"elven doorgaan. Ga maar ergens anders wandelen!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:157
 msgid ""
@@ -1892,7 +1887,7 @@ msgstr "Die getikte trollen hebben voet gezeten op ONS gebied! Te wapen!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:282
 msgid "These darn elves stepped on OUR land! Attack!"
-msgstr "Die stomme elfen hebben de rivier overgestoken! Aanvallen!"
+msgstr "Die stomme elven hebben de rivier overgestoken! Aanvallen!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:303
 msgid "We made it. Onwards to Wesmere!"
@@ -1900,7 +1895,7 @@ msgstr "We hebben het gedaan. Nu door naar Wesmere!"
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:308
 msgid "Crazy Elves! But at least they helped us with the trolls"
-msgstr "Stomme elfen! Tenminste hebben ze ons met de trollen geholpen."
+msgstr "Stomme elven! Tenminste hebben ze ons met de trollen geholpen."
 
 #: Legend_of_Wesmere/scenarios/Hostile_Mountains.cfg:324
 msgid "No! we need the dwarves on our side!"
@@ -1956,7 +1951,7 @@ msgstr "Nu Landar weg is is er geen hoop meer over!"
 msgid "How can this be?  Anyway, we have more surprises for you, elves!"
 msgstr ""
 "Hoe kan dat nou? Hoe dan ook, we hebben nog veel verrassingen voor jullie "
-"over, elfen!"
+"over, elven!"
 
 #: Legend_of_Wesmere/scenarios/Kalian.cfg:285
 msgid "We won! The K'alian is safe!"
@@ -2022,7 +2017,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Mountain_Lake.cfg:186
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:235
 msgid "The elves will now fall!"
-msgstr "De elfen zullen nu verloren gaan!"
+msgstr "De elven zullen nu verloren gaan!"
 
 #: Legend_of_Wesmere/scenarios/News_from_the_front.cfg:6
 msgid "News from the front"
@@ -2185,7 +2180,7 @@ msgid ""
 "border with Wesnoth. Kalenz gathered a small force and  hurried to the "
 "disputed land."
 msgstr ""
-"Op een dag kwamen er berichten waarin er sprake van was dat elfen door een "
+"Op een dag kwamen er berichten waarin er sprake van was dat elven door een "
 "mensenleger waren aangevallen aan de grens met Wesnoth. Kalenz maakte een "
 "klein leger en marcheerde naar het aangevallen land."
 
@@ -2200,7 +2195,7 @@ msgid ""
 "to confirm my words."
 msgstr ""
 "Generalen van Wesnoth! Jullie hebben weerloze elfse gebieden aangevallen. "
-"Jullie moeten onmiddellijk vertrekken. Ik ben Kalenz, Heer der Elfen. Jullie "
+"Jullie moeten onmiddellijk vertrekken. Ik ben Kalenz, Heer der Elven. Jullie "
 "kunnen het aan Delfador de Grote vragen."
 
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:137
@@ -2251,7 +2246,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:234
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:390
 msgid "No, the elves will fall!"
-msgstr "Nee! De elfen zullen verliezen!"
+msgstr "Nee! De elven zullen verliezen!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:299
 #: Legend_of_Wesmere/scenarios/Prince_of_Wesnoth.cfg:246
@@ -2271,7 +2266,7 @@ msgid ""
 msgstr ""
 "Dus jij bent het die Aquagar en zijn draken heeft verslaan. Je moet zeker "
 "Olurf zijn, en je bent al hier gekomen toen we beiden jonger waren. Maar "
-"elfen zijn nog nooit in Thoria gweest. Maar ik wist dat het geen gewone "
+"elven zijn nog nooit in Thoria gweest. Maar ik wist dat het geen gewone "
 "tijden zijn. I weet het allemaal. Ik wist het al van tevoren."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:76
@@ -2279,7 +2274,7 @@ msgid ""
 "This is Kalenz, leader of the elves. I have brought him here so he can ask "
 "for your advice and your help to deal with the orcs."
 msgstr ""
-"Dit is Kalenz, de leider van de Elfen. Ik heb hem hier gebracht zodat hij u "
+"Dit is Kalenz, de leider van de Elven. Ik heb hem hier gebracht zodat hij u "
 "om advies kan vragen om de Orks te verslaan."
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:81
@@ -2359,7 +2354,7 @@ msgid ""
 "Hmm... You seem to like king Haldric even less than elves...How do you know "
 "all these?"
 msgstr ""
-"Hmm... Zo te zien houdt u nog minder van Haldric dan van elfen... Hoe weet u "
+"Hmm... Zo te zien houdt u nog minder van Haldric dan van elven... Hoe weet u "
 "dat trouwens allemaal?"
 
 #: Legend_of_Wesmere/scenarios/Revelations.cfg:147
@@ -2605,7 +2600,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:133
 msgid "Elfs! They must not cross!"
-msgstr "Elfen! Ze mogen niet de rivier over komen!"
+msgstr "Elven! Ze mogen niet de rivier over komen!"
 
 #: Legend_of_Wesmere/scenarios/River_crossing.cfg:159
 msgid "No!"
@@ -2799,7 +2794,6 @@ msgstr ""
 "groeit!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:267
-#, fuzzy
 msgid "Invincible Black Eye Karun is dead? Quick, run for your lives!"
 msgstr "De onverslaanbare Black Eye Karun is dood? Snel, ren voor je leven!"
 
@@ -2820,7 +2814,6 @@ msgid "Victory! "
 msgstr "We hebben de overwinning behaald!"
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:355
-#, fuzzy
 msgid ""
 "Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
 "today!"
@@ -2830,7 +2823,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:361
 msgid "My King, this is Kalenz, Lord of the Elves."
-msgstr "Mijn koning, dit is Kalenz, Heer van de Elfen."
+msgstr "Mijn koning, dit is Kalenz, Heer van de Elven."
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:367
 msgid "You will be forever welcome in the court of Wesnoth."
@@ -2884,7 +2877,6 @@ msgid ""
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/Save_the_King.cfg:411
-#, fuzzy
 msgid ""
 "Friends, your words flatter me. I am not sure I am worthy of such a valuable "
 "possesion."
@@ -2940,7 +2932,7 @@ msgid ""
 "Following Ur-Thorodor's directions the elfs moved north to meet the forces "
 "of the orcs..."
 msgstr ""
-"De elfen gingen naar het noorden, Ur-Thorodor volgend waar ze tegen de Orks "
+"De elven gingen naar het noorden, Ur-Thorodor volgend waar ze tegen de Orks "
 "moesten gaan vechten..."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:157
@@ -2996,7 +2988,7 @@ msgid ""
 msgstr ""
 "Dus u bent Delfador... Ur-Thorodor heeft ons over u gepraat. Maar we dachten "
 "dat u dood was of dat in de Land van de Doden gevangen was. Ik ben Kalenz, "
-"Heer der Elfen. We zijn u duizend malen dankbaar."
+"Heer der Elven. We zijn u duizend malen dankbaar."
 
 #: Legend_of_Wesmere/scenarios/Shadows.cfg:446
 msgid ""
@@ -3145,7 +3137,6 @@ msgid "The return of trouble"
 msgstr "Onrust komt terug"
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:20
-#, fuzzy
 msgid ""
 "The period of peace was a happy one for Wesnoth. The elves and humans were "
 "able to rebuild and reorganize. Kalenz himself was able to concentrate on "
@@ -3154,13 +3145,13 @@ msgid ""
 "attacking the outskirts of elvish forests. Kalenz gathered quickly a small "
 "force. War had returned to the land of the elves."
 msgstr ""
-"Het tijd van vrede werd een vrolijke tijd in Wesnoth. De elfen en de mensen "
+"Het tijd van vrede werd een vrolijke tijd in Wesnoth. De elven en de mensen "
 "slaagden erin om alles te herbouwen en te reorganiseren. Zelfs Kalenz kon "
 "zich op zijn probleem concentreren. Misschien was hij er zelfs in geslaagd "
 "om Crelanu's toverdrank te overmeesteren als hij geen bericht had gekregen "
-"dat er een belangrijk orkse leger de noordelijke verdedigingen was aan het "
-"aanvallen. Kalenz raapte het elfse leger bijeen. Oorlog was teruggekomen op "
-"elfs gebied."
+"dat er een belangrijk ork leger de noordelijke verdedigingen aan het "
+"aanvallen was. Kalenz raapte het elvenleger bijeen. Oorlog was teruggekomen "
+"in het elvengebied."
 
 #: Legend_of_Wesmere/scenarios/The_Return_of_Trouble.cfg:218
 msgid ""
@@ -3261,7 +3252,6 @@ msgid "How do you know about the ruby of fire?"
 msgstr "Hoe weet u ervan?"
 
 #: Legend_of_Wesmere/scenarios/The_Treaty.cfg:102
-#, fuzzy
 msgid ""
 "We have learned that it can have strange effects on its owner. You need to "
 "shield its radiation by placing it in a pure gold  encasement. Maybe this is "
@@ -3324,10 +3314,10 @@ msgid ""
 "The local leadership was old and weak... This is the story of Kalenz. It is "
 "also the story of the Elves in the days of the humans in Wesnoth.     "
 msgstr ""
-"Jammer genoeg kwamen met mensen ook Orks mee. De Elfen zijn nooit blij "
+"Jammer genoeg kwamen met mensen ook Orks mee. De Elven zijn nooit blij "
 "geweest om oorlog te maken, en ze waren helemaal niet voorbereid aan wat er "
 "ging volgen. Het lokale leiderschap was oud en weerloos... Dit is de verhaal "
-"van Kalenz. Het is ook de verhaal van de Elfen in Wesnoth.     "
+"van Kalenz. Het is ook de verhaal van de Elven in Wesnoth.     "
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:246
 msgid "Look, there are many Orcs coming from all directions! To arms!"
@@ -3343,7 +3333,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:256
 msgid "Surrender or die, filthy elves!"
-msgstr "Geef je over of ga dood, stomme elfen!"
+msgstr "Geef je over of ga dood, stomme elven!"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:261
 msgid "They are too many. I am afraid we have no choice but to surrender!"
@@ -3354,7 +3344,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:266
 msgid "Elves will never surrender to these foul beasts! Who's with me?"
 msgstr ""
-"Elfen zullen zich niet overgeven aan zulke stomme beesten! Wie is met mij "
+"Elven zullen zich niet overgeven aan zulke stomme beesten! Wie is met mij "
 "eens?"
 
 #: Legend_of_Wesmere/scenarios/The_uprooting.cfg:284
@@ -3505,9 +3495,8 @@ msgid ""
 msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:3
-#, fuzzy
 msgid "Elvish Ranger Invisible"
-msgstr "Elfse boogschutter onzichtbaar"
+msgstr "Elvenboogschutter onzichtbaar"
 
 #: Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:19
 msgid ""
@@ -3520,7 +3509,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:4
 msgid "Elvish Scout"
-msgstr "Elfenverkenner"
+msgstr "Elvenverkenner"
 
 #: Legend_of_Wesmere/units/Elvish_Scout.cfg:30
 msgid ""
