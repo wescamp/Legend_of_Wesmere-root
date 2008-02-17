@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-13 13:46+0100\n"
+"POT-Creation-Date: 2007-08-12 20:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2176,18 +2176,6 @@ msgstr ""
 msgid "You won't get very far! After them!"
 msgstr ""
 
-#: ./Legend_of_Wesmere/units/Drake_Mage.cfg:67
-msgid "ice shot"
-msgstr ""
-
-#: ./Legend_of_Wesmere/units/Drake_Mage.cfg:68
-msgid "cold"
-msgstr ""
-
-#: ./Legend_of_Wesmere/units/Drake_Mage.cfg:72
-msgid "magical"
-msgstr ""
-
 #: ./Legend_of_Wesmere/units/Elvish_Archer_Invisible.cfg:4
 msgid "Elvish Archer Invisible"
 msgstr ""
@@ -2200,16 +2188,8 @@ msgstr ""
 msgid "Elvish Avenger Invisible"
 msgstr ""
 
-#: ./Legend_of_Wesmere/units/Elvish_Ranger_Invisible.cfg:18 ./Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:19
-msgid "ambush"
-msgstr ""
-
 #: ./Legend_of_Wesmere/units/Elvish_Avenger_Invisible.cfg:21
 msgid "Elvish Avengers are extremely skillful and extremely quick, powerful in all forms of combat. Avengers are considered the best of all woodsmen in Wesnoth, and can ambush their foes in the forest, because they cannot be seen in the woods until just after they have attacked. Invisible units have a vastly reduced probability of being hit."
-msgstr ""
-
-#: ./Legend_of_Wesmere/units/Elvish_Elder.cfg:17
-msgid "leadership"
 msgstr ""
 
 #: ./Legend_of_Wesmere/units/Elvish_High_Lord_Invisible.cfg:4
